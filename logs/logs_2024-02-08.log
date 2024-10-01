@@ -1,0 +1,2010 @@
+2024-02-08 06:41:00,795 - pocketoption - DEBUG - ======== New Session ========
+2024-02-08 06:41:01,207 - pocketoption - ERROR - ERR_LOADING_OLD_SESSION: [Errno 2] No such file or directory: 'C:\\Users\\brenopoubel\\Downloads\\pocketoption - Copy\\cookies.json'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\core.py", line 95, in load_cookies
+    with cookies_path.open("r") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\brenopoubel\\Downloads\\pocketoption - Copy\\cookies.json'
+2024-02-08 06:41:04,419 - pocketoption - DEBUG - Logged-In successfully!
+2024-02-08 06:41:04,419 - pocketoption - DEBUG - Cookies Saved!!
+2024-02-08 06:59:01,644 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 06:59:03,021 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 06:59:03,021 - pocketoption - DEBUG - Total time taken to perform the task: 2.69 seconds
+2024-02-08 07:00:00,297 - pocketoption - DEBUG - No change detected!!
+2024-02-08 07:01:01,452 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 07:01:02,469 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 07:01:03,360 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 07:01:04,909 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 07:01:04,941 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 07:01:04,941 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 07:01:04,941 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 07:59:01,285 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 07:59:02,664 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 07:59:02,664 - pocketoption - DEBUG - Total time taken to perform the task: 2.65 seconds
+2024-02-08 08:00:00,112 - pocketoption - DEBUG - No change detected!!
+2024-02-08 08:01:00,818 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 08:01:01,696 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 08:01:02,605 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 08:01:03,996 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 08:01:04,027 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 08:01:04,027 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 08:01:04,027 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 08:59:02,397 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 08:59:04,355 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 08:59:04,355 - pocketoption - DEBUG - Total time taken to perform the task: 3.87 seconds
+2024-02-08 09:00:01,056 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-08 09:00:01,322 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-08 09:01:01,806 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 09:01:02,793 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 09:01:03,874 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 09:01:05,894 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 09:01:05,924 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 09:01:05,924 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 09:01:05,924 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 09:59:01,582 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 09:59:02,927 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 09:59:02,927 - pocketoption - DEBUG - Total time taken to perform the task: 2.85 seconds
+2024-02-08 10:00:00,353 - pocketoption - DEBUG - No change detected!!
+2024-02-08 10:01:01,366 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 10:01:02,274 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 10:01:03,120 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 10:01:04,577 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 10:01:04,624 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 10:01:04,624 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 10:01:04,624 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 10:59:03,267 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 10:59:05,474 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 10:59:05,474 - pocketoption - DEBUG - Total time taken to perform the task: 4.57 seconds
+2024-02-08 11:00:00,028 - pocketoption - DEBUG - No change detected!!
+2024-02-08 11:01:01,191 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 11:01:02,145 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 11:01:03,105 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 11:01:04,605 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 11:01:04,636 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 11:01:04,636 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 11:01:04,636 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 11:59:02,375 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 11:59:03,705 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 11:59:03,705 - pocketoption - DEBUG - Total time taken to perform the task: 2.8 seconds
+2024-02-08 12:00:00,752 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-08 12:00:01,033 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-08 12:01:01,034 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 12:01:01,958 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 12:01:02,899 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 12:01:04,401 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 12:01:04,432 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 12:01:04,432 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 12:01:04,432 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 12:59:01,648 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 12:59:02,781 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 12:59:02,781 - pocketoption - DEBUG - Total time taken to perform the task: 2.45 seconds
+2024-02-08 13:00:00,479 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-08 13:00:00,744 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-08 13:01:01,589 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 13:01:02,468 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 13:01:03,298 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 13:01:04,745 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 13:01:04,784 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 13:01:04,784 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 13:01:04,784 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 13:59:02,285 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 13:59:03,620 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 13:59:03,620 - pocketoption - DEBUG - Total time taken to perform the task: 2.76 seconds
+2024-02-08 14:00:00,674 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-08 14:00:00,924 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-08 14:01:01,967 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 14:01:02,796 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 14:01:03,629 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 14:01:05,100 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 14:01:05,256 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 14:01:05,256 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 14:01:05,256 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 14:59:02,450 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 14:59:03,639 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 14:59:03,639 - pocketoption - DEBUG - Total time taken to perform the task: 2.68 seconds
+2024-02-08 15:00:00,592 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-08 15:00:00,858 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-08 15:01:01,822 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 15:01:02,901 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 15:01:03,747 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 15:01:05,282 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 15:01:05,329 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 15:01:05,329 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 15:01:05,329 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 15:59:01,683 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 15:59:03,012 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 15:59:03,012 - pocketoption - DEBUG - Total time taken to perform the task: 2.82 seconds
+2024-02-08 16:00:00,858 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-08 16:00:01,124 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-08 16:01:01,352 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 16:01:02,243 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 16:01:03,103 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 16:01:04,529 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 16:01:04,560 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 16:01:04,560 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 16:01:04,560 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 16:59:01,483 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 16:59:02,641 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 16:59:02,641 - pocketoption - DEBUG - Total time taken to perform the task: 2.16 seconds
+2024-02-08 17:00:00,216 - pocketoption - DEBUG - No change detected!!
+2024-02-08 17:01:01,385 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 17:01:02,214 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 17:01:03,044 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 17:01:04,390 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 17:01:04,421 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 17:01:04,421 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 17:01:04,421 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 17:59:02,201 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 17:59:03,456 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 17:59:03,456 - pocketoption - DEBUG - Total time taken to perform the task: 2.6 seconds
+2024-02-08 18:00:01,480 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-08 18:00:01,731 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-08 18:01:02,105 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 18:01:02,952 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 18:01:03,748 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 18:01:05,080 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 18:01:05,112 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 18:01:05,112 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 18:01:05,112 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 18:59:01,963 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 18:59:03,105 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 18:59:03,105 - pocketoption - DEBUG - Total time taken to perform the task: 2.61 seconds
+2024-02-08 19:00:01,025 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-08 19:00:01,291 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-08 19:01:01,406 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 19:01:02,297 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 19:01:03,142 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 19:01:04,553 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 19:01:04,584 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 19:01:04,584 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 19:01:04,600 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 19:59:01,570 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 19:59:02,774 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 19:59:02,774 - pocketoption - DEBUG - Total time taken to perform the task: 2.22 seconds
+2024-02-08 20:00:01,474 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-08 20:00:01,740 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-08 20:01:01,081 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 20:01:01,957 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 20:01:02,863 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 20:01:04,272 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 20:01:04,319 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 20:01:04,319 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 20:01:04,319 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 20:59:02,310 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 20:59:03,701 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 20:59:03,717 - pocketoption - DEBUG - Total time taken to perform the task: 2.83 seconds
+2024-02-08 21:00:00,566 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-08 21:00:00,832 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-08 21:01:02,050 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 21:01:02,942 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 21:01:03,787 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 21:01:05,134 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 21:01:05,164 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 21:01:05,164 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 21:01:05,164 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 21:59:02,164 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 21:59:03,354 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 21:59:03,354 - pocketoption - DEBUG - Total time taken to perform the task: 2.63 seconds
+2024-02-08 22:00:00,632 - pocketoption - DEBUG - No change detected!!
+2024-02-08 22:01:01,955 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 22:01:02,833 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 22:01:03,678 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 22:01:05,100 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 22:01:05,132 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 22:01:05,132 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 22:01:05,132 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 22:59:02,128 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 22:59:03,256 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 22:59:03,256 - pocketoption - DEBUG - Total time taken to perform the task: 2.58 seconds
+2024-02-08 23:00:01,118 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-08 23:00:01,383 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-08 23:01:01,500 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 23:01:02,408 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 23:01:03,318 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 23:01:04,757 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 23:01:04,913 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 23:01:04,913 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 23:01:04,929 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 23:59:01,706 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 23:59:02,879 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 23:59:02,879 - pocketoption - DEBUG - Total time taken to perform the task: 2.58 seconds
+2024-02-09 00:00:00,688 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-09 00:00:00,922 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-09 00:01:01,197 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 00:01:02,042 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 00:01:02,855 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 00:01:04,233 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 00:01:04,265 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 00:01:04,265 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 00:01:04,265 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 00:59:01,993 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 00:59:03,292 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 00:59:03,292 - pocketoption - DEBUG - Total time taken to perform the task: 2.74 seconds
+2024-02-09 01:00:01,416 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-09 01:00:01,666 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-09 01:01:01,907 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 01:01:02,766 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 01:01:03,595 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 01:01:05,131 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 01:01:05,162 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 01:01:05,162 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 01:01:05,162 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 01:59:01,890 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 01:59:03,156 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 01:59:03,156 - pocketoption - DEBUG - Total time taken to perform the task: 2.69 seconds
+2024-02-09 02:00:00,847 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-09 02:00:01,097 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-09 02:01:01,519 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 02:01:02,395 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 02:01:03,286 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 02:01:04,678 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 02:01:04,709 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 02:01:04,709 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 02:01:04,709 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 02:59:01,715 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 02:59:02,903 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 02:59:02,903 - pocketoption - DEBUG - Total time taken to perform the task: 2.47 seconds
+2024-02-09 03:00:00,849 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-09 03:00:01,098 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-09 03:01:01,231 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 03:01:02,057 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 03:01:02,872 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 03:01:04,248 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 03:01:04,280 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 03:01:04,296 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 03:01:04,296 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 03:59:02,277 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 03:59:03,482 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 03:59:03,482 - pocketoption - DEBUG - Total time taken to perform the task: 2.66 seconds
+2024-02-09 04:00:00,548 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-09 04:00:00,814 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-09 04:01:02,084 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 04:01:02,962 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 04:01:03,807 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 04:01:05,230 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 04:01:05,262 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 04:01:05,277 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 04:01:05,277 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 04:59:02,116 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 04:59:03,353 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 04:59:03,353 - pocketoption - DEBUG - Total time taken to perform the task: 2.71 seconds
+2024-02-09 05:00:01,263 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-09 05:00:01,529 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-09 05:01:01,690 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 05:01:02,550 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 05:01:03,379 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 05:01:04,852 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 05:01:04,899 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 05:01:04,899 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 05:01:04,899 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 05:59:01,227 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 05:59:02,556 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 05:59:02,556 - pocketoption - DEBUG - Total time taken to perform the task: 2.36 seconds
+2024-02-09 06:00:00,570 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-09 06:00:00,820 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-09 06:01:02,082 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 06:01:02,957 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 06:01:03,755 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 06:01:05,430 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 06:01:05,461 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 06:01:05,461 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 06:01:05,461 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 06:59:01,594 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 06:59:02,799 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 06:59:02,799 - pocketoption - DEBUG - Total time taken to perform the task: 2.71 seconds
+2024-02-09 07:00:00,220 - pocketoption - DEBUG - No change detected!!
+2024-02-09 07:01:01,371 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 07:01:02,201 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 07:01:03,049 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 07:01:04,471 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 07:01:04,518 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 07:01:04,518 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 07:01:04,518 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 07:59:01,982 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 07:59:03,297 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 07:59:03,297 - pocketoption - DEBUG - Total time taken to perform the task: 2.6 seconds
+2024-02-09 08:00:01,107 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-09 08:00:01,373 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-09 08:01:01,221 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 08:01:02,083 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 08:01:02,913 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 08:01:04,337 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 08:01:04,368 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 08:01:04,368 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 08:01:04,384 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 08:59:02,331 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 08:59:03,709 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 08:59:03,709 - pocketoption - DEBUG - Total time taken to perform the task: 2.83 seconds
+2024-02-09 09:00:00,770 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-09 09:00:01,036 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-09 09:01:01,298 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 09:01:02,142 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 09:01:03,003 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 09:01:03,943 - pocketoption - DEBUG - Response: 500 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 09:01:03,943 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 500 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> 
+2024-02-09 09:01:03,943 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 09:01:03,943 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 09:59:01,659 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 09:59:02,926 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 09:59:02,926 - pocketoption - DEBUG - Total time taken to perform the task: 2.61 seconds
+2024-02-09 10:00:00,741 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-09 10:00:01,023 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-09 10:01:01,734 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 10:01:02,578 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 10:01:03,392 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 10:01:04,816 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 10:01:04,848 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 10:01:04,848 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 10:01:04,848 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 10:59:02,080 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 10:59:03,284 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 10:59:03,284 - pocketoption - DEBUG - Total time taken to perform the task: 2.64 seconds
+2024-02-09 11:00:01,275 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-09 11:00:01,604 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-09 11:01:01,709 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 11:01:02,600 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 11:01:03,413 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 11:01:04,978 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 11:01:05,009 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 11:01:05,009 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 11:01:05,009 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 11:59:01,723 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 11:59:02,943 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 11:59:02,959 - pocketoption - DEBUG - Total time taken to perform the task: 2.66 seconds
+2024-02-09 12:00:00,802 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-09 12:00:01,067 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-09 12:01:01,161 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 12:01:02,022 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 12:01:02,884 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 12:01:04,260 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 12:01:04,291 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 12:01:04,291 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 12:01:04,291 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 12:59:01,991 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 12:59:03,180 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 12:59:03,180 - pocketoption - DEBUG - Total time taken to perform the task: 2.63 seconds
+2024-02-09 13:00:00,433 - pocketoption - DEBUG - No change detected!!
+2024-02-09 13:01:02,028 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 13:01:02,968 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 13:01:03,923 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 13:01:05,753 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 13:01:05,784 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 13:01:05,784 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 13:01:05,784 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 13:59:01,547 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 13:59:02,845 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 13:59:02,845 - pocketoption - DEBUG - Total time taken to perform the task: 2.77 seconds
+2024-02-09 14:00:00,998 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-09 14:00:01,279 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-09 14:01:00,946 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 14:01:01,776 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 14:01:02,589 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 14:01:03,951 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 14:01:03,998 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 14:01:03,998 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 14:01:03,998 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 14:59:01,986 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 14:59:03,174 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 14:59:03,174 - pocketoption - DEBUG - Total time taken to perform the task: 2.5 seconds
+2024-02-09 15:00:00,755 - pocketoption - DEBUG - No change detected!!
+2024-02-09 15:01:01,986 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 15:01:02,862 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 15:01:03,676 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 15:01:05,085 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 15:01:05,116 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 15:01:05,116 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 15:01:05,116 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 15:59:02,205 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 15:59:03,503 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 15:59:03,503 - pocketoption - DEBUG - Total time taken to perform the task: 2.76 seconds
+2024-02-09 16:00:01,366 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-09 16:00:01,617 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-09 16:01:01,686 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 16:01:02,516 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 16:01:03,376 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 16:01:04,753 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 16:01:04,785 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 16:01:04,785 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 16:01:04,785 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 16:59:01,976 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 16:59:03,275 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 16:59:03,275 - pocketoption - DEBUG - Total time taken to perform the task: 2.77 seconds
+2024-02-09 17:00:01,057 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-09 17:00:01,308 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-09 17:01:01,716 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 17:01:02,593 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 17:01:03,470 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 17:01:05,080 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 17:01:05,112 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 17:01:05,127 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 17:01:05,127 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 17:59:02,001 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 17:59:03,471 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 17:59:03,471 - pocketoption - DEBUG - Total time taken to perform the task: 2.52 seconds
+2024-02-09 18:00:01,348 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-09 18:00:01,631 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-09 18:01:01,632 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 18:01:02,572 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 18:01:03,479 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 18:01:04,857 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 18:01:05,013 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 18:01:05,013 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 18:01:05,013 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 18:59:02,282 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 18:59:03,583 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 18:59:03,583 - pocketoption - DEBUG - Total time taken to perform the task: 2.66 seconds
+2024-02-09 19:00:00,897 - pocketoption - DEBUG - No change detected!!
+2024-02-09 19:01:01,716 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 19:01:02,593 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 19:01:03,486 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 19:01:05,019 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 19:01:05,050 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 19:01:05,050 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 19:01:05,050 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 19:59:01,474 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 19:59:02,695 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 19:59:02,695 - pocketoption - DEBUG - Total time taken to perform the task: 2.5 seconds
+2024-02-09 20:00:00,784 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-09 20:00:01,049 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-09 20:01:00,893 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 20:01:01,755 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 20:01:02,585 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 20:01:04,042 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 20:01:04,089 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 20:01:04,089 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 20:01:04,089 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 20:59:02,269 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 20:59:03,678 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 20:59:03,678 - pocketoption - DEBUG - Total time taken to perform the task: 2.85 seconds
+2024-02-09 21:00:00,708 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-09 21:00:00,973 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-09 21:01:00,947 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 21:01:01,870 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 21:01:02,731 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 21:01:04,155 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 21:01:04,186 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 21:01:04,186 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 21:01:04,186 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 21:59:01,609 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 21:59:02,913 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 21:59:02,913 - pocketoption - DEBUG - Total time taken to perform the task: 2.6 seconds
+2024-02-09 22:00:00,364 - pocketoption - DEBUG - No change detected!!
+2024-02-09 22:01:01,168 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 22:01:02,092 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 22:01:02,937 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 22:01:04,488 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 22:01:04,520 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 22:01:04,520 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 22:01:04,520 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 22:59:02,126 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 22:59:03,410 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 22:59:03,410 - pocketoption - DEBUG - Total time taken to perform the task: 2.74 seconds
+2024-02-09 23:00:00,675 - pocketoption - DEBUG - No change detected!!
+2024-02-09 23:01:01,506 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 23:01:02,429 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 23:01:03,244 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 23:01:04,637 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-09 23:01:04,685 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-09 23:01:04,685 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-09 23:01:04,685 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-09 23:59:02,159 - pocketoption - DEBUG - Old session worked fine.
+2024-02-09 23:59:03,491 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-09 23:59:03,507 - pocketoption - DEBUG - Total time taken to perform the task: 2.79 seconds
+2024-02-10 00:00:01,263 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-10 00:00:01,513 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-10 00:01:01,312 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 00:01:02,188 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 00:01:03,050 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 00:01:04,443 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 00:01:04,490 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 00:01:04,490 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 00:01:04,490 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 00:59:01,737 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 00:59:02,926 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 00:59:02,926 - pocketoption - DEBUG - Total time taken to perform the task: 2.24 seconds
+2024-02-10 01:00:00,789 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-10 01:00:01,039 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-10 01:01:01,151 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 01:01:02,074 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 01:01:02,924 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 01:01:04,312 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 01:01:04,359 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 01:01:04,359 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 01:01:04,359 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 01:59:01,766 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 01:59:02,971 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 01:59:02,971 - pocketoption - DEBUG - Total time taken to perform the task: 2.53 seconds
+2024-02-10 02:00:00,812 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-10 02:00:01,062 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-10 02:01:01,154 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 02:01:02,015 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 02:01:02,906 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 02:01:04,300 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 02:01:04,347 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 02:01:04,347 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 02:01:04,347 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 02:59:01,506 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 02:59:02,805 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 02:59:02,805 - pocketoption - DEBUG - Total time taken to perform the task: 2.74 seconds
+2024-02-10 03:00:00,649 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-10 03:00:00,916 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-10 03:01:01,875 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 03:01:02,766 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 03:01:03,611 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 03:01:05,071 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 03:01:05,118 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 03:01:05,118 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 03:01:05,118 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 03:59:01,484 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 03:59:02,737 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 03:59:02,737 - pocketoption - DEBUG - Total time taken to perform the task: 2.63 seconds
+2024-02-10 04:00:01,353 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-10 04:00:01,603 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-10 04:01:01,448 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 04:01:02,419 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 04:01:03,280 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 04:01:04,970 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 04:01:05,001 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 04:01:05,001 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 04:01:05,001 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 04:59:02,070 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 04:59:03,307 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 04:59:03,307 - pocketoption - DEBUG - Total time taken to perform the task: 2.52 seconds
+2024-02-10 05:00:00,803 - pocketoption - DEBUG - No change detected!!
+2024-02-10 05:01:01,695 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 05:01:02,602 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 05:01:03,463 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 05:01:04,856 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 05:01:04,903 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 05:01:04,903 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 05:01:04,903 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 05:59:01,197 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 05:59:02,527 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 05:59:02,527 - pocketoption - DEBUG - Total time taken to perform the task: 2.38 seconds
+2024-02-10 06:00:01,334 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-10 06:00:01,584 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-10 06:01:01,654 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 06:01:02,547 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 06:01:03,422 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 06:01:04,879 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 06:01:04,910 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 06:01:04,910 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 06:01:04,910 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 06:59:01,546 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 06:59:02,766 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 06:59:02,766 - pocketoption - DEBUG - Total time taken to perform the task: 2.5 seconds
+2024-02-10 07:00:00,771 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-10 07:00:01,022 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-10 07:01:00,857 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 07:01:01,718 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 07:01:02,563 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 07:01:04,112 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 07:01:04,143 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 07:01:04,143 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 07:01:04,143 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 07:59:02,044 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 07:59:03,419 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 07:59:03,419 - pocketoption - DEBUG - Total time taken to perform the task: 2.67 seconds
+2024-02-10 08:00:01,248 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-10 08:00:01,498 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-10 08:01:01,500 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 08:01:02,361 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 08:01:03,237 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 08:01:04,661 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 08:01:04,692 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 08:01:04,692 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 08:01:04,692 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 08:59:01,799 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 08:59:03,240 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 08:59:03,255 - pocketoption - DEBUG - Total time taken to perform the task: 2.74 seconds
+2024-02-10 09:00:01,321 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-10 09:00:01,586 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-10 09:01:02,008 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 09:01:02,915 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 09:01:03,823 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 09:01:05,355 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 09:01:05,402 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 09:01:05,402 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 09:01:05,402 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 09:59:01,824 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 09:59:03,046 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 09:59:03,046 - pocketoption - DEBUG - Total time taken to perform the task: 2.65 seconds
+2024-02-10 10:00:00,898 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-10 10:00:01,148 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-10 10:01:00,868 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 10:01:01,729 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 10:01:02,589 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 10:01:04,061 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 10:01:04,108 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 10:01:04,108 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 10:01:04,108 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 10:59:01,933 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 10:59:03,217 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 10:59:03,233 - pocketoption - DEBUG - Total time taken to perform the task: 2.41 seconds
+2024-02-10 11:00:01,072 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-10 11:00:01,494 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-10 11:01:01,066 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 11:01:01,926 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 11:01:02,865 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 11:01:04,353 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 11:01:04,384 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 11:01:04,384 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 11:01:04,384 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 11:59:02,455 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 11:59:04,224 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 11:59:04,224 - pocketoption - DEBUG - Total time taken to perform the task: 3.96 seconds
+2024-02-10 12:00:01,272 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-10 12:00:01,552 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-10 12:01:01,754 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 12:01:02,646 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 12:01:03,522 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 12:01:05,008 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 12:01:05,055 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 12:01:05,055 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 12:01:05,055 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 12:59:01,383 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 12:59:02,698 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 12:59:02,698 - pocketoption - DEBUG - Total time taken to perform the task: 2.61 seconds
+2024-02-10 13:00:00,987 - pocketoption - DEBUG - No change detected!!
+2024-02-10 13:01:02,075 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 13:01:02,998 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 13:01:03,874 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 13:01:05,329 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 13:01:05,501 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 13:01:05,501 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 13:01:05,501 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 13:59:01,898 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 13:59:03,198 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 13:59:03,198 - pocketoption - DEBUG - Total time taken to perform the task: 2.75 seconds
+2024-02-10 14:00:00,999 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-10 14:00:01,265 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-10 14:01:01,475 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 14:01:02,367 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 14:01:03,259 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 14:01:04,714 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 14:01:04,745 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 14:01:04,745 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 14:01:04,745 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 14:59:01,327 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 14:59:02,594 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 14:59:02,594 - pocketoption - DEBUG - Total time taken to perform the task: 2.27 seconds
+2024-02-10 15:00:00,571 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-10 15:00:00,853 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-10 15:01:01,892 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 15:01:02,847 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 15:01:03,817 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 15:01:05,242 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 15:01:05,273 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 15:01:05,273 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 15:01:05,273 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 15:59:02,184 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 15:59:03,513 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 15:59:03,513 - pocketoption - DEBUG - Total time taken to perform the task: 2.63 seconds
+2024-02-10 16:00:00,018 - pocketoption - DEBUG - No change detected!!
+2024-02-10 16:01:02,027 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 16:01:03,028 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 16:01:03,952 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 16:01:05,346 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 16:01:05,393 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 16:01:05,393 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 16:01:05,393 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 16:59:02,474 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 16:59:03,647 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 16:59:03,647 - pocketoption - DEBUG - Total time taken to perform the task: 2.69 seconds
+2024-02-10 17:00:00,057 - pocketoption - DEBUG - No change detected!!
+2024-02-10 17:01:01,186 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 17:01:02,155 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 17:01:02,999 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 17:01:04,469 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 17:01:04,516 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 17:01:04,516 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 17:01:04,516 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 17:59:01,448 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 17:59:02,606 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 17:59:02,606 - pocketoption - DEBUG - Total time taken to perform the task: 2.21 seconds
+2024-02-10 18:00:00,629 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-10 18:00:00,879 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-10 18:01:02,077 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 18:01:03,047 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 18:01:03,968 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 18:01:05,439 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 18:01:05,486 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 18:01:05,486 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 18:01:05,486 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 18:59:01,531 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 18:59:02,674 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 18:59:02,674 - pocketoption - DEBUG - Total time taken to perform the task: 2.44 seconds
+2024-02-10 19:00:00,254 - pocketoption - DEBUG - No change detected!!
+2024-02-10 19:01:02,002 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 19:01:02,879 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 19:01:03,741 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 19:01:05,148 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 19:01:05,196 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 19:01:05,196 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 19:01:05,196 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 19:59:01,109 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 19:59:02,346 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 19:59:02,346 - pocketoption - DEBUG - Total time taken to perform the task: 2.24 seconds
+2024-02-10 20:00:00,492 - pocketoption - DEBUG - No change detected!!
+2024-02-10 20:01:01,823 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 20:01:02,684 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 20:01:03,497 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 20:01:04,983 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 20:01:05,014 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 20:01:05,014 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 20:01:05,014 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 20:59:01,869 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 20:59:03,010 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 20:59:03,010 - pocketoption - DEBUG - Total time taken to perform the task: 2.67 seconds
+2024-02-10 21:00:01,033 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-10 21:00:01,283 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-10 21:01:01,507 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 21:01:02,368 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 21:01:03,180 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 21:01:04,558 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 21:01:04,589 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 21:01:04,589 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 21:01:04,589 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 21:59:02,108 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 21:59:03,296 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 21:59:03,296 - pocketoption - DEBUG - Total time taken to perform the task: 2.63 seconds
+2024-02-10 22:00:01,067 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-10 22:00:01,334 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-10 22:01:01,601 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 22:01:02,477 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 22:01:03,306 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 22:01:04,698 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 22:01:04,855 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 22:01:04,855 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 22:01:04,855 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 22:59:01,488 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 22:59:02,835 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 22:59:02,835 - pocketoption - DEBUG - Total time taken to perform the task: 2.32 seconds
+2024-02-10 23:00:00,346 - pocketoption - DEBUG - No change detected!!
+2024-02-10 23:01:00,851 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 23:01:01,728 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 23:01:02,591 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 23:01:03,982 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-10 23:01:04,029 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-10 23:01:04,029 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-10 23:01:04,029 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-10 23:59:01,443 - pocketoption - DEBUG - Old session worked fine.
+2024-02-10 23:59:02,635 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-10 23:59:02,635 - pocketoption - DEBUG - Total time taken to perform the task: 2.51 seconds
+2024-02-11 00:00:01,497 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-11 00:00:01,763 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-11 00:01:01,583 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 00:01:02,491 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 00:01:03,384 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 00:01:04,807 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 00:01:04,838 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-11 00:01:04,838 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-11 00:01:04,838 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 00:59:01,509 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 00:59:02,950 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 00:59:02,950 - pocketoption - DEBUG - Total time taken to perform the task: 2.9 seconds
+2024-02-11 01:00:00,298 - pocketoption - DEBUG - No change detected!!
+2024-02-11 01:01:00,970 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 01:01:01,816 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 01:01:02,661 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 01:01:04,039 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 01:01:04,071 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-11 01:01:04,071 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-11 01:01:04,071 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 01:59:02,434 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 01:59:03,780 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 01:59:03,780 - pocketoption - DEBUG - Total time taken to perform the task: 2.79 seconds
+2024-02-11 02:00:00,941 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-11 02:00:01,206 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-11 02:01:01,380 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 02:01:02,305 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 02:01:03,181 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 02:01:04,621 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 02:01:04,653 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-11 02:01:04,653 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-11 02:01:04,653 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 02:59:02,329 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 02:59:03,613 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 02:59:03,613 - pocketoption - DEBUG - Total time taken to perform the task: 2.72 seconds
+2024-02-11 03:00:01,429 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-11 03:00:01,694 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-11 03:01:01,641 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 03:01:02,488 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 03:01:03,379 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 03:01:04,819 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 03:01:04,850 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-11 03:01:04,850 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-11 03:01:04,850 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 03:59:02,338 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 03:59:03,576 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 03:59:03,576 - pocketoption - DEBUG - Total time taken to perform the task: 2.73 seconds
+2024-02-11 04:00:00,841 - pocketoption - DEBUG - No change detected!!
+2024-02-11 04:01:01,733 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 04:01:02,596 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 04:01:03,441 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 04:01:04,818 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 04:01:04,849 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-11 04:01:04,849 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-11 04:01:04,849 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 04:59:02,399 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 04:59:03,544 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 04:59:03,544 - pocketoption - DEBUG - Total time taken to perform the task: 2.62 seconds
+2024-02-11 05:00:00,795 - pocketoption - DEBUG - No change detected!!
+2024-02-11 05:01:01,554 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 05:01:02,415 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 05:01:03,262 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 05:01:04,701 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 05:01:04,748 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-11 05:01:04,748 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-11 05:01:04,748 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 05:59:02,152 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 05:59:03,389 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 05:59:03,389 - pocketoption - DEBUG - Total time taken to perform the task: 2.66 seconds
+2024-02-11 06:00:01,196 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-11 06:00:01,462 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-11 06:01:01,379 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 06:01:02,240 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 06:01:03,054 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 06:01:04,514 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 06:01:04,545 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-11 06:01:04,545 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-11 06:01:04,545 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 06:59:01,796 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 06:59:02,986 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 06:59:02,986 - pocketoption - DEBUG - Total time taken to perform the task: 2.68 seconds
+2024-02-11 07:00:00,672 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-11 07:00:00,953 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-11 07:01:01,522 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 07:01:02,632 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 07:01:03,478 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 07:01:04,899 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 07:01:04,930 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-11 07:01:04,930 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-11 07:01:04,930 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 07:59:02,116 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 07:59:03,541 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 07:59:03,541 - pocketoption - DEBUG - Total time taken to perform the task: 2.85 seconds
+2024-02-11 08:00:00,929 - pocketoption - DEBUG - No change detected!!
+2024-02-11 08:01:01,970 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 08:01:02,940 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 08:01:03,832 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 08:01:05,570 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 08:01:05,601 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-11 08:01:05,601 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-11 08:01:05,601 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 08:59:01,894 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 08:59:03,147 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 08:59:03,147 - pocketoption - DEBUG - Total time taken to perform the task: 2.25 seconds
+2024-02-11 09:00:00,945 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-11 09:00:01,226 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-11 09:01:00,989 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 09:01:01,832 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 09:01:02,696 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 09:01:04,120 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 09:01:04,152 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-11 09:01:04,152 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-11 09:01:04,152 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 09:59:02,431 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 09:59:03,607 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 09:59:03,607 - pocketoption - DEBUG - Total time taken to perform the task: 2.66 seconds
+2024-02-11 10:00:00,792 - pocketoption - DEBUG - No change detected!!
+2024-02-11 10:01:01,923 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 10:01:02,862 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 10:01:03,694 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 10:01:05,054 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 10:01:05,086 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-11 10:01:05,101 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-11 10:01:05,101 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 10:59:01,425 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 10:59:02,722 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 10:59:02,722 - pocketoption - DEBUG - Total time taken to perform the task: 2.3 seconds
+2024-02-11 11:00:00,269 - pocketoption - DEBUG - No change detected!!
+2024-02-11 11:01:01,617 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 11:01:02,587 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 11:01:03,431 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 11:01:04,795 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 11:01:04,826 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-11 11:01:04,842 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-11 11:01:04,842 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 11:59:01,568 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 11:59:02,944 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 11:59:02,944 - pocketoption - DEBUG - Total time taken to perform the task: 2.38 seconds
+2024-02-11 12:00:00,935 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-11 12:00:01,278 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-11 12:01:01,582 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 12:01:02,489 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 12:01:03,412 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 12:01:04,836 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 12:01:04,867 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-11 12:01:04,867 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-11 12:01:04,867 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 12:59:01,350 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 12:59:02,524 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 12:59:02,524 - pocketoption - DEBUG - Total time taken to perform the task: 2.42 seconds
+2024-02-11 13:00:00,119 - pocketoption - DEBUG - No change detected!!
+2024-02-11 13:01:01,623 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 13:01:02,469 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 13:01:03,330 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 13:01:04,659 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 13:01:04,690 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-11 13:01:04,690 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-11 13:01:04,690 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 13:59:01,663 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 13:59:02,871 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 13:59:02,871 - pocketoption - DEBUG - Total time taken to perform the task: 2.71 seconds
+2024-02-11 14:00:00,112 - pocketoption - DEBUG - No change detected!!
+2024-02-11 14:01:01,396 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 14:01:02,304 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 14:01:03,151 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 14:01:04,746 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 14:01:04,790 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-11 14:01:04,790 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-11 14:01:04,790 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 14:59:02,439 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 14:59:03,786 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 14:59:03,786 - pocketoption - DEBUG - Total time taken to perform the task: 2.8 seconds
+2024-02-11 15:00:00,627 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-11 15:00:00,877 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-11 15:01:01,602 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 15:01:02,495 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 15:01:03,370 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 15:01:04,874 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 15:01:04,921 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-11 15:01:04,937 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-11 15:01:04,937 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 15:59:02,229 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 15:59:03,436 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 15:59:03,436 - pocketoption - DEBUG - Total time taken to perform the task: 2.64 seconds
+2024-02-11 16:00:00,965 - pocketoption - DEBUG - No change detected!!
+2024-02-11 16:01:01,162 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 16:01:02,005 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 16:01:02,833 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 16:01:04,256 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 16:01:04,307 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-11 16:01:04,307 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-11 16:01:04,328 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 16:59:01,859 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 16:59:03,063 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 16:59:03,063 - pocketoption - DEBUG - Total time taken to perform the task: 2.65 seconds
+2024-02-11 17:00:00,520 - pocketoption - DEBUG - No change detected!!
+2024-02-11 17:01:01,546 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:01:02,454 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 17:01:03,330 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 17:01:04,846 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-11 17:01:04,877 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'vNBGA2P6JnwRTP6Feesfi96rAV8WwgqGZ0vZk2as', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-11 17:01:04,877 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-11 17:01:04,877 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 17:59:01,485 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 17:59:05,277 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 17:59:05,402 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:05,402 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:05,402 - pocketoption - DEBUG - Total time taken to perform the task: 5.33 seconds
+2024-02-11 17:59:07,322 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 17:59:10,629 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 17:59:10,629 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:10,629 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:10,629 - pocketoption - DEBUG - Total time taken to perform the task: 4.22 seconds
+2024-02-11 17:59:12,450 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 17:59:15,695 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 17:59:15,706 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:15,706 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:15,710 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-02-11 17:59:17,577 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 17:59:20,822 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 17:59:20,828 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:20,828 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:20,828 - pocketoption - DEBUG - Total time taken to perform the task: 4.11 seconds
+2024-02-11 17:59:22,647 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 17:59:25,839 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 17:59:25,839 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:25,839 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:25,839 - pocketoption - DEBUG - Total time taken to perform the task: 4.01 seconds
+2024-02-11 17:59:27,682 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 17:59:30,880 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 17:59:30,880 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:30,880 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:30,880 - pocketoption - DEBUG - Total time taken to perform the task: 4.03 seconds
+2024-02-11 17:59:32,723 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 17:59:35,950 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 17:59:35,954 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:35,954 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:35,954 - pocketoption - DEBUG - Total time taken to perform the task: 4.06 seconds
+2024-02-11 17:59:37,746 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 17:59:41,021 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 17:59:41,021 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:41,021 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:41,021 - pocketoption - DEBUG - Total time taken to perform the task: 4.06 seconds
+2024-02-11 17:59:42,826 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 17:59:46,087 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 17:59:46,103 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:46,103 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:46,103 - pocketoption - DEBUG - Total time taken to perform the task: 4.08 seconds
+2024-02-11 17:59:47,975 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 17:59:51,216 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 17:59:51,216 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:51,216 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:51,216 - pocketoption - DEBUG - Total time taken to perform the task: 4.1 seconds
+2024-02-11 17:59:53,071 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 17:59:56,360 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 17:59:56,365 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:56,365 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 17:59:56,370 - pocketoption - DEBUG - Total time taken to perform the task: 4.14 seconds
+2024-02-11 17:59:58,200 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:00:01,412 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:00:01,412 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:01,428 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:01,428 - pocketoption - DEBUG - Total time taken to perform the task: 4.04 seconds
+2024-02-11 18:00:03,249 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:00:06,558 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:00:06,558 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:06,558 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:06,558 - pocketoption - DEBUG - Total time taken to perform the task: 4.12 seconds
+2024-02-11 18:00:08,374 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:00:11,729 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:00:11,729 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:11,729 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:11,729 - pocketoption - DEBUG - Total time taken to perform the task: 4.17 seconds
+2024-02-11 18:00:13,553 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:00:16,830 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:00:16,833 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:16,833 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:16,833 - pocketoption - DEBUG - Total time taken to perform the task: 4.09 seconds
+2024-02-11 18:00:18,637 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:00:21,907 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:00:21,907 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:21,907 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:21,907 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-02-11 18:00:23,681 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:00:26,925 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:00:26,925 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:26,940 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:26,940 - pocketoption - DEBUG - Total time taken to perform the task: 4.04 seconds
+2024-02-11 18:00:28,762 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:00:31,944 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:00:31,944 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:31,959 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:31,959 - pocketoption - DEBUG - Total time taken to perform the task: 4.01 seconds
+2024-02-11 18:00:33,781 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:00:36,966 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:00:36,966 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:36,982 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:36,982 - pocketoption - DEBUG - Total time taken to perform the task: 4.01 seconds
+2024-02-11 18:00:38,812 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:00:42,059 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:00:42,059 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:42,076 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:42,076 - pocketoption - DEBUG - Total time taken to perform the task: 4.09 seconds
+2024-02-11 18:00:43,891 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:00:47,155 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:00:47,155 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:47,171 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:47,171 - pocketoption - DEBUG - Total time taken to perform the task: 4.09 seconds
+2024-02-11 18:00:49,054 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:00:52,295 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:00:52,295 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:52,295 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:52,295 - pocketoption - DEBUG - Total time taken to perform the task: 4.11 seconds
+2024-02-11 18:00:54,159 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:00:57,455 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:00:57,471 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:57,471 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:00:57,471 - pocketoption - DEBUG - Total time taken to perform the task: 4.17 seconds
+2024-02-11 18:00:59,309 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:01:02,530 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:01:02,530 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:01:02,530 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:01:02,545 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-02-11 18:01:04,128 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:01:04,128 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:01:04,128 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:01:04,128 - pocketoption - DEBUG - Balance -> None -> Not enough for Withdrawal
+2024-02-11 18:01:04,128 - pocketoption - DEBUG - Bonus -> None -> Not enough for Withdrawal
+2024-02-11 18:59:01,509 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:59:05,250 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:59:05,250 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:05,266 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:05,266 - pocketoption - DEBUG - Total time taken to perform the task: 5.1 seconds
+2024-02-11 18:59:07,082 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:59:10,417 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:59:10,417 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:10,417 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:10,432 - pocketoption - DEBUG - Total time taken to perform the task: 4.18 seconds
+2024-02-11 18:59:12,278 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:59:15,518 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:59:15,518 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:15,518 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:15,518 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-02-11 18:59:17,381 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:59:20,763 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:59:20,763 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:20,763 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:20,763 - pocketoption - DEBUG - Total time taken to perform the task: 4.23 seconds
+2024-02-11 18:59:22,609 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:59:26,022 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:59:26,022 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:26,037 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:26,037 - pocketoption - DEBUG - Total time taken to perform the task: 4.26 seconds
+2024-02-11 18:59:27,870 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:59:31,219 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:59:31,219 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:31,235 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:31,235 - pocketoption - DEBUG - Total time taken to perform the task: 4.2 seconds
+2024-02-11 18:59:33,051 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:59:36,414 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:59:36,414 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:36,414 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:36,414 - pocketoption - DEBUG - Total time taken to perform the task: 4.18 seconds
+2024-02-11 18:59:38,248 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:59:41,550 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:59:41,550 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:41,565 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:41,565 - pocketoption - DEBUG - Total time taken to perform the task: 4.13 seconds
+2024-02-11 18:59:43,429 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:59:46,729 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:59:46,745 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:46,745 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:46,745 - pocketoption - DEBUG - Total time taken to perform the task: 4.16 seconds
+2024-02-11 18:59:48,580 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:59:51,833 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:59:51,833 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:51,833 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:51,833 - pocketoption - DEBUG - Total time taken to perform the task: 4.08 seconds
+2024-02-11 18:59:53,650 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 18:59:56,967 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 18:59:56,982 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:56,982 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 18:59:56,982 - pocketoption - DEBUG - Total time taken to perform the task: 4.15 seconds
+2024-02-11 18:59:58,784 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 19:00:02,255 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 19:00:02,255 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:02,270 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:02,270 - pocketoption - DEBUG - Total time taken to perform the task: 4.29 seconds
+2024-02-11 19:00:04,134 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 19:00:07,435 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 19:00:07,435 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:07,435 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:07,435 - pocketoption - DEBUG - Total time taken to perform the task: 4.16 seconds
+2024-02-11 19:00:09,269 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 19:00:12,631 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 19:00:12,647 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:12,647 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:12,647 - pocketoption - DEBUG - Total time taken to perform the task: 4.21 seconds
+2024-02-11 19:00:14,488 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 19:00:17,789 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 19:00:17,789 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:17,804 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:17,805 - pocketoption - DEBUG - Total time taken to perform the task: 4.17 seconds
+2024-02-11 19:00:19,667 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 19:00:22,953 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 19:00:22,953 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:22,953 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:22,953 - pocketoption - DEBUG - Total time taken to perform the task: 4.13 seconds
+2024-02-11 19:00:24,791 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 19:00:28,103 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 19:00:28,103 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:28,103 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:28,118 - pocketoption - DEBUG - Total time taken to perform the task: 4.15 seconds
+2024-02-11 19:00:29,949 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 19:00:33,282 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 19:00:33,282 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:33,298 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:33,298 - pocketoption - DEBUG - Total time taken to perform the task: 4.18 seconds
+2024-02-11 19:00:35,144 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 19:00:38,415 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 19:00:38,415 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:38,415 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:38,415 - pocketoption - DEBUG - Total time taken to perform the task: 4.12 seconds
+2024-02-11 19:00:40,246 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 19:00:43,532 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 19:00:43,532 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:43,532 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:43,532 - pocketoption - DEBUG - Total time taken to perform the task: 4.12 seconds
+2024-02-11 19:00:45,425 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 19:00:48,744 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 19:00:48,744 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:48,744 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:48,744 - pocketoption - DEBUG - Total time taken to perform the task: 4.2 seconds
+2024-02-11 19:00:50,637 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 19:00:53,925 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 19:00:53,925 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:53,925 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:53,925 - pocketoption - DEBUG - Total time taken to perform the task: 4.16 seconds
+2024-02-11 19:00:55,754 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 19:00:59,090 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 19:00:59,090 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:59,090 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:00:59,090 - pocketoption - DEBUG - Total time taken to perform the task: 4.15 seconds
+2024-02-11 19:01:00,983 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 19:01:04,378 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 19:01:04,378 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:01:04,378 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:01:04,378 - pocketoption - DEBUG - Total time taken to perform the task: 4.27 seconds
+2024-02-11 19:01:04,800 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: division by zero
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\Downloads\pocketoption - Copy\main.py", line 152, in process_statistics
+    registrations_avg = int((registrations/visitors)*100)
+                             ~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+2024-02-11 19:01:04,800 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:01:04,800 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:01:04,800 - pocketoption - DEBUG - Balance -> None -> Not enough for Withdrawal
+2024-02-11 19:01:04,816 - pocketoption - DEBUG - Bonus -> None -> Not enough for Withdrawal
+2024-02-11 19:59:01,465 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 19:59:02,731 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 19:59:02,731 - pocketoption - DEBUG - Total time taken to perform the task: 2.25 seconds
+2024-02-11 20:00:01,445 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-11 20:00:01,711 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-11 20:01:01,404 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 20:01:01,404 - pocketoption - DEBUG - Balance -> 0 -> Not enough for Withdrawal
+2024-02-11 20:01:01,420 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 20:59:01,108 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 20:59:02,328 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 20:59:02,328 - pocketoption - DEBUG - Total time taken to perform the task: 2.25 seconds
+2024-02-11 21:00:01,016 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-11 21:00:01,266 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-11 21:01:01,153 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 21:01:01,153 - pocketoption - DEBUG - Balance -> 0 -> Not enough for Withdrawal
+2024-02-11 21:01:01,153 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 21:59:02,443 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 21:59:03,834 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 21:59:03,834 - pocketoption - DEBUG - Total time taken to perform the task: 2.88 seconds
+2024-02-11 22:00:00,648 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-11 22:00:00,945 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-11 22:01:01,746 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 22:01:01,746 - pocketoption - DEBUG - Balance -> 0 -> Not enough for Withdrawal
+2024-02-11 22:01:01,746 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 22:59:02,172 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 22:59:03,473 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 22:59:03,473 - pocketoption - DEBUG - Total time taken to perform the task: 2.76 seconds
+2024-02-11 23:00:00,770 - pocketoption - DEBUG - No change detected!!
+2024-02-11 23:01:01,670 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 23:01:01,670 - pocketoption - DEBUG - Balance -> 0 -> Not enough for Withdrawal
+2024-02-11 23:01:01,670 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-11 23:59:02,369 - pocketoption - DEBUG - Old session worked fine.
+2024-02-11 23:59:03,561 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-11 23:59:03,561 - pocketoption - DEBUG - Total time taken to perform the task: 2.66 seconds
+2024-02-12 00:00:01,216 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-12 00:00:01,481 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-12 00:01:01,024 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 00:01:01,024 - pocketoption - DEBUG - Balance -> 0 -> Not enough for Withdrawal
+2024-02-12 00:01:01,024 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-12 00:59:01,744 - pocketoption - DEBUG - Old session worked fine.
+2024-02-12 00:59:03,042 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 00:59:03,042 - pocketoption - DEBUG - Total time taken to perform the task: 2.63 seconds
+2024-02-12 01:00:01,057 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-12 01:00:01,307 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-12 01:01:01,144 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 01:01:01,144 - pocketoption - DEBUG - Balance -> 0 -> Not enough for Withdrawal
+2024-02-12 01:01:01,160 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-12 01:59:02,373 - pocketoption - DEBUG - Old session worked fine.
+2024-02-12 01:59:03,515 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 01:59:03,515 - pocketoption - DEBUG - Total time taken to perform the task: 2.69 seconds
+2024-02-12 02:00:01,317 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-12 02:00:01,567 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-12 02:01:01,882 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 02:01:01,882 - pocketoption - DEBUG - Balance -> 0 -> Not enough for Withdrawal
+2024-02-12 02:01:01,882 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-12 02:59:01,128 - pocketoption - DEBUG - Old session worked fine.
+2024-02-12 02:59:02,256 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 02:59:02,256 - pocketoption - DEBUG - Total time taken to perform the task: 2.1 seconds
+2024-02-12 03:00:01,079 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-12 03:00:01,360 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-12 03:01:01,614 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 03:01:01,614 - pocketoption - DEBUG - Balance -> 10 -> Not enough for Withdrawal
+2024-02-12 03:01:01,614 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-12 03:59:01,838 - pocketoption - DEBUG - Old session worked fine.
+2024-02-12 03:59:03,312 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 03:59:03,312 - pocketoption - DEBUG - Total time taken to perform the task: 3.05 seconds
+2024-02-12 04:00:00,019 - pocketoption - DEBUG - No change detected!!
+2024-02-12 04:01:02,218 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 04:01:02,218 - pocketoption - DEBUG - Balance -> 10 -> Not enough for Withdrawal
+2024-02-12 04:01:02,218 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-12 04:59:01,736 - pocketoption - DEBUG - Old session worked fine.
+2024-02-12 04:59:03,002 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 04:59:03,002 - pocketoption - DEBUG - Total time taken to perform the task: 2.63 seconds
+2024-02-12 05:00:00,433 - pocketoption - DEBUG - No change detected!!
+2024-02-12 05:01:01,739 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 05:01:01,739 - pocketoption - DEBUG - Balance -> 10 -> Not enough for Withdrawal
+2024-02-12 05:01:01,739 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-12 05:59:02,443 - pocketoption - DEBUG - Old session worked fine.
+2024-02-12 05:59:03,617 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 05:59:03,617 - pocketoption - DEBUG - Total time taken to perform the task: 2.75 seconds
+2024-02-12 06:00:00,511 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-12 06:00:00,761 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-12 06:01:02,106 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 06:01:02,106 - pocketoption - DEBUG - Balance -> 10 -> Not enough for Withdrawal
+2024-02-12 06:01:02,106 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-12 06:59:01,573 - pocketoption - DEBUG - Old session worked fine.
+2024-02-12 06:59:02,888 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 06:59:02,888 - pocketoption - DEBUG - Total time taken to perform the task: 2.84 seconds
+2024-02-12 07:00:00,455 - pocketoption - DEBUG - No change detected!!
+2024-02-12 07:01:01,467 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 07:01:01,467 - pocketoption - DEBUG - Balance -> 10 -> Not enough for Withdrawal
+2024-02-12 07:01:01,467 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-12 07:59:02,345 - pocketoption - DEBUG - Old session worked fine.
+2024-02-12 07:59:03,612 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 07:59:03,612 - pocketoption - DEBUG - Total time taken to perform the task: 2.93 seconds
+2024-02-12 08:00:00,144 - pocketoption - DEBUG - No change detected!!
+2024-02-12 08:01:01,095 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 08:01:01,095 - pocketoption - DEBUG - Balance -> 10 -> Not enough for Withdrawal
+2024-02-12 08:01:01,095 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-12 08:59:01,747 - pocketoption - DEBUG - Old session worked fine.
+2024-02-12 08:59:02,970 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 08:59:02,970 - pocketoption - DEBUG - Total time taken to perform the task: 2.8 seconds
+2024-02-12 09:00:01,050 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-12 09:00:01,316 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-12 09:01:00,942 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 09:01:00,942 - pocketoption - DEBUG - Balance -> 10 -> Not enough for Withdrawal
+2024-02-12 09:01:00,942 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-12 09:59:02,406 - pocketoption - DEBUG - Old session worked fine.
+2024-02-12 09:59:03,611 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 09:59:03,611 - pocketoption - DEBUG - Total time taken to perform the task: 2.76 seconds
+2024-02-12 10:00:00,591 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-12 10:00:00,857 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-12 10:01:02,119 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 10:01:02,119 - pocketoption - DEBUG - Balance -> 10 -> Not enough for Withdrawal
+2024-02-12 10:01:02,119 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-12 10:59:02,221 - pocketoption - DEBUG - Old session worked fine.
+2024-02-12 10:59:03,489 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 10:59:03,489 - pocketoption - DEBUG - Total time taken to perform the task: 2.66 seconds
+2024-02-12 11:00:00,526 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-12 11:00:00,792 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-12 11:01:01,300 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 11:01:01,300 - pocketoption - DEBUG - Balance -> 10 -> Not enough for Withdrawal
+2024-02-12 11:01:01,316 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-12 11:59:01,675 - pocketoption - DEBUG - Old session worked fine.
+2024-02-12 11:59:02,921 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 11:59:02,921 - pocketoption - DEBUG - Total time taken to perform the task: 2.32 seconds
+2024-02-12 12:00:00,836 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-12 12:00:01,087 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-12 12:01:01,228 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-12 12:01:01,228 - pocketoption - DEBUG - Balance -> 10 -> Not enough for Withdrawal
+2024-02-12 12:01:01,228 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal

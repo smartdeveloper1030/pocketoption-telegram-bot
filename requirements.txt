@@ -1,0 +1,10 @@
+requests
+pathlib
+python-dotenv
+bs4
+lxml
+httpx==0.21.1
+aiogram==2.19
+tortoise-orm==0.19.0
+pyotp==2.9.0
+2captcha-python

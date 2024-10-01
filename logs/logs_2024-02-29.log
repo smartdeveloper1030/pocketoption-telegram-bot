@@ -1,0 +1,2466 @@
+2024-02-29 12:34:39,961 - pocketoption - DEBUG - ======== New Session ========
+2024-02-29 12:34:41,502 - pocketoption - DEBUG - Old session worked fine.
+2024-02-29 12:34:41,518 - pocketoption - DEBUG - Payout Last Request ID: 150798
+2024-02-29 13:02:33,593 - pocketoption - DEBUG - ======== New Session ========
+2024-02-29 13:02:35,573 - pocketoption - DEBUG - Old session worked fine.
+2024-02-29 13:02:35,583 - pocketoption - DEBUG - Payout Last Request ID: 150798
+2024-02-29 13:03:23,877 - pocketoption - DEBUG - ======== New Session ========
+2024-02-29 13:03:25,935 - pocketoption - DEBUG - Old session worked fine.
+2024-02-29 13:03:26,045 - pocketoption - DEBUG - Payout Last Request ID: 150798
+2024-02-29 13:04:45,812 - pocketoption - DEBUG - ======== New Session ========
+2024-02-29 13:04:47,990 - pocketoption - DEBUG - Old session worked fine.
+2024-02-29 13:04:48,005 - pocketoption - DEBUG - Payout Last Request ID: 150798
+2024-02-29 13:59:01,837 - pocketoption - DEBUG - Old session worked fine.
+2024-02-29 13:59:03,106 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-29 13:59:03,106 - pocketoption - DEBUG - Total time taken to perform the task: 2.8 seconds
+2024-02-29 14:00:00,999 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-29 14:00:01,280 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-29 14:01:01,542 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 14:01:02,200 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-02-29 14:01:02,200 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-29 14:01:03,030 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 14:59:02,017 - pocketoption - DEBUG - Old session worked fine.
+2024-02-29 14:59:03,348 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-29 14:59:03,348 - pocketoption - DEBUG - Total time taken to perform the task: 2.77 seconds
+2024-02-29 15:00:01,137 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-29 15:00:01,403 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-29 15:01:01,898 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 15:01:02,572 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-02-29 15:01:02,572 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-29 15:01:03,371 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 15:59:01,503 - pocketoption - DEBUG - Old session worked fine.
+2024-02-29 15:59:02,912 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-29 15:59:02,912 - pocketoption - DEBUG - Total time taken to perform the task: 2.8 seconds
+2024-02-29 16:00:00,264 - pocketoption - DEBUG - No change detected!!
+2024-02-29 16:01:01,642 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 16:01:02,299 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-02-29 16:01:02,299 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-29 16:01:03,083 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 16:59:01,876 - pocketoption - DEBUG - Old session worked fine.
+2024-02-29 16:59:03,287 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-29 16:59:03,287 - pocketoption - DEBUG - Total time taken to perform the task: 2.3 seconds
+2024-02-29 17:00:01,419 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-29 17:00:01,717 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-29 17:01:02,169 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 17:01:02,889 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-02-29 17:01:02,889 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-29 17:01:03,641 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 17:59:02,286 - pocketoption - DEBUG - Old session worked fine.
+2024-02-29 17:59:03,728 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-29 17:59:03,728 - pocketoption - DEBUG - Total time taken to perform the task: 2.82 seconds
+2024-02-29 18:00:00,520 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-29 18:00:00,786 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-29 18:01:02,133 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 18:01:02,792 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-02-29 18:01:02,792 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-29 18:01:03,624 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 18:59:01,662 - pocketoption - DEBUG - Old session worked fine.
+2024-02-29 18:59:03,101 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-29 18:59:03,101 - pocketoption - DEBUG - Total time taken to perform the task: 2.64 seconds
+2024-02-29 19:00:00,994 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-29 19:00:01,260 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-29 19:01:01,757 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 19:01:02,492 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-02-29 19:01:02,492 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-29 19:01:03,275 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 19:59:02,199 - pocketoption - DEBUG - Old session worked fine.
+2024-02-29 19:59:03,528 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-29 19:59:03,528 - pocketoption - DEBUG - Total time taken to perform the task: 2.74 seconds
+2024-02-29 20:00:00,801 - pocketoption - DEBUG - No change detected!!
+2024-02-29 20:01:02,120 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 20:01:02,808 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-02-29 20:01:02,808 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-29 20:01:03,589 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 20:59:01,816 - pocketoption - DEBUG - Old session worked fine.
+2024-02-29 20:59:03,185 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-29 20:59:03,185 - pocketoption - DEBUG - Total time taken to perform the task: 2.76 seconds
+2024-02-29 21:00:00,950 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-29 21:00:01,246 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-29 21:01:01,534 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 21:01:02,200 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-02-29 21:01:02,200 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-29 21:01:02,982 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 21:59:01,441 - pocketoption - DEBUG - Old session worked fine.
+2024-02-29 21:59:02,786 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-29 21:59:02,802 - pocketoption - DEBUG - Total time taken to perform the task: 2.77 seconds
+2024-02-29 22:00:00,791 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-29 22:00:01,041 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-29 22:01:02,332 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 22:01:03,021 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-02-29 22:01:03,021 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-29 22:01:03,787 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 22:59:01,575 - pocketoption - DEBUG - Old session worked fine.
+2024-02-29 22:59:02,796 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-29 22:59:02,796 - pocketoption - DEBUG - Total time taken to perform the task: 2.63 seconds
+2024-02-29 23:00:00,040 - pocketoption - DEBUG - No change detected!!
+2024-02-29 23:01:01,406 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 23:01:02,126 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-02-29 23:01:02,126 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-29 23:01:02,939 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-02-29 23:59:01,240 - pocketoption - DEBUG - Old session worked fine.
+2024-02-29 23:59:02,617 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-29 23:59:02,617 - pocketoption - DEBUG - Total time taken to perform the task: 2.58 seconds
+2024-03-01 00:00:00,547 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-01 00:00:00,812 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-01 00:01:01,893 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 00:01:02,550 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-01 00:01:02,550 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-03-01 00:01:03,363 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 00:59:01,894 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 00:59:03,224 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-01 00:59:03,224 - pocketoption - DEBUG - Total time taken to perform the task: 2.55 seconds
+2024-03-01 01:00:01,342 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-01 01:00:01,593 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-01 01:01:01,969 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 01:01:02,625 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-01 01:01:02,625 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-03-01 01:01:03,501 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 01:59:02,844 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 01:59:04,767 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-01 01:59:04,767 - pocketoption - DEBUG - Total time taken to perform the task: 4.32 seconds
+2024-03-01 02:00:01,039 - pocketoption - DEBUG - No change detected!!
+2024-03-01 02:01:03,037 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 02:01:03,693 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-01 02:01:03,693 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-03-01 02:01:04,585 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 02:59:02,782 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 02:59:04,629 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-01 02:59:04,629 - pocketoption - DEBUG - Total time taken to perform the task: 4.38 seconds
+2024-03-01 03:00:01,615 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-01 03:00:01,881 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-01 03:01:02,688 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 03:01:03,360 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-01 03:01:03,360 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-03-01 03:01:04,190 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 03:59:01,932 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 03:59:05,890 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 03:59:06,047 - pocketoption - DEBUG - Total time taken to perform the task: 5.59 seconds
+2024-03-01 03:59:07,800 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 03:59:11,115 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 03:59:11,115 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-03-01 03:59:12,897 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 03:59:16,184 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 03:59:16,199 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-03-01 03:59:17,938 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 03:59:21,241 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 03:59:21,257 - pocketoption - DEBUG - Total time taken to perform the task: 4.05 seconds
+2024-03-01 03:59:22,994 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 03:59:26,279 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 03:59:26,295 - pocketoption - DEBUG - Total time taken to perform the task: 4.04 seconds
+2024-03-01 03:59:28,114 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 03:59:31,415 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 03:59:31,415 - pocketoption - DEBUG - Total time taken to perform the task: 4.1 seconds
+2024-03-01 03:59:33,216 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 03:59:36,533 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 03:59:36,533 - pocketoption - DEBUG - Total time taken to perform the task: 4.09 seconds
+2024-03-01 03:59:38,349 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 03:59:41,634 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 03:59:41,634 - pocketoption - DEBUG - Total time taken to perform the task: 4.08 seconds
+2024-03-01 03:59:43,387 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 03:59:46,643 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 03:59:46,643 - pocketoption - DEBUG - Total time taken to perform the task: 3.99 seconds
+2024-03-01 03:59:48,411 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 03:59:51,791 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 03:59:51,791 - pocketoption - DEBUG - Total time taken to perform the task: 4.13 seconds
+2024-03-01 03:59:53,543 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 03:59:56,862 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 03:59:56,862 - pocketoption - DEBUG - Total time taken to perform the task: 4.09 seconds
+2024-03-01 03:59:59,179 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:00:02,462 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:00:02,477 - pocketoption - DEBUG - Total time taken to perform the task: 4.6 seconds
+2024-03-01 04:00:04,278 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:00:07,549 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:00:07,549 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-03-01 04:00:09,318 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:00:12,635 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:00:12,635 - pocketoption - DEBUG - Total time taken to perform the task: 4.05 seconds
+2024-03-01 04:00:14,388 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:00:17,659 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:00:17,659 - pocketoption - DEBUG - Total time taken to perform the task: 4.02 seconds
+2024-03-01 04:00:19,396 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:00:22,666 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:00:22,666 - pocketoption - DEBUG - Total time taken to perform the task: 4.01 seconds
+2024-03-01 04:00:24,435 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:00:27,722 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:00:27,722 - pocketoption - DEBUG - Total time taken to perform the task: 4.04 seconds
+2024-03-01 04:00:29,491 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:00:32,760 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:00:32,760 - pocketoption - DEBUG - Total time taken to perform the task: 4.02 seconds
+2024-03-01 04:00:34,576 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:00:37,910 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:00:37,910 - pocketoption - DEBUG - Total time taken to perform the task: 4.12 seconds
+2024-03-01 04:00:39,647 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:00:42,996 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:00:42,996 - pocketoption - DEBUG - Total time taken to perform the task: 4.08 seconds
+2024-03-01 04:00:44,749 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:00:48,037 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:00:48,052 - pocketoption - DEBUG - Total time taken to perform the task: 4.04 seconds
+2024-03-01 04:00:49,853 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:00:53,138 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:00:53,138 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-03-01 04:00:54,891 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:00:58,287 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:00:58,287 - pocketoption - DEBUG - Total time taken to perform the task: 4.13 seconds
+2024-03-01 04:01:00,054 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:01:01,634 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 04:01:03,277 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:01:03,293 - pocketoption - DEBUG - Total time taken to perform the task: 3.99 seconds
+2024-03-01 04:01:05,062 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:01:05,077 - pocketoption - DEBUG - Balance -> None -> Not enough for Withdrawal
+2024-03-01 04:01:05,077 - pocketoption - DEBUG - Bonus -> None -> Not enough for Withdrawal
+2024-03-01 04:01:05,860 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 04:59:03,292 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:59:07,566 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:59:07,707 - pocketoption - DEBUG - Total time taken to perform the task: 7.5 seconds
+2024-03-01 04:59:09,507 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:59:12,823 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:59:12,823 - pocketoption - DEBUG - Total time taken to perform the task: 4.12 seconds
+2024-03-01 04:59:14,608 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:59:17,941 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:59:17,941 - pocketoption - DEBUG - Total time taken to perform the task: 4.12 seconds
+2024-03-01 04:59:19,820 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:59:23,138 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:59:23,138 - pocketoption - DEBUG - Total time taken to perform the task: 4.18 seconds
+2024-03-01 04:59:24,906 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:59:28,178 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:59:28,193 - pocketoption - DEBUG - Total time taken to perform the task: 4.04 seconds
+2024-03-01 04:59:29,977 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:59:33,404 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:59:33,404 - pocketoption - DEBUG - Total time taken to perform the task: 4.21 seconds
+2024-03-01 04:59:35,220 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:59:38,599 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:59:38,599 - pocketoption - DEBUG - Total time taken to perform the task: 4.19 seconds
+2024-03-01 04:59:40,524 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:59:43,809 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:59:43,826 - pocketoption - DEBUG - Total time taken to perform the task: 4.22 seconds
+2024-03-01 04:59:45,640 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:59:48,960 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:59:48,960 - pocketoption - DEBUG - Total time taken to perform the task: 4.12 seconds
+2024-03-01 04:59:50,805 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:59:54,124 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:59:54,124 - pocketoption - DEBUG - Total time taken to perform the task: 4.15 seconds
+2024-03-01 04:59:55,876 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 04:59:59,212 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 04:59:59,212 - pocketoption - DEBUG - Total time taken to perform the task: 4.09 seconds
+2024-03-01 05:00:00,994 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:00:04,279 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:00:04,295 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-03-01 05:00:06,079 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:00:09,350 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:00:09,366 - pocketoption - DEBUG - Total time taken to perform the task: 4.02 seconds
+2024-03-01 05:00:11,118 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:00:14,466 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:00:14,466 - pocketoption - DEBUG - Total time taken to perform the task: 4.08 seconds
+2024-03-01 05:00:16,245 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:00:19,532 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:00:19,548 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-03-01 05:00:21,301 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:00:24,649 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:00:24,665 - pocketoption - DEBUG - Total time taken to perform the task: 4.1 seconds
+2024-03-01 05:00:26,448 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:00:29,751 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:00:29,751 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-03-01 05:00:31,582 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:00:35,180 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:00:35,196 - pocketoption - DEBUG - Total time taken to perform the task: 4.4 seconds
+2024-03-01 05:00:36,966 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:00:40,345 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:00:40,345 - pocketoption - DEBUG - Total time taken to perform the task: 4.13 seconds
+2024-03-01 05:00:42,113 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:00:45,445 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:00:45,445 - pocketoption - DEBUG - Total time taken to perform the task: 4.08 seconds
+2024-03-01 05:00:47,215 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:00:50,532 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:00:50,547 - pocketoption - DEBUG - Total time taken to perform the task: 4.08 seconds
+2024-03-01 05:00:52,410 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:00:55,648 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:00:55,648 - pocketoption - DEBUG - Total time taken to perform the task: 4.08 seconds
+2024-03-01 05:00:57,417 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:01:00,749 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:01:00,765 - pocketoption - DEBUG - Total time taken to perform the task: 4.1 seconds
+2024-03-01 05:01:01,923 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 05:01:05,223 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:01:05,239 - pocketoption - DEBUG - Balance -> None -> Not enough for Withdrawal
+2024-03-01 05:01:05,239 - pocketoption - DEBUG - Bonus -> None -> Not enough for Withdrawal
+2024-03-01 05:01:06,020 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 05:59:02,026 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:59:06,184 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:59:06,216 - pocketoption - DEBUG - Total time taken to perform the task: 5.57 seconds
+2024-03-01 05:59:08,001 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:59:11,428 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:59:11,428 - pocketoption - DEBUG - Total time taken to perform the task: 4.21 seconds
+2024-03-01 05:59:13,189 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:59:16,434 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:59:16,450 - pocketoption - DEBUG - Total time taken to perform the task: 4.02 seconds
+2024-03-01 05:59:18,251 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:59:21,568 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:59:21,568 - pocketoption - DEBUG - Total time taken to perform the task: 4.11 seconds
+2024-03-01 05:59:23,353 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:59:26,622 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:59:26,622 - pocketoption - DEBUG - Total time taken to perform the task: 4.05 seconds
+2024-03-01 05:59:29,330 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:59:32,617 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:59:32,617 - pocketoption - DEBUG - Total time taken to perform the task: 4.98 seconds
+2024-03-01 05:59:34,511 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:59:38,124 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:59:38,124 - pocketoption - DEBUG - Total time taken to perform the task: 4.51 seconds
+2024-03-01 05:59:39,908 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:59:43,225 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:59:43,241 - pocketoption - DEBUG - Total time taken to perform the task: 4.1 seconds
+2024-03-01 05:59:45,056 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:59:48,359 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:59:48,359 - pocketoption - DEBUG - Total time taken to perform the task: 4.1 seconds
+2024-03-01 05:59:50,126 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:59:53,475 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:59:53,475 - pocketoption - DEBUG - Total time taken to perform the task: 4.11 seconds
+2024-03-01 05:59:55,275 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 05:59:58,610 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 05:59:58,610 - pocketoption - DEBUG - Total time taken to perform the task: 4.13 seconds
+2024-03-01 06:00:00,377 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:00:03,706 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:00:03,706 - pocketoption - DEBUG - Total time taken to perform the task: 4.09 seconds
+2024-03-01 06:00:05,489 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:00:08,838 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:00:08,838 - pocketoption - DEBUG - Total time taken to perform the task: 4.13 seconds
+2024-03-01 06:00:10,607 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:00:14,080 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:00:14,080 - pocketoption - DEBUG - Total time taken to perform the task: 4.24 seconds
+2024-03-01 06:00:15,879 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:00:19,198 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:00:19,198 - pocketoption - DEBUG - Total time taken to perform the task: 4.1 seconds
+2024-03-01 06:00:20,981 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:00:24,332 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:00:24,332 - pocketoption - DEBUG - Total time taken to perform the task: 4.12 seconds
+2024-03-01 06:00:26,117 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:00:29,482 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:00:29,482 - pocketoption - DEBUG - Total time taken to perform the task: 4.13 seconds
+2024-03-01 06:00:31,329 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:00:34,880 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:00:34,896 - pocketoption - DEBUG - Total time taken to perform the task: 4.4 seconds
+2024-03-01 06:00:36,710 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:00:40,014 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:00:40,014 - pocketoption - DEBUG - Total time taken to perform the task: 4.1 seconds
+2024-03-01 06:00:41,782 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:00:45,068 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:00:45,068 - pocketoption - DEBUG - Total time taken to perform the task: 4.04 seconds
+2024-03-01 06:00:46,867 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:00:50,172 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:00:50,172 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-03-01 06:00:51,924 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:00:55,241 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:00:55,241 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-03-01 06:00:56,994 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:01:00,453 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:01:00,469 - pocketoption - DEBUG - Total time taken to perform the task: 4.23 seconds
+2024-03-01 06:01:01,735 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 06:01:05,037 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:01:05,037 - pocketoption - DEBUG - Balance -> None -> Not enough for Withdrawal
+2024-03-01 06:01:05,037 - pocketoption - DEBUG - Bonus -> None -> Not enough for Withdrawal
+2024-03-01 06:01:05,850 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 06:59:01,786 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:59:08,829 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:59:08,829 - pocketoption - DEBUG - Total time taken to perform the task: 8.37 seconds
+2024-03-01 06:59:10,676 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:59:13,946 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:59:13,946 - pocketoption - DEBUG - Total time taken to perform the task: 4.08 seconds
+2024-03-01 06:59:15,762 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:59:19,032 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:59:19,047 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-03-01 06:59:20,816 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:59:24,086 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:59:24,086 - pocketoption - DEBUG - Total time taken to perform the task: 4.02 seconds
+2024-03-01 06:59:25,840 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:59:29,079 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:59:29,094 - pocketoption - DEBUG - Total time taken to perform the task: 4.01 seconds
+2024-03-01 06:59:30,925 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:59:34,273 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:59:34,273 - pocketoption - DEBUG - Total time taken to perform the task: 4.18 seconds
+2024-03-01 06:59:36,026 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:59:39,406 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:59:39,406 - pocketoption - DEBUG - Total time taken to perform the task: 4.12 seconds
+2024-03-01 06:59:41,159 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:59:44,460 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:59:44,460 - pocketoption - DEBUG - Total time taken to perform the task: 4.05 seconds
+2024-03-01 06:59:46,275 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:59:49,563 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:59:49,563 - pocketoption - DEBUG - Total time taken to perform the task: 4.08 seconds
+2024-03-01 06:59:51,347 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:59:54,617 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:59:54,617 - pocketoption - DEBUG - Total time taken to perform the task: 4.05 seconds
+2024-03-01 06:59:56,417 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 06:59:59,705 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 06:59:59,705 - pocketoption - DEBUG - Total time taken to perform the task: 4.09 seconds
+2024-03-01 07:00:01,534 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:00:04,803 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:00:04,803 - pocketoption - DEBUG - Total time taken to perform the task: 4.08 seconds
+2024-03-01 07:00:06,588 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:00:10,190 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:00:10,190 - pocketoption - DEBUG - Total time taken to perform the task: 4.35 seconds
+2024-03-01 07:00:11,957 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:00:15,354 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:00:15,354 - pocketoption - DEBUG - Total time taken to perform the task: 4.15 seconds
+2024-03-01 07:00:17,137 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:00:20,457 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:00:20,457 - pocketoption - DEBUG - Total time taken to perform the task: 4.09 seconds
+2024-03-01 07:00:22,256 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:00:25,606 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:00:25,606 - pocketoption - DEBUG - Total time taken to perform the task: 4.12 seconds
+2024-03-01 07:00:27,374 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:00:30,709 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:00:30,709 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-03-01 07:00:32,492 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:00:35,840 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:00:35,840 - pocketoption - DEBUG - Total time taken to perform the task: 4.12 seconds
+2024-03-01 07:00:37,719 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:00:40,990 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:00:40,990 - pocketoption - DEBUG - Total time taken to perform the task: 4.13 seconds
+2024-03-01 07:00:42,727 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:00:45,997 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:00:45,997 - pocketoption - DEBUG - Total time taken to perform the task: 4.01 seconds
+2024-03-01 07:00:47,751 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:00:51,023 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:00:51,023 - pocketoption - DEBUG - Total time taken to perform the task: 4.01 seconds
+2024-03-01 07:00:52,790 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:00:56,077 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:00:56,093 - pocketoption - DEBUG - Total time taken to perform the task: 4.04 seconds
+2024-03-01 07:00:57,862 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:01:01,368 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 07:01:01,759 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:01:01,759 - pocketoption - DEBUG - Total time taken to perform the task: 4.65 seconds
+2024-03-01 07:01:04,763 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:01:04,763 - pocketoption - DEBUG - Balance -> None -> Not enough for Withdrawal
+2024-03-01 07:01:04,763 - pocketoption - DEBUG - Bonus -> None -> Not enough for Withdrawal
+2024-03-01 07:01:05,531 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 07:59:02,273 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:59:06,342 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:59:06,342 - pocketoption - DEBUG - Total time taken to perform the task: 5.45 seconds
+2024-03-01 07:59:08,096 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:59:11,602 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:59:11,618 - pocketoption - DEBUG - Total time taken to perform the task: 4.28 seconds
+2024-03-01 07:59:13,526 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:59:16,907 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:59:16,907 - pocketoption - DEBUG - Total time taken to perform the task: 4.27 seconds
+2024-03-01 07:59:18,707 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:59:22,052 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:59:22,052 - pocketoption - DEBUG - Total time taken to perform the task: 4.13 seconds
+2024-03-01 07:59:23,850 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:59:27,232 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:59:27,232 - pocketoption - DEBUG - Total time taken to perform the task: 4.18 seconds
+2024-03-01 07:59:28,970 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:59:32,289 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:59:32,289 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-03-01 07:59:34,088 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:59:37,359 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:59:37,359 - pocketoption - DEBUG - Total time taken to perform the task: 4.05 seconds
+2024-03-01 07:59:39,129 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:59:42,541 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:59:42,541 - pocketoption - DEBUG - Total time taken to perform the task: 4.18 seconds
+2024-03-01 07:59:44,324 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:59:47,659 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:59:47,659 - pocketoption - DEBUG - Total time taken to perform the task: 4.12 seconds
+2024-03-01 07:59:49,427 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:59:52,933 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:59:52,933 - pocketoption - DEBUG - Total time taken to perform the task: 4.26 seconds
+2024-03-01 07:59:54,717 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 07:59:57,990 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 07:59:57,990 - pocketoption - DEBUG - Total time taken to perform the task: 4.04 seconds
+2024-03-01 07:59:59,774 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:00:03,105 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:00:03,105 - pocketoption - DEBUG - Total time taken to perform the task: 4.08 seconds
+2024-03-01 08:00:05,389 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:00:09,116 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:00:09,116 - pocketoption - DEBUG - Total time taken to perform the task: 5.01 seconds
+2024-03-01 08:00:10,916 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:00:14,423 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:00:14,439 - pocketoption - DEBUG - Total time taken to perform the task: 4.31 seconds
+2024-03-01 08:00:16,192 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:00:20,073 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:00:20,073 - pocketoption - DEBUG - Total time taken to perform the task: 4.63 seconds
+2024-03-01 08:00:21,999 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:00:25,410 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:00:25,425 - pocketoption - DEBUG - Total time taken to perform the task: 4.33 seconds
+2024-03-01 08:00:27,179 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:00:30,654 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:00:30,654 - pocketoption - DEBUG - Total time taken to perform the task: 4.23 seconds
+2024-03-01 08:00:32,439 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:00:35,881 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:00:35,881 - pocketoption - DEBUG - Total time taken to perform the task: 4.22 seconds
+2024-03-01 08:00:37,729 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:00:41,048 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:00:41,048 - pocketoption - DEBUG - Total time taken to perform the task: 4.15 seconds
+2024-03-01 08:00:42,832 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:00:46,667 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:00:46,667 - pocketoption - DEBUG - Total time taken to perform the task: 4.6 seconds
+2024-03-01 08:00:48,498 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:00:52,068 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:00:52,068 - pocketoption - DEBUG - Total time taken to perform the task: 4.4 seconds
+2024-03-01 08:00:53,820 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:00:57,624 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:00:57,624 - pocketoption - DEBUG - Total time taken to perform the task: 4.54 seconds
+2024-03-01 08:00:59,488 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:01:01,804 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 08:01:03,336 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:01:03,352 - pocketoption - DEBUG - Total time taken to perform the task: 4.71 seconds
+2024-03-01 08:01:05,277 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:01:05,277 - pocketoption - DEBUG - Balance -> None -> Not enough for Withdrawal
+2024-03-01 08:01:05,277 - pocketoption - DEBUG - Bonus -> None -> Not enough for Withdrawal
+2024-03-01 08:01:06,123 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 08:59:01,907 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:59:06,115 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:59:06,130 - pocketoption - DEBUG - Total time taken to perform the task: 5.65 seconds
+2024-03-01 08:59:07,995 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:59:11,344 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:59:11,360 - pocketoption - DEBUG - Total time taken to perform the task: 4.21 seconds
+2024-03-01 08:59:13,160 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:59:16,554 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:59:16,554 - pocketoption - DEBUG - Total time taken to perform the task: 4.19 seconds
+2024-03-01 08:59:18,451 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:59:22,082 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:59:22,082 - pocketoption - DEBUG - Total time taken to perform the task: 4.51 seconds
+2024-03-01 08:59:23,881 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:59:27,294 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:59:27,294 - pocketoption - DEBUG - Total time taken to perform the task: 4.19 seconds
+2024-03-01 08:59:29,157 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:59:32,709 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:59:32,709 - pocketoption - DEBUG - Total time taken to perform the task: 4.4 seconds
+2024-03-01 08:59:35,007 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:59:38,531 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:59:38,531 - pocketoption - DEBUG - Total time taken to perform the task: 4.81 seconds
+2024-03-01 08:59:40,347 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:59:43,711 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:59:43,711 - pocketoption - DEBUG - Total time taken to perform the task: 4.16 seconds
+2024-03-01 08:59:45,495 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:59:48,815 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:59:48,815 - pocketoption - DEBUG - Total time taken to perform the task: 4.09 seconds
+2024-03-01 08:59:50,630 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:59:54,131 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:59:54,131 - pocketoption - DEBUG - Total time taken to perform the task: 4.3 seconds
+2024-03-01 08:59:55,992 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 08:59:59,465 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 08:59:59,465 - pocketoption - DEBUG - Total time taken to perform the task: 4.3 seconds
+2024-03-01 09:00:01,262 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:00:04,799 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:00:04,799 - pocketoption - DEBUG - Total time taken to perform the task: 4.32 seconds
+2024-03-01 09:00:06,630 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:00:10,998 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:00:10,998 - pocketoption - DEBUG - Total time taken to perform the task: 5.18 seconds
+2024-03-01 09:00:12,924 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:00:16,553 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:00:16,553 - pocketoption - DEBUG - Total time taken to perform the task: 4.54 seconds
+2024-03-01 09:00:18,387 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:00:21,766 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:00:21,766 - pocketoption - DEBUG - Total time taken to perform the task: 4.19 seconds
+2024-03-01 09:00:23,644 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:00:27,009 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:00:27,009 - pocketoption - DEBUG - Total time taken to perform the task: 4.23 seconds
+2024-03-01 09:00:28,826 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:00:32,223 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:00:32,223 - pocketoption - DEBUG - Total time taken to perform the task: 4.2 seconds
+2024-03-01 09:00:34,161 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:00:37,496 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:00:37,496 - pocketoption - DEBUG - Total time taken to perform the task: 4.26 seconds
+2024-03-01 09:00:39,265 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:00:42,583 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:00:42,583 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-03-01 09:00:44,429 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:00:47,810 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:00:47,810 - pocketoption - DEBUG - Total time taken to perform the task: 4.21 seconds
+2024-03-01 09:00:49,641 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:00:53,177 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:00:53,177 - pocketoption - DEBUG - Total time taken to perform the task: 4.35 seconds
+2024-03-01 09:00:55,070 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:00:58,452 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:00:58,452 - pocketoption - DEBUG - Total time taken to perform the task: 4.26 seconds
+2024-03-01 09:01:00,220 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:01:02,036 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 09:01:03,617 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:01:03,632 - pocketoption - DEBUG - Total time taken to perform the task: 4.18 seconds
+2024-03-01 09:01:05,479 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:01:05,479 - pocketoption - DEBUG - Balance -> None -> Not enough for Withdrawal
+2024-03-01 09:01:05,479 - pocketoption - DEBUG - Bonus -> None -> Not enough for Withdrawal
+2024-03-01 09:01:06,261 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798

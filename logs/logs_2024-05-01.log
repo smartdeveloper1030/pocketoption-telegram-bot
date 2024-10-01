@@ -1,0 +1,2016 @@
+2024-05-01 09:32:50,851 - pocketoption - DEBUG - ======== New Session ========
+2024-05-01 09:32:53,829 - pocketoption - DEBUG - Old session worked fine.
+2024-05-01 09:32:53,838 - pocketoption - DEBUG - Payout Last Request ID: 159862
+2024-05-01 09:34:17,411 - pocketoption - DEBUG - ======== New Session ========
+2024-05-01 09:34:19,506 - pocketoption - DEBUG - Old session worked fine.
+2024-05-01 09:34:19,517 - pocketoption - DEBUG - Payout Last Request ID: 159862
+2024-05-01 09:59:01,751 - pocketoption - DEBUG - Old session worked fine.
+2024-05-01 09:59:03,892 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-01 09:59:03,892 - pocketoption - DEBUG - Total time taken to perform the task: 3.42 seconds
+2024-05-01 10:00:00,889 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-01 10:00:01,311 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-01 10:01:02,300 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 10:01:02,300 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-01 10:01:03,238 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 10:59:02,663 - pocketoption - DEBUG - Old session worked fine.
+2024-05-01 10:59:04,258 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-01 10:59:04,258 - pocketoption - DEBUG - Total time taken to perform the task: 3.61 seconds
+2024-05-01 11:00:01,363 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-01 11:00:01,644 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-01 11:01:01,892 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 11:01:01,892 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-01 11:01:02,815 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 11:59:02,183 - pocketoption - DEBUG - Old session worked fine.
+2024-05-01 11:59:04,935 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-01 11:59:04,935 - pocketoption - DEBUG - Total time taken to perform the task: 4.19 seconds
+2024-05-01 12:00:00,491 - pocketoption - DEBUG - No change detected!!
+2024-05-01 12:01:02,771 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 12:01:02,771 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-01 12:01:03,771 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 12:59:01,546 - pocketoption - DEBUG - Old session worked fine.
+2024-05-01 12:59:03,953 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-01 12:59:03,953 - pocketoption - DEBUG - Total time taken to perform the task: 3.83 seconds
+2024-05-01 13:00:00,958 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-01 13:00:01,255 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-01 13:01:02,300 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 13:01:02,316 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-01 13:01:03,380 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 13:59:02,108 - pocketoption - DEBUG - Old session worked fine.
+2024-05-01 13:59:04,688 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-01 13:59:04,689 - pocketoption - DEBUG - Total time taken to perform the task: 4.05 seconds
+2024-05-01 14:00:00,664 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-01 14:00:00,931 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-01 14:01:01,585 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 14:01:01,585 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-01 14:01:02,462 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 14:59:02,544 - pocketoption - DEBUG - Old session worked fine.
+2024-05-01 14:59:04,079 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-01 14:59:04,079 - pocketoption - DEBUG - Total time taken to perform the task: 3.44 seconds
+2024-05-01 15:00:00,599 - pocketoption - DEBUG - No change detected!!
+2024-05-01 15:01:02,239 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 15:01:02,239 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-01 15:01:03,147 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 15:59:01,860 - pocketoption - DEBUG - Old session worked fine.
+2024-05-01 15:59:04,221 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-01 15:59:04,221 - pocketoption - DEBUG - Total time taken to perform the task: 3.8 seconds
+2024-05-01 16:00:01,184 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-01 16:00:01,450 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-01 16:01:01,996 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 16:01:01,996 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-01 16:01:03,027 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 16:59:01,634 - pocketoption - DEBUG - Old session worked fine.
+2024-05-01 16:59:03,729 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-01 16:59:03,729 - pocketoption - DEBUG - Total time taken to perform the task: 3.61 seconds
+2024-05-01 17:00:00,244 - pocketoption - DEBUG - No change detected!!
+2024-05-01 17:01:02,539 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 17:01:02,539 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-01 17:01:03,430 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 17:59:02,291 - pocketoption - DEBUG - Old session worked fine.
+2024-05-01 17:59:04,288 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-01 17:59:04,289 - pocketoption - DEBUG - Total time taken to perform the task: 3.52 seconds
+2024-05-01 18:00:01,258 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-01 18:00:01,525 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-01 18:01:01,546 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 18:01:01,562 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-01 18:01:02,468 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 18:59:02,436 - pocketoption - DEBUG - Old session worked fine.
+2024-05-01 18:59:04,017 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-01 18:59:04,017 - pocketoption - DEBUG - Total time taken to perform the task: 3.14 seconds
+2024-05-01 19:00:01,135 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-01 19:00:01,401 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-01 19:01:02,242 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 19:01:02,242 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-01 19:01:03,180 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 19:59:01,588 - pocketoption - DEBUG - Old session worked fine.
+2024-05-01 19:59:03,323 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-01 19:59:03,323 - pocketoption - DEBUG - Total time taken to perform the task: 3.24 seconds
+2024-05-01 20:00:00,796 - pocketoption - DEBUG - No change detected!!
+2024-05-01 20:01:02,482 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 20:01:02,498 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-01 20:01:03,388 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 20:59:01,446 - pocketoption - DEBUG - Old session worked fine.
+2024-05-01 20:59:03,274 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-01 20:59:03,274 - pocketoption - DEBUG - Total time taken to perform the task: 2.77 seconds
+2024-05-01 21:00:00,795 - pocketoption - DEBUG - No change detected!!
+2024-05-01 21:01:01,656 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 21:01:01,656 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-01 21:01:02,624 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 21:59:01,960 - pocketoption - DEBUG - Old session worked fine.
+2024-05-01 21:59:03,852 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-01 21:59:03,852 - pocketoption - DEBUG - Total time taken to perform the task: 3.15 seconds
+2024-05-01 22:00:00,545 - pocketoption - DEBUG - No change detected!!
+2024-05-01 22:01:01,970 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 22:01:01,970 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-01 22:01:02,970 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 22:59:01,463 - pocketoption - DEBUG - Old session worked fine.
+2024-05-01 22:59:03,527 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-01 22:59:03,527 - pocketoption - DEBUG - Total time taken to perform the task: 3.1 seconds
+2024-05-01 23:00:00,546 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-01 23:00:00,796 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-01 23:01:02,015 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 23:01:02,015 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-01 23:01:02,890 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-01 23:59:01,899 - pocketoption - DEBUG - Old session worked fine.
+2024-05-01 23:59:03,714 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-01 23:59:03,730 - pocketoption - DEBUG - Total time taken to perform the task: 3.69 seconds
+2024-05-02 00:00:00,882 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-02 00:00:01,147 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-02 00:01:01,628 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 00:01:01,628 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 00:01:02,565 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 00:59:01,541 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 00:59:03,589 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 00:59:03,589 - pocketoption - DEBUG - Total time taken to perform the task: 3.36 seconds
+2024-05-02 01:00:00,578 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-02 01:00:00,828 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-02 01:01:04,294 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 01:01:04,294 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 01:01:05,404 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 01:59:01,421 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 01:59:03,153 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 01:59:03,153 - pocketoption - DEBUG - Total time taken to perform the task: 2.67 seconds
+2024-05-02 02:00:00,730 - pocketoption - DEBUG - No change detected!!
+2024-05-02 02:01:02,066 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 02:01:02,066 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 02:01:02,990 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 02:59:03,983 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 02:59:06,595 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 02:59:06,610 - pocketoption - DEBUG - Total time taken to perform the task: 5.65 seconds
+2024-05-02 03:00:00,166 - pocketoption - DEBUG - No change detected!!
+2024-05-02 03:01:02,363 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 03:01:02,394 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 03:01:03,441 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 03:59:02,249 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 03:59:05,439 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 03:59:05,439 - pocketoption - DEBUG - Total time taken to perform the task: 5.25 seconds
+2024-05-02 04:00:00,078 - pocketoption - DEBUG - No change detected!!
+2024-05-02 04:01:01,633 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 04:01:01,649 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 04:01:02,621 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 04:59:03,133 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 04:59:05,260 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 04:59:05,260 - pocketoption - DEBUG - Total time taken to perform the task: 4.39 seconds
+2024-05-02 05:00:00,888 - pocketoption - DEBUG - No change detected!!
+2024-05-02 05:01:01,740 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 05:01:01,756 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 05:01:02,740 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 05:59:02,015 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 05:59:05,033 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 05:59:05,033 - pocketoption - DEBUG - Total time taken to perform the task: 4.88 seconds
+2024-05-02 06:00:00,479 - pocketoption - DEBUG - No change detected!!
+2024-05-02 06:01:02,286 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 06:01:02,302 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 06:01:03,428 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 06:59:03,805 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 06:59:06,276 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 06:59:06,276 - pocketoption - DEBUG - Total time taken to perform the task: 5.63 seconds
+2024-05-02 07:00:01,781 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-02 07:00:02,047 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-02 07:01:03,584 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 07:01:03,615 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 07:01:04,663 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 07:59:03,625 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 07:59:06,540 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 07:59:06,540 - pocketoption - DEBUG - Total time taken to perform the task: 5.61 seconds
+2024-05-02 08:00:00,235 - pocketoption - DEBUG - No change detected!!
+2024-05-02 08:01:02,568 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 08:01:02,584 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 08:01:03,775 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 08:59:04,070 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 08:59:06,449 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 08:59:06,449 - pocketoption - DEBUG - Total time taken to perform the task: 5.82 seconds
+2024-05-02 09:00:00,072 - pocketoption - DEBUG - No change detected!!
+2024-05-02 09:01:06,296 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 09:01:06,312 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 09:01:07,171 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 09:59:01,918 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 09:59:10,266 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 09:59:10,266 - pocketoption - DEBUG - Total time taken to perform the task: 10.26 seconds
+2024-05-02 10:00:01,378 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-02 10:00:01,644 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-02 10:01:02,615 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 10:01:02,631 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 10:01:03,569 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 10:59:04,123 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 10:59:07,393 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 10:59:07,409 - pocketoption - DEBUG - Total time taken to perform the task: 6.6 seconds
+2024-05-02 11:00:00,939 - pocketoption - DEBUG - No change detected!!
+2024-05-02 11:01:02,558 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 11:01:02,574 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 11:01:03,794 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 11:59:01,862 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 11:59:04,112 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 11:59:04,112 - pocketoption - DEBUG - Total time taken to perform the task: 3.78 seconds
+2024-05-02 12:00:01,385 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-02 12:00:01,652 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-02 12:01:02,452 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 12:01:02,452 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 12:01:03,468 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 12:59:02,476 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 12:59:05,291 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 12:59:05,291 - pocketoption - DEBUG - Total time taken to perform the task: 5.05 seconds
+2024-05-02 13:00:01,422 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-02 13:00:01,703 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-02 13:01:01,901 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 13:01:01,901 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 13:01:02,826 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 13:59:02,153 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 13:59:04,092 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 13:59:04,092 - pocketoption - DEBUG - Total time taken to perform the task: 3.36 seconds
+2024-05-02 14:00:00,899 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-02 14:00:01,165 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-02 14:01:02,593 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 14:01:02,593 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 14:01:03,531 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 14:59:02,393 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 14:59:05,344 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 14:59:05,344 - pocketoption - DEBUG - Total time taken to perform the task: 4.37 seconds
+2024-05-02 15:00:00,903 - pocketoption - DEBUG - No change detected!!
+2024-05-02 15:01:02,109 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 15:01:02,109 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 15:01:03,141 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 15:59:02,147 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 15:59:04,320 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 15:59:04,320 - pocketoption - DEBUG - Total time taken to perform the task: 3.64 seconds
+2024-05-02 16:00:01,438 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-02 16:00:01,704 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-02 16:01:01,755 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 16:01:01,755 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 16:01:02,692 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 16:59:04,340 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 16:59:06,656 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 16:59:06,656 - pocketoption - DEBUG - Total time taken to perform the task: 5.96 seconds
+2024-05-02 17:00:00,874 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-02 17:00:01,192 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-02 17:01:04,917 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 17:01:04,917 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 17:01:05,856 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 17:59:01,871 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 17:59:04,274 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 17:59:04,275 - pocketoption - DEBUG - Total time taken to perform the task: 3.76 seconds
+2024-05-02 18:00:01,261 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-02 18:00:01,511 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-02 18:01:01,957 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 18:01:01,972 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 18:01:02,863 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 18:59:01,802 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 18:59:03,552 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 18:59:03,552 - pocketoption - DEBUG - Total time taken to perform the task: 3.24 seconds
+2024-05-02 19:00:00,639 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-02 19:00:00,951 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-02 19:01:01,835 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 19:01:01,835 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 19:01:02,835 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 19:59:02,113 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 19:59:03,896 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 19:59:03,896 - pocketoption - DEBUG - Total time taken to perform the task: 3.14 seconds
+2024-05-02 20:00:00,896 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-02 20:00:01,162 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-02 20:01:01,779 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 20:01:01,795 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 20:01:02,732 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 20:59:02,865 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 20:59:04,396 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 20:59:04,396 - pocketoption - DEBUG - Total time taken to perform the task: 3.42 seconds
+2024-05-02 21:00:00,987 - pocketoption - DEBUG - No change detected!!
+2024-05-02 21:01:02,134 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 21:01:02,134 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 21:01:03,031 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 21:59:02,247 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 21:59:04,219 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 21:59:04,219 - pocketoption - DEBUG - Total time taken to perform the task: 3.36 seconds
+2024-05-02 22:00:01,187 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-02 22:00:01,437 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-02 22:01:02,039 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 22:01:02,054 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 22:01:02,945 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 22:59:02,337 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 22:59:04,213 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 22:59:04,213 - pocketoption - DEBUG - Total time taken to perform the task: 3.25 seconds
+2024-05-02 23:00:01,284 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-02 23:00:01,565 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-02 23:01:02,012 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 23:01:02,012 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-02 23:01:02,965 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-02 23:59:03,371 - pocketoption - DEBUG - Old session worked fine.
+2024-05-02 23:59:06,387 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-02 23:59:06,387 - pocketoption - DEBUG - Total time taken to perform the task: 6.19 seconds
+2024-05-03 00:00:01,553 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-03 00:00:01,819 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-03 00:01:03,750 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 00:01:03,797 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 00:01:04,876 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 00:59:02,032 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 00:59:03,829 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 00:59:03,844 - pocketoption - DEBUG - Total time taken to perform the task: 3.3 seconds
+2024-05-03 01:00:00,938 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-03 01:00:01,188 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-03 01:01:01,869 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 01:01:01,869 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 01:01:05,340 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 01:59:02,972 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 01:59:04,492 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 01:59:04,492 - pocketoption - DEBUG - Total time taken to perform the task: 3.74 seconds
+2024-05-03 02:00:00,924 - pocketoption - DEBUG - No change detected!!
+2024-05-03 02:01:01,473 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 02:01:01,473 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 02:01:02,474 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 02:59:04,210 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 02:59:06,509 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 02:59:06,509 - pocketoption - DEBUG - Total time taken to perform the task: 5.71 seconds
+2024-05-03 03:00:01,024 - pocketoption - DEBUG - No change detected!!
+2024-05-03 03:01:02,721 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 03:01:02,736 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 03:01:03,737 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 03:59:04,731 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 03:59:06,778 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 03:59:06,778 - pocketoption - DEBUG - Total time taken to perform the task: 5.81 seconds
+2024-05-03 04:00:01,016 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-03 04:00:01,266 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-03 04:01:01,821 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 04:01:01,821 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 04:01:03,041 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 04:59:03,817 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 04:59:06,773 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 04:59:06,773 - pocketoption - DEBUG - Total time taken to perform the task: 6.57 seconds
+2024-05-03 05:00:00,287 - pocketoption - DEBUG - No change detected!!
+2024-05-03 05:01:02,876 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 05:01:02,891 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 05:01:04,016 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 05:59:02,666 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 05:59:05,088 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 05:59:05,088 - pocketoption - DEBUG - Total time taken to perform the task: 4.27 seconds
+2024-05-03 06:00:01,270 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-03 06:00:01,568 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-03 06:01:01,650 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 06:01:01,666 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 06:01:02,713 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 06:59:01,890 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 06:59:04,173 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 06:59:04,173 - pocketoption - DEBUG - Total time taken to perform the task: 4.14 seconds
+2024-05-03 07:00:01,237 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-03 07:00:01,502 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-03 07:01:02,459 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 07:01:02,459 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 07:01:03,600 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 07:59:03,115 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 07:59:06,086 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 07:59:06,101 - pocketoption - DEBUG - Total time taken to perform the task: 5.77 seconds
+2024-05-03 08:00:00,684 - pocketoption - DEBUG - No change detected!!
+2024-05-03 08:01:02,248 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 08:01:02,264 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 08:01:03,202 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 08:59:03,238 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 08:59:05,364 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 08:59:05,364 - pocketoption - DEBUG - Total time taken to perform the task: 4.83 seconds
+2024-05-03 09:00:01,688 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-03 09:00:01,969 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-03 09:01:02,071 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 09:01:02,087 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 09:01:06,277 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 09:59:02,517 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 09:59:05,157 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 09:59:05,157 - pocketoption - DEBUG - Total time taken to perform the task: 4.25 seconds
+2024-05-03 10:00:00,727 - pocketoption - DEBUG - No change detected!!
+2024-05-03 10:01:02,002 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 10:01:02,002 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 10:01:02,893 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 10:59:02,081 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 10:59:04,255 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 10:59:04,255 - pocketoption - DEBUG - Total time taken to perform the task: 3.63 seconds
+2024-05-03 11:00:00,729 - pocketoption - DEBUG - No change detected!!
+2024-05-03 11:01:02,224 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 11:01:02,224 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 11:01:03,553 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 11:59:02,648 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 11:59:05,290 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 11:59:05,290 - pocketoption - DEBUG - Total time taken to perform the task: 4.74 seconds
+2024-05-03 12:00:00,784 - pocketoption - DEBUG - No change detected!!
+2024-05-03 12:01:01,364 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 12:01:01,380 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 12:01:02,396 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 12:59:04,229 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 12:59:07,075 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 12:59:07,075 - pocketoption - DEBUG - Total time taken to perform the task: 6.18 seconds
+2024-05-03 13:00:01,376 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-03 13:00:01,673 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-03 13:01:02,396 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 13:01:02,396 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 13:01:03,505 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 13:59:01,684 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 13:59:03,965 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 13:59:03,965 - pocketoption - DEBUG - Total time taken to perform the task: 3.68 seconds
+2024-05-03 14:00:01,000 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-03 14:00:01,296 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-03 14:01:01,482 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 14:01:01,482 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 14:01:02,420 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 14:59:02,324 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 14:59:03,871 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 14:59:03,871 - pocketoption - DEBUG - Total time taken to perform the task: 3.79 seconds
+2024-05-03 15:00:00,770 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-03 15:00:01,020 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-03 15:01:02,182 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 15:01:02,182 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 15:01:03,136 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 15:59:02,138 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 15:59:04,188 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 15:59:04,188 - pocketoption - DEBUG - Total time taken to perform the task: 3.41 seconds
+2024-05-03 16:00:00,667 - pocketoption - DEBUG - No change detected!!
+2024-05-03 16:01:02,234 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 16:01:02,234 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 16:01:03,236 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 16:59:02,445 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 16:59:04,806 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 16:59:04,821 - pocketoption - DEBUG - Total time taken to perform the task: 3.83 seconds
+2024-05-03 17:00:00,299 - pocketoption - DEBUG - No change detected!!
+2024-05-03 17:01:02,180 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 17:01:02,196 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 17:01:03,243 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 17:59:03,563 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 17:59:05,927 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 17:59:05,927 - pocketoption - DEBUG - Total time taken to perform the task: 5.9 seconds
+2024-05-03 18:00:00,815 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-03 18:00:01,049 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-03 18:01:01,497 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 18:01:01,512 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 18:01:02,389 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 18:59:01,411 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 18:59:02,881 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 18:59:02,881 - pocketoption - DEBUG - Total time taken to perform the task: 2.66 seconds
+2024-05-03 19:00:00,814 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-03 19:00:01,080 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-03 19:01:01,450 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 19:01:01,450 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 19:01:02,387 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 19:59:01,556 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 19:59:02,998 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 19:59:02,998 - pocketoption - DEBUG - Total time taken to perform the task: 2.96 seconds
+2024-05-03 20:00:01,096 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-03 20:00:01,346 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-03 20:01:02,244 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 20:01:02,260 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 20:01:03,138 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 20:59:02,543 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 20:59:04,248 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 20:59:04,248 - pocketoption - DEBUG - Total time taken to perform the task: 3.64 seconds
+2024-05-03 21:00:00,678 - pocketoption - DEBUG - No change detected!!
+2024-05-03 21:01:01,546 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 21:01:01,546 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 21:01:02,483 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 21:59:01,796 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 21:59:03,627 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 21:59:03,627 - pocketoption - DEBUG - Total time taken to perform the task: 3.03 seconds
+2024-05-03 22:00:00,545 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-03 22:00:00,810 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-03 22:01:02,023 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 22:01:02,040 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 22:01:02,915 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 22:59:02,111 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 22:59:04,161 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 22:59:04,161 - pocketoption - DEBUG - Total time taken to perform the task: 3.49 seconds
+2024-05-03 23:00:01,221 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-03 23:00:01,580 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-03 23:01:01,933 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 23:01:01,949 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-03 23:01:02,949 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-03 23:59:01,930 - pocketoption - DEBUG - Old session worked fine.
+2024-05-03 23:59:03,665 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-03 23:59:03,665 - pocketoption - DEBUG - Total time taken to perform the task: 3.13 seconds
+2024-05-04 00:00:00,589 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-04 00:00:00,839 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-04 00:01:01,658 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 00:01:01,658 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 00:01:02,613 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 00:59:01,916 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 00:59:03,495 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 00:59:03,495 - pocketoption - DEBUG - Total time taken to perform the task: 3.34 seconds
+2024-05-04 01:00:00,497 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-04 01:00:00,747 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-04 01:01:02,250 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 01:01:02,250 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 01:01:03,172 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 01:59:03,569 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 01:59:05,353 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 01:59:05,353 - pocketoption - DEBUG - Total time taken to perform the task: 4.44 seconds
+2024-05-04 02:00:00,813 - pocketoption - DEBUG - No change detected!!
+2024-05-04 02:01:05,132 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 02:01:05,132 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 02:01:05,991 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 02:59:04,888 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 02:59:07,045 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 02:59:07,045 - pocketoption - DEBUG - Total time taken to perform the task: 6.38 seconds
+2024-05-04 03:00:00,412 - pocketoption - DEBUG - No change detected!!
+2024-05-04 03:01:02,655 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 03:01:02,670 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 03:01:03,641 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 03:59:03,936 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 03:59:06,423 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 03:59:06,423 - pocketoption - DEBUG - Total time taken to perform the task: 5.5 seconds
+2024-05-04 04:00:00,836 - pocketoption - DEBUG - No change detected!!
+2024-05-04 04:01:02,590 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 04:01:02,653 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 04:01:03,747 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 04:59:03,752 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 04:59:06,753 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 04:59:06,753 - pocketoption - DEBUG - Total time taken to perform the task: 6.08 seconds
+2024-05-04 05:00:00,295 - pocketoption - DEBUG - No change detected!!
+2024-05-04 05:01:03,197 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 05:01:03,213 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 05:01:04,291 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 05:59:02,057 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 05:59:04,089 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 05:59:04,089 - pocketoption - DEBUG - Total time taken to perform the task: 4.03 seconds
+2024-05-04 06:00:00,613 - pocketoption - DEBUG - No change detected!!
+2024-05-04 06:01:01,754 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 06:01:01,769 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 06:01:02,832 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 06:59:03,079 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 06:59:05,611 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 06:59:05,628 - pocketoption - DEBUG - Total time taken to perform the task: 4.75 seconds
+2024-05-04 07:00:00,851 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-04 07:00:01,117 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-04 07:01:02,651 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 07:01:02,667 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 07:01:03,714 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 07:59:03,297 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 07:59:05,987 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 07:59:05,987 - pocketoption - DEBUG - Total time taken to perform the task: 5.57 seconds
+2024-05-04 08:00:00,344 - pocketoption - DEBUG - No change detected!!
+2024-05-04 08:01:02,894 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 08:01:02,910 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 08:01:04,129 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 08:59:03,519 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 08:59:06,240 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 08:59:06,256 - pocketoption - DEBUG - Total time taken to perform the task: 6.07 seconds
+2024-05-04 09:00:00,601 - pocketoption - DEBUG - No change detected!!
+2024-05-04 09:01:02,133 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 09:01:02,165 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 09:01:03,150 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 09:59:04,004 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 09:59:06,019 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 09:59:06,019 - pocketoption - DEBUG - Total time taken to perform the task: 5.05 seconds
+2024-05-04 10:00:01,221 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-04 10:00:01,471 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-04 10:01:06,144 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 10:01:06,144 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 10:01:06,990 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 10:59:02,886 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 10:59:05,294 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 10:59:05,294 - pocketoption - DEBUG - Total time taken to perform the task: 4.33 seconds
+2024-05-04 11:00:00,723 - pocketoption - DEBUG - No change detected!!
+2024-05-04 11:01:02,529 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 11:01:02,545 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 11:01:03,436 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 11:59:01,939 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 11:59:04,362 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 11:59:04,362 - pocketoption - DEBUG - Total time taken to perform the task: 3.8 seconds
+2024-05-04 12:00:01,465 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-04 12:00:01,825 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-04 12:01:01,801 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 12:01:01,801 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 12:01:02,740 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 12:59:03,391 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 12:59:05,512 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 12:59:05,512 - pocketoption - DEBUG - Total time taken to perform the task: 5.42 seconds
+2024-05-04 13:00:01,735 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-04 13:00:02,016 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-04 13:01:02,630 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 13:01:02,645 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 13:01:03,786 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 13:59:01,728 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 13:59:03,699 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 13:59:03,699 - pocketoption - DEBUG - Total time taken to perform the task: 3.47 seconds
+2024-05-04 14:00:00,640 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-04 14:00:00,889 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-04 14:01:01,673 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 14:01:01,688 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 14:01:02,642 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 14:59:01,500 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 14:59:03,063 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 14:59:03,063 - pocketoption - DEBUG - Total time taken to perform the task: 3.03 seconds
+2024-05-04 15:00:00,424 - pocketoption - DEBUG - No change detected!!
+2024-05-04 15:01:02,673 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 15:01:02,673 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 15:01:03,595 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 15:59:02,420 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 15:59:03,925 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 15:59:03,927 - pocketoption - DEBUG - Total time taken to perform the task: 3.32 seconds
+2024-05-04 16:00:00,920 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-04 16:00:01,264 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-04 16:01:02,075 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 16:01:02,075 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 16:01:03,015 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 16:59:01,760 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 16:59:03,604 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 16:59:03,604 - pocketoption - DEBUG - Total time taken to perform the task: 3.28 seconds
+2024-05-04 17:00:00,805 - pocketoption - DEBUG - No change detected!!
+2024-05-04 17:01:01,194 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 17:01:01,194 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 17:01:02,164 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 17:59:01,989 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 17:59:03,929 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 17:59:03,945 - pocketoption - DEBUG - Total time taken to perform the task: 3.35 seconds
+2024-05-04 18:00:00,512 - pocketoption - DEBUG - No change detected!!
+2024-05-04 18:01:01,802 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 18:01:01,802 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 18:01:04,993 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 18:59:01,876 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 18:59:03,565 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 18:59:03,565 - pocketoption - DEBUG - Total time taken to perform the task: 3.05 seconds
+2024-05-04 19:00:00,920 - pocketoption - DEBUG - No change detected!!
+2024-05-04 19:01:01,717 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 19:01:01,717 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 19:01:02,686 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 19:59:01,759 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 19:59:03,261 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 19:59:03,261 - pocketoption - DEBUG - Total time taken to perform the task: 2.85 seconds
+2024-05-04 20:00:00,632 - pocketoption - DEBUG - No change detected!!
+2024-05-04 20:01:01,538 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 20:01:01,538 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 20:01:02,413 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 20:59:02,021 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 20:59:03,553 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 20:59:03,568 - pocketoption - DEBUG - Total time taken to perform the task: 3.21 seconds
+2024-05-04 21:00:00,138 - pocketoption - DEBUG - No change detected!!
+2024-05-04 21:01:01,528 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 21:01:01,544 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 21:01:02,497 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 21:59:02,688 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 21:59:04,266 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 21:59:04,268 - pocketoption - DEBUG - Total time taken to perform the task: 3.57 seconds
+2024-05-04 22:00:01,312 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-04 22:00:01,734 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-04 22:01:01,872 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 22:01:01,872 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 22:01:02,811 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 22:59:01,496 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 22:59:03,419 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 22:59:03,419 - pocketoption - DEBUG - Total time taken to perform the task: 3.33 seconds
+2024-05-04 23:00:00,894 - pocketoption - DEBUG - No change detected!!
+2024-05-04 23:01:01,566 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 23:01:01,566 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-04 23:01:02,472 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-04 23:59:01,523 - pocketoption - DEBUG - Old session worked fine.
+2024-05-04 23:59:03,366 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-04 23:59:03,366 - pocketoption - DEBUG - Total time taken to perform the task: 3.11 seconds
+2024-05-05 00:00:00,776 - pocketoption - DEBUG - No change detected!!
+2024-05-05 00:01:01,738 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 00:01:01,738 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 00:01:02,660 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 00:59:01,721 - pocketoption - DEBUG - Old session worked fine.
+2024-05-05 00:59:03,315 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 00:59:03,315 - pocketoption - DEBUG - Total time taken to perform the task: 2.78 seconds
+2024-05-05 01:00:00,686 - pocketoption - DEBUG - No change detected!!
+2024-05-05 01:01:01,903 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 01:01:01,919 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 01:01:02,825 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 01:59:01,452 - pocketoption - DEBUG - Old session worked fine.
+2024-05-05 01:59:03,359 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 01:59:03,359 - pocketoption - DEBUG - Total time taken to perform the task: 3.35 seconds
+2024-05-05 02:00:00,859 - pocketoption - DEBUG - No change detected!!
+2024-05-05 02:01:02,326 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 02:01:02,342 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 02:01:03,451 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 02:59:02,960 - pocketoption - DEBUG - Old session worked fine.
+2024-05-05 02:59:03,978 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 02:59:03,978 - pocketoption - DEBUG - Total time taken to perform the task: 3.52 seconds
+2024-05-05 03:00:00,580 - pocketoption - DEBUG - No change detected!!
+2024-05-05 03:01:01,661 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 03:01:01,661 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 03:01:02,709 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 03:59:02,703 - pocketoption - DEBUG - Old session worked fine.
+2024-05-05 03:59:05,002 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 03:59:05,002 - pocketoption - DEBUG - Total time taken to perform the task: 4.24 seconds
+2024-05-05 04:00:00,532 - pocketoption - DEBUG - No change detected!!
+2024-05-05 04:01:02,235 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 04:01:02,251 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 04:01:03,360 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 04:59:01,572 - pocketoption - DEBUG - Old session worked fine.
+2024-05-05 04:59:03,731 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 04:59:03,746 - pocketoption - DEBUG - Total time taken to perform the task: 3.68 seconds
+2024-05-05 05:00:00,235 - pocketoption - DEBUG - No change detected!!
+2024-05-05 05:01:02,457 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 05:01:02,457 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 05:01:03,535 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 05:59:02,090 - pocketoption - DEBUG - Old session worked fine.
+2024-05-05 05:59:03,762 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 05:59:03,762 - pocketoption - DEBUG - Total time taken to perform the task: 3.08 seconds
+2024-05-05 06:00:00,119 - pocketoption - DEBUG - No change detected!!
+2024-05-05 06:01:01,916 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 06:01:01,916 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 06:01:02,886 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 06:59:02,852 - pocketoption - DEBUG - Old session worked fine.
+2024-05-05 06:59:04,367 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 06:59:04,383 - pocketoption - DEBUG - Total time taken to perform the task: 3.38 seconds
+2024-05-05 07:00:00,839 - pocketoption - DEBUG - No change detected!!
+2024-05-05 07:01:02,306 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 07:01:02,306 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 07:01:03,292 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 07:59:02,187 - pocketoption - DEBUG - Old session worked fine.
+2024-05-05 07:59:03,766 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 07:59:03,766 - pocketoption - DEBUG - Total time taken to perform the task: 2.89 seconds
+2024-05-05 08:00:00,235 - pocketoption - DEBUG - No change detected!!
+2024-05-05 08:01:02,157 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 08:01:02,173 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 08:01:03,126 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 08:59:01,529 - pocketoption - DEBUG - Old session worked fine.
+2024-05-05 08:59:03,750 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 08:59:03,750 - pocketoption - DEBUG - Total time taken to perform the task: 3.14 seconds
+2024-05-05 09:00:00,722 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-05 09:00:01,003 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-05 09:01:01,845 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 09:01:01,845 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 09:01:02,826 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 09:59:01,818 - pocketoption - DEBUG - Old session worked fine.
+2024-05-05 09:59:04,038 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 09:59:04,038 - pocketoption - DEBUG - Total time taken to perform the task: 3.66 seconds
+2024-05-05 10:00:00,962 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-05 10:00:01,227 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-05 10:01:01,695 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 10:01:01,695 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 10:01:02,603 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 10:59:02,191 - pocketoption - DEBUG - Old session worked fine.
+2024-05-05 10:59:03,866 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 10:59:03,866 - pocketoption - DEBUG - Total time taken to perform the task: 3.79 seconds
+2024-05-05 11:00:00,876 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-05 11:00:01,173 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-05 11:01:03,488 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 11:01:03,488 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 11:01:04,347 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 11:59:02,798 - pocketoption - DEBUG - Old session worked fine.
+2024-05-05 11:59:04,317 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 11:59:04,317 - pocketoption - DEBUG - Total time taken to perform the task: 3.5 seconds
+2024-05-05 12:00:01,344 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-05 12:00:01,719 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-05 12:01:02,215 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 12:01:02,231 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 12:01:03,124 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 12:59:02,263 - pocketoption - DEBUG - Old session worked fine.
+2024-05-05 12:59:04,393 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 12:59:04,393 - pocketoption - DEBUG - Total time taken to perform the task: 3.5 seconds
+2024-05-05 13:00:00,852 - pocketoption - DEBUG - No change detected!!
+2024-05-05 13:01:02,188 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 13:01:02,188 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 13:01:03,127 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 13:59:01,626 - pocketoption - DEBUG - Old session worked fine.
+2024-05-05 13:59:03,768 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 13:59:03,768 - pocketoption - DEBUG - Total time taken to perform the task: 3.52 seconds
+2024-05-05 14:00:00,235 - pocketoption - DEBUG - No change detected!!
+2024-05-05 14:01:01,408 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 14:01:01,423 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 14:01:02,376 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 14:59:01,960 - pocketoption - DEBUG - Old session worked fine.
+2024-05-05 14:59:04,186 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 14:59:04,186 - pocketoption - DEBUG - Total time taken to perform the task: 3.62 seconds
+2024-05-05 15:00:00,523 - pocketoption - DEBUG - No change detected!!
+2024-05-05 15:01:02,049 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 15:01:02,049 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 15:01:03,080 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 15:59:01,994 - pocketoption - DEBUG - Old session worked fine.
+2024-05-05 15:59:04,231 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 15:59:04,231 - pocketoption - DEBUG - Total time taken to perform the task: 3.66 seconds
+2024-05-05 16:00:00,570 - pocketoption - DEBUG - No change detected!!
+2024-05-05 16:01:01,930 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 16:01:01,930 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 16:01:02,836 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 16:59:02,150 - pocketoption - DEBUG - Old session worked fine.
+2024-05-05 16:59:03,635 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 16:59:03,635 - pocketoption - DEBUG - Total time taken to perform the task: 3.52 seconds
+2024-05-05 17:00:00,523 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-05 17:00:00,773 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-05 17:01:01,441 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 17:01:01,441 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 17:01:02,316 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 17:59:02,149 - pocketoption - DEBUG - Old session worked fine.
+2024-05-05 17:59:04,133 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 17:59:04,133 - pocketoption - DEBUG - Total time taken to perform the task: 3.55 seconds
+2024-05-05 18:00:00,662 - pocketoption - DEBUG - No change detected!!
+2024-05-05 18:01:02,068 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 18:01:02,068 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 18:01:02,943 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 18:59:02,078 - pocketoption - DEBUG - Old session worked fine.
+2024-05-05 18:59:03,249 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 18:59:03,249 - pocketoption - DEBUG - Total time taken to perform the task: 2.38 seconds
+2024-05-05 19:00:01,259 - pocketoption - INFO - Target [ID:610323477]: success
+2024-05-05 19:00:01,509 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-05-05 19:01:02,273 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 19:01:02,288 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 19:01:03,101 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-05 19:59:01,516 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-05 20:00:08,979 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 20:00:08,995 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-05 20:00:09,073 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 20:00:09,073 - pocketoption - DEBUG - Total time taken to perform the task: 68.96 seconds
+2024-05-05 20:00:10,856 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-05 20:00:25,332 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 20:00:25,332 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-05 20:00:25,332 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 20:00:25,332 - pocketoption - DEBUG - Total time taken to perform the task: 15.26 seconds
+2024-05-05 20:00:27,111 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-05 20:01:01,568 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 20:01:01,583 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 20:01:01,583 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 20:01:02,446 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 20:01:02,461 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-05 20:01:02,790 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 20:01:02,790 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-05 20:01:02,790 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 20:01:02,790 - pocketoption - DEBUG - Total time taken to perform the task: 36.44 seconds
+2024-05-05 20:59:01,510 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-05 20:59:37,103 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 20:59:37,103 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-05 20:59:37,103 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 20:59:37,103 - pocketoption - DEBUG - Total time taken to perform the task: 37.01 seconds
+2024-05-05 20:59:38,887 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-05 20:59:53,206 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 20:59:53,206 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-05 20:59:53,222 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 20:59:53,222 - pocketoption - DEBUG - Total time taken to perform the task: 15.12 seconds
+2024-05-05 20:59:55,005 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-05 21:00:20,479 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 21:00:20,479 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-05 21:00:20,479 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 21:00:20,479 - pocketoption - DEBUG - Total time taken to perform the task: 26.26 seconds
+2024-05-05 21:00:22,265 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-05 21:00:36,555 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 21:00:36,570 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-05 21:00:36,570 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 21:00:36,570 - pocketoption - DEBUG - Total time taken to perform the task: 15.08 seconds
+2024-05-05 21:00:38,363 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-05 21:00:52,727 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 21:00:52,727 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-05 21:00:52,727 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 21:00:52,727 - pocketoption - DEBUG - Total time taken to perform the task: 15.13 seconds
+2024-05-05 21:00:54,538 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-05 21:01:01,743 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 21:01:01,743 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 21:01:01,759 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 21:01:02,455 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 21:01:02,471 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-05 21:01:08,272 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 21:01:08,288 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-05 21:01:08,288 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 21:01:08,288 - pocketoption - DEBUG - Total time taken to perform the task: 14.53 seconds
+2024-05-05 21:59:02,145 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-05 21:59:47,995 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 21:59:47,995 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-05 21:59:48,011 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 21:59:48,011 - pocketoption - DEBUG - Total time taken to perform the task: 47.18 seconds
+2024-05-05 21:59:49,810 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-05 22:00:15,281 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 22:00:15,281 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-05 22:00:15,281 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 22:00:15,281 - pocketoption - DEBUG - Total time taken to perform the task: 26.27 seconds
+2024-05-05 22:00:17,048 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-05 22:00:31,306 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 22:00:31,306 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-05 22:00:31,306 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 22:00:31,306 - pocketoption - DEBUG - Total time taken to perform the task: 15.02 seconds
+2024-05-05 22:00:33,090 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-05 22:00:47,267 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 22:00:47,267 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-05 22:00:47,267 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 22:00:47,267 - pocketoption - DEBUG - Total time taken to perform the task: 14.94 seconds
+2024-05-05 22:00:49,030 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-05 22:01:01,945 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 22:01:01,960 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 22:01:01,976 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 22:01:02,806 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 22:01:02,821 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-05 22:01:13,497 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 22:01:13,497 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-05 22:01:13,497 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 22:01:13,497 - pocketoption - DEBUG - Total time taken to perform the task: 25.23 seconds
+2024-05-05 22:59:01,934 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-05 22:59:48,327 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 22:59:48,327 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-05 22:59:48,327 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 22:59:48,327 - pocketoption - DEBUG - Total time taken to perform the task: 47.74 seconds
+2024-05-05 22:59:50,142 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-05 23:00:15,409 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 23:00:15,409 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-05 23:00:15,409 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 23:00:15,409 - pocketoption - DEBUG - Total time taken to perform the task: 26.08 seconds
+2024-05-05 23:00:17,207 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-05 23:01:01,883 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 23:01:01,899 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-05 23:01:01,899 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-05 23:01:02,711 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 23:01:02,727 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-05 23:01:03,306 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 23:01:03,306 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-05 23:01:03,322 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 23:01:03,322 - pocketoption - DEBUG - Total time taken to perform the task: 46.9 seconds
+2024-05-05 23:59:01,618 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-05 23:59:37,602 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-05 23:59:37,618 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-05 23:59:37,618 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-05 23:59:37,618 - pocketoption - DEBUG - Total time taken to perform the task: 37.38 seconds
+2024-05-05 23:59:39,409 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 00:00:15,416 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 00:00:15,416 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 00:00:15,416 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 00:00:15,416 - pocketoption - DEBUG - Total time taken to perform the task: 36.78 seconds
+2024-05-06 00:00:17,244 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 00:00:31,799 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 00:00:31,799 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 00:00:31,799 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 00:00:31,799 - pocketoption - DEBUG - Total time taken to perform the task: 15.38 seconds
+2024-05-06 00:00:33,606 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 00:00:48,317 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 00:00:48,317 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 00:00:48,333 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 00:00:48,333 - pocketoption - DEBUG - Total time taken to perform the task: 15.53 seconds
+2024-05-06 00:00:50,141 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 00:01:00,927 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 00:01:00,943 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 00:01:00,943 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 00:01:01,772 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 00:01:01,772 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 00:01:04,365 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 00:01:04,380 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 00:01:04,380 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 00:01:04,380 - pocketoption - DEBUG - Total time taken to perform the task: 15.05 seconds
+2024-05-06 00:59:02,248 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 00:59:37,776 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 00:59:37,776 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 00:59:37,776 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 00:59:37,776 - pocketoption - DEBUG - Total time taken to perform the task: 36.84 seconds
+2024-05-06 00:59:39,575 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 01:00:04,634 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 01:00:04,634 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 01:00:04,650 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 01:00:04,650 - pocketoption - DEBUG - Total time taken to perform the task: 25.86 seconds
+2024-05-06 01:00:06,440 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 01:00:20,792 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 01:00:20,792 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 01:00:20,792 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 01:00:20,792 - pocketoption - DEBUG - Total time taken to perform the task: 15.13 seconds
+2024-05-06 01:00:22,593 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 01:00:47,953 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 01:00:47,953 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 01:00:47,953 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 01:00:47,953 - pocketoption - DEBUG - Total time taken to perform the task: 26.14 seconds
+2024-05-06 01:00:49,751 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 01:01:01,870 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 01:01:01,901 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 01:01:01,901 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 01:01:02,291 - pocketoption - ERROR - ERR_BROADCAST: bad response: 521
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 623, in broadcast
+    current_stats = await get_statistics()
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 468, in get_statistics
+    await perform_login()
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 532, in perform_login
+    res_l = await core.session.post(url=core.login_link, data=await generate_login_payload(
+                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 126, in generate_login_payload
+    "g-recaptcha-response": await get_recaptcha_code()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 109, in get_recaptcha_code
+    result = await loop.run_in_executor(None, lambda: core.solver.recaptcha(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 109, in <lambda>
+    result = await loop.run_in_executor(None, lambda: core.solver.recaptcha(
+                                                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 163, in recaptcha
+    result = self.solve(timeout=self.recaptcha_timeout, **params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 533, in solve
+    code = self.wait_result(id_, timeout, sleep)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 545, in wait_result
+    return self.get_result(id_)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 588, in get_result
+    response = self.api_client.res(key=self.API_KEY, action='get', id=id_)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\api.py", line 108, in res
+    raise NetworkException(f'bad response: {resp.status_code}')
+twocaptcha.api.NetworkException: bad response: 521
+2024-05-06 01:01:02,714 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 01:01:02,730 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 01:01:04,208 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 01:01:05,599 - pocketoption - ERROR - ERR_BROADCAST: bad response: 521
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 623, in broadcast
+    current_stats = await get_statistics()
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 468, in get_statistics
+    await perform_login()
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 532, in perform_login
+    res_l = await core.session.post(url=core.login_link, data=await generate_login_payload(
+                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 126, in generate_login_payload
+    "g-recaptcha-response": await get_recaptcha_code()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 109, in get_recaptcha_code
+    result = await loop.run_in_executor(None, lambda: core.solver.recaptcha(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 109, in <lambda>
+    result = await loop.run_in_executor(None, lambda: core.solver.recaptcha(
+                                                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 163, in recaptcha
+    result = self.solve(timeout=self.recaptcha_timeout, **params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 525, in solve
+    id_ = self.send(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 579, in send
+    response = self.api_client.in_(files=files, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\api.py", line 71, in in_
+    raise NetworkException(f'bad response: {resp.status_code}')
+twocaptcha.api.NetworkException: bad response: 521
+2024-05-06 01:01:07,429 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 01:01:22,115 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 01:01:22,115 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 01:01:22,115 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 01:01:22,130 - pocketoption - DEBUG - Total time taken to perform the task: 15.53 seconds
+2024-05-06 01:59:01,532 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 01:59:37,573 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 01:59:37,573 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 01:59:37,573 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 01:59:37,573 - pocketoption - DEBUG - Total time taken to perform the task: 37.42 seconds
+2024-05-06 01:59:39,369 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 01:59:53,951 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 01:59:53,951 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 01:59:53,951 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 01:59:53,951 - pocketoption - DEBUG - Total time taken to perform the task: 15.36 seconds
+2024-05-06 01:59:55,843 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 02:00:31,642 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 02:00:31,642 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 02:00:31,642 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 02:00:31,642 - pocketoption - DEBUG - Total time taken to perform the task: 36.68 seconds
+2024-05-06 02:00:33,444 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 02:00:47,842 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 02:00:47,842 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 02:00:47,858 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 02:00:47,858 - pocketoption - DEBUG - Total time taken to perform the task: 15.2 seconds
+2024-05-06 02:00:49,650 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 02:01:01,371 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 02:01:01,371 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 02:01:01,387 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 02:01:02,232 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 02:01:02,247 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 02:01:03,671 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 02:01:03,671 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 02:01:03,671 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 02:01:03,671 - pocketoption - DEBUG - Total time taken to perform the task: 14.81 seconds
+2024-05-06 02:59:03,471 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 03:00:01,363 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 03:00:01,378 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 03:00:01,456 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 03:00:01,456 - pocketoption - DEBUG - Total time taken to perform the task: 60.52 seconds
+2024-05-06 03:00:03,277 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 03:00:17,927 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 03:00:17,927 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 03:00:17,927 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 03:00:17,943 - pocketoption - DEBUG - Total time taken to perform the task: 15.46 seconds
+2024-05-06 03:00:19,796 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 03:00:55,272 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 03:00:55,272 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 03:00:55,272 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 03:00:55,272 - pocketoption - DEBUG - Total time taken to perform the task: 36.31 seconds
+2024-05-06 03:00:57,083 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 03:01:01,446 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 03:01:04,092 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 03:01:04,123 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 03:01:04,984 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 03:01:04,999 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 03:01:22,258 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 03:01:22,258 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 03:01:22,258 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 03:01:22,258 - pocketoption - DEBUG - Total time taken to perform the task: 25.97 seconds
+2024-05-06 03:59:02,370 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 03:59:59,773 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 03:59:59,773 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 03:59:59,804 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 03:59:59,804 - pocketoption - DEBUG - Total time taken to perform the task: 59.05 seconds
+2024-05-06 04:00:01,628 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 04:00:37,452 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 04:00:37,452 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 04:00:37,467 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 04:00:37,467 - pocketoption - DEBUG - Total time taken to perform the task: 36.66 seconds
+2024-05-06 04:00:39,291 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 04:00:42,824 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 04:00:42,824 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 04:00:42,824 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 04:00:42,824 - pocketoption - DEBUG - Total time taken to perform the task: 4.34 seconds
+2024-05-06 04:00:44,676 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 04:01:01,508 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 04:01:01,524 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 04:01:01,618 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 04:01:02,508 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 04:01:02,523 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 04:01:20,864 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 04:01:20,864 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 04:01:20,864 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 04:01:20,864 - pocketoption - DEBUG - Total time taken to perform the task: 37.02 seconds
+2024-05-06 04:59:03,146 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 05:00:01,632 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 05:00:01,647 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 05:00:01,726 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 05:00:01,726 - pocketoption - DEBUG - Total time taken to perform the task: 60.9 seconds
+2024-05-06 05:00:03,579 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 05:00:39,666 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 05:00:39,681 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 05:00:39,681 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 05:00:39,681 - pocketoption - DEBUG - Total time taken to perform the task: 36.93 seconds
+2024-05-06 05:00:41,490 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 05:01:01,767 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 05:01:01,798 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 05:01:02,025 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 05:01:02,863 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 05:01:02,884 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 05:01:04,760 - pocketoption - ERROR - ERR_BROADCAST: bad response: 521
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 623, in broadcast
+    current_stats = await get_statistics()
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 468, in get_statistics
+    await perform_login()
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 532, in perform_login
+    res_l = await core.session.post(url=core.login_link, data=await generate_login_payload(
+                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 126, in generate_login_payload
+    "g-recaptcha-response": await get_recaptcha_code()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 109, in get_recaptcha_code
+    result = await loop.run_in_executor(None, lambda: core.solver.recaptcha(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 109, in <lambda>
+    result = await loop.run_in_executor(None, lambda: core.solver.recaptcha(
+                                                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 163, in recaptcha
+    result = self.solve(timeout=self.recaptcha_timeout, **params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 533, in solve
+    code = self.wait_result(id_, timeout, sleep)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 545, in wait_result
+    return self.get_result(id_)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 588, in get_result
+    response = self.api_client.res(key=self.API_KEY, action='get', id=id_)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\api.py", line 108, in res
+    raise NetworkException(f'bad response: {resp.status_code}')
+twocaptcha.api.NetworkException: bad response: 521
+2024-05-06 05:01:06,652 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 05:01:42,054 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 05:01:42,054 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 05:01:42,054 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 05:01:42,054 - pocketoption - DEBUG - Total time taken to perform the task: 36.22 seconds
+2024-05-06 05:59:01,852 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 05:59:58,945 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 05:59:58,945 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 05:59:58,945 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 05:59:58,945 - pocketoption - DEBUG - Total time taken to perform the task: 58.47 seconds
+2024-05-06 06:00:00,775 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 06:00:25,782 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 06:00:25,782 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 06:00:25,782 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 06:00:25,782 - pocketoption - DEBUG - Total time taken to perform the task: 25.83 seconds
+2024-05-06 06:00:27,591 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 06:00:41,395 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 06:00:41,395 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 06:00:41,411 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 06:00:41,411 - pocketoption - DEBUG - Total time taken to perform the task: 14.61 seconds
+2024-05-06 06:00:43,226 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 06:00:57,619 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 06:00:57,619 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 06:00:57,634 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 06:00:57,634 - pocketoption - DEBUG - Total time taken to perform the task: 15.21 seconds
+2024-05-06 06:00:59,433 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 06:01:00,934 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 06:01:00,950 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 06:01:00,950 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 06:01:01,653 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 06:01:01,669 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 06:01:13,382 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 06:01:13,383 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 06:01:13,385 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 06:01:13,386 - pocketoption - DEBUG - Total time taken to perform the task: 14.73 seconds
+2024-05-06 06:59:01,564 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 06:59:37,045 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 06:59:37,045 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 06:59:37,045 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 06:59:37,045 - pocketoption - DEBUG - Total time taken to perform the task: 36.87 seconds
+2024-05-06 06:59:38,854 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 07:00:04,116 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 07:00:04,116 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 07:00:04,116 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 07:00:04,116 - pocketoption - DEBUG - Total time taken to perform the task: 26.07 seconds
+2024-05-06 07:00:05,920 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 07:00:20,710 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 07:00:20,710 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 07:00:20,710 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 07:00:20,710 - pocketoption - DEBUG - Total time taken to perform the task: 15.58 seconds
+2024-05-06 07:00:22,509 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 07:00:37,169 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 07:00:37,169 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 07:00:37,169 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 07:00:37,169 - pocketoption - DEBUG - Total time taken to perform the task: 15.44 seconds
+2024-05-06 07:00:39,059 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 07:00:53,303 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 07:00:53,303 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 07:00:53,303 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 07:00:53,303 - pocketoption - DEBUG - Total time taken to perform the task: 15.13 seconds
+2024-05-06 07:00:55,087 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 07:00:58,511 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 07:00:58,511 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 07:00:58,511 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 07:00:58,511 - pocketoption - DEBUG - Total time taken to perform the task: 4.2 seconds
+2024-05-06 07:01:00,325 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 07:01:02,405 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 07:01:02,421 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 07:01:02,436 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 07:01:03,343 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 07:01:03,358 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 07:01:25,403 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 07:01:25,403 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 07:01:25,403 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 07:01:25,403 - pocketoption - DEBUG - Total time taken to perform the task: 25.87 seconds
+2024-05-06 07:59:02,143 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 07:59:48,574 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 07:59:48,574 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 07:59:48,574 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 07:59:48,574 - pocketoption - DEBUG - Total time taken to perform the task: 47.82 seconds
+2024-05-06 07:59:50,373 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 08:00:15,202 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 08:00:15,202 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 08:00:15,202 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 08:00:15,202 - pocketoption - DEBUG - Total time taken to perform the task: 25.61 seconds
+2024-05-06 08:00:17,001 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 08:00:31,667 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 08:00:31,667 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 08:00:31,667 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 08:00:31,667 - pocketoption - DEBUG - Total time taken to perform the task: 15.46 seconds
+2024-05-06 08:00:33,488 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 08:00:58,565 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 08:00:58,565 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 08:00:58,565 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 08:00:58,565 - pocketoption - DEBUG - Total time taken to perform the task: 25.87 seconds
+2024-05-06 08:01:00,381 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 08:01:02,038 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 08:01:02,100 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 08:01:02,100 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 08:01:02,944 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 08:01:02,960 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 08:01:16,919 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 08:01:16,919 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 08:01:16,919 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 08:01:16,919 - pocketoption - DEBUG - Total time taken to perform the task: 17.35 seconds
+2024-05-06 08:59:01,217 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 08:59:37,056 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 08:59:37,072 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 08:59:37,072 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 08:59:37,072 - pocketoption - DEBUG - Total time taken to perform the task: 36.84 seconds
+2024-05-06 08:59:39,024 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 09:00:14,561 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 09:00:14,561 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 09:00:14,576 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 09:00:14,576 - pocketoption - DEBUG - Total time taken to perform the task: 36.49 seconds
+2024-05-06 09:00:16,404 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 09:00:30,537 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 09:00:30,537 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 09:00:30,537 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 09:00:30,537 - pocketoption - DEBUG - Total time taken to perform the task: 14.96 seconds
+2024-05-06 09:00:32,346 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 09:00:36,222 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 09:00:36,222 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 09:00:36,222 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 09:00:36,222 - pocketoption - DEBUG - Total time taken to perform the task: 4.68 seconds
+2024-05-06 09:00:38,048 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 09:01:01,298 - pocketoption - ERROR - ERR_BROADCAST: bad response: 521
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 623, in broadcast
+    current_stats = await get_statistics()
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 468, in get_statistics
+    await perform_login()
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 532, in perform_login
+    res_l = await core.session.post(url=core.login_link, data=await generate_login_payload(
+                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 126, in generate_login_payload
+    "g-recaptcha-response": await get_recaptcha_code()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 109, in get_recaptcha_code
+    result = await loop.run_in_executor(None, lambda: core.solver.recaptcha(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 109, in <lambda>
+    result = await loop.run_in_executor(None, lambda: core.solver.recaptcha(
+                                                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 163, in recaptcha
+    result = self.solve(timeout=self.recaptcha_timeout, **params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 533, in solve
+    code = self.wait_result(id_, timeout, sleep)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 545, in wait_result
+    return self.get_result(id_)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 588, in get_result
+    response = self.api_client.res(key=self.API_KEY, action='get', id=id_)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\api.py", line 108, in res
+    raise NetworkException(f'bad response: {resp.status_code}')
+twocaptcha.api.NetworkException: bad response: 521
+2024-05-06 09:01:02,440 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 09:01:02,440 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 09:01:03,279 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 09:01:03,467 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 09:01:05,045 - pocketoption - ERROR - ERR_BROADCAST: bad response: 521
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 623, in broadcast
+    current_stats = await get_statistics()
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 468, in get_statistics
+    await perform_login()
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 532, in perform_login
+    res_l = await core.session.post(url=core.login_link, data=await generate_login_payload(
+                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 126, in generate_login_payload
+    "g-recaptcha-response": await get_recaptcha_code()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 109, in get_recaptcha_code
+    result = await loop.run_in_executor(None, lambda: core.solver.recaptcha(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 109, in <lambda>
+    result = await loop.run_in_executor(None, lambda: core.solver.recaptcha(
+                                                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 163, in recaptcha
+    result = self.solve(timeout=self.recaptcha_timeout, **params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 525, in solve
+    id_ = self.send(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 579, in send
+    response = self.api_client.in_(files=files, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\api.py", line 71, in in_
+    raise NetworkException(f'bad response: {resp.status_code}')
+twocaptcha.api.NetworkException: bad response: 521
+2024-05-06 09:01:06,843 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 09:01:21,226 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 09:01:21,226 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 09:01:21,226 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 09:01:21,226 - pocketoption - DEBUG - Total time taken to perform the task: 15.17 seconds
+2024-05-06 09:59:01,550 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 09:59:37,310 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 09:59:37,310 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 09:59:37,310 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 09:59:37,310 - pocketoption - DEBUG - Total time taken to perform the task: 36.98 seconds
+2024-05-06 09:59:39,110 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 10:00:03,526 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 10:00:03,542 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 10:00:03,542 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 10:00:03,542 - pocketoption - DEBUG - Total time taken to perform the task: 25.22 seconds
+2024-05-06 10:00:05,318 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 10:00:30,509 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 10:00:30,509 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 10:00:30,509 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 10:00:30,509 - pocketoption - DEBUG - Total time taken to perform the task: 25.95 seconds
+2024-05-06 10:00:32,306 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 10:01:00,920 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 10:01:00,936 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 10:01:00,936 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 10:01:01,764 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 10:01:01,796 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 10:01:07,391 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 10:01:07,391 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 10:01:07,391 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 10:01:07,391 - pocketoption - DEBUG - Total time taken to perform the task: 35.87 seconds
+2024-05-06 10:59:01,930 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 11:00:09,301 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 11:00:09,301 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 11:00:09,316 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 11:00:09,317 - pocketoption - DEBUG - Total time taken to perform the task: 68.76 seconds
+2024-05-06 11:00:11,104 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 11:00:47,425 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 11:00:47,440 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 11:00:47,440 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 11:00:47,440 - pocketoption - DEBUG - Total time taken to perform the task: 37.11 seconds
+2024-05-06 11:00:49,251 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 11:01:01,726 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 11:01:01,742 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 11:01:01,758 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 11:01:02,586 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 11:01:02,602 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 11:01:35,822 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 11:01:35,837 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 11:01:35,837 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 11:01:35,837 - pocketoption - DEBUG - Total time taken to perform the task: 47.38 seconds
+2024-05-06 11:59:02,163 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 11:59:37,737 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 11:59:37,737 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 11:59:37,737 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 11:59:37,737 - pocketoption - DEBUG - Total time taken to perform the task: 36.92 seconds
+2024-05-06 11:59:39,546 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 12:00:04,570 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 12:00:04,570 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 12:00:04,570 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 12:00:04,570 - pocketoption - DEBUG - Total time taken to perform the task: 25.82 seconds
+2024-05-06 12:00:06,366 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 12:00:20,341 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 12:00:20,341 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 12:00:20,341 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 12:00:20,341 - pocketoption - DEBUG - Total time taken to perform the task: 14.75 seconds
+2024-05-06 12:00:22,187 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 12:00:47,331 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 12:00:47,331 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 12:00:47,347 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 12:00:47,347 - pocketoption - DEBUG - Total time taken to perform the task: 26.0 seconds
+2024-05-06 12:00:49,128 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 12:01:01,666 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 12:01:01,681 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 12:01:01,697 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 12:01:02,494 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 12:01:02,509 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 12:01:14,293 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 12:01:14,293 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 12:01:14,296 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 12:01:14,297 - pocketoption - DEBUG - Total time taken to perform the task: 25.93 seconds
+2024-05-06 12:59:02,435 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 12:59:51,040 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 12:59:51,040 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 12:59:51,134 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 12:59:51,134 - pocketoption - DEBUG - Total time taken to perform the task: 50.98 seconds
+2024-05-06 12:59:52,964 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 13:00:18,451 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 13:00:18,451 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 13:00:18,451 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 13:00:18,451 - pocketoption - DEBUG - Total time taken to perform the task: 26.31 seconds
+2024-05-06 13:00:20,280 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 13:00:45,768 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 13:00:45,768 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 13:00:45,783 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 13:00:45,783 - pocketoption - DEBUG - Total time taken to perform the task: 26.3 seconds
+2024-05-06 13:00:47,581 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 13:01:01,980 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 13:01:01,980 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 13:01:01,980 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 13:01:01,980 - pocketoption - DEBUG - Total time taken to perform the task: 15.18 seconds
+2024-05-06 13:01:02,230 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 13:01:02,261 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 13:01:02,558 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 13:01:03,403 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 13:01:03,450 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 13:59:02,049 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 13:59:59,105 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 13:59:59,105 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 13:59:59,105 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 13:59:59,105 - pocketoption - DEBUG - Total time taken to perform the task: 58.37 seconds
+2024-05-06 14:00:01,029 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 14:00:15,650 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 14:00:15,665 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 14:00:15,665 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 14:00:15,665 - pocketoption - DEBUG - Total time taken to perform the task: 15.56 seconds
+2024-05-06 14:00:17,486 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 14:00:53,380 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 14:00:53,380 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 14:00:53,380 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 14:00:53,380 - pocketoption - DEBUG - Total time taken to perform the task: 36.7 seconds
+2024-05-06 14:00:55,240 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 14:01:01,463 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 14:01:01,512 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 14:01:01,517 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 14:01:02,500 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 14:01:02,530 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 14:01:09,791 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 14:01:09,791 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 14:01:09,791 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 14:01:09,791 - pocketoption - DEBUG - Total time taken to perform the task: 15.39 seconds
+2024-05-06 14:59:02,166 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 14:59:48,559 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 14:59:48,575 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 14:59:48,575 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 14:59:48,575 - pocketoption - DEBUG - Total time taken to perform the task: 47.72 seconds
+2024-05-06 14:59:50,368 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 15:00:05,138 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 15:00:05,138 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 15:00:05,138 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 15:00:05,154 - pocketoption - DEBUG - Total time taken to perform the task: 15.57 seconds
+2024-05-06 15:00:06,959 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 15:00:53,887 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 15:00:53,887 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 15:00:53,887 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 15:00:53,887 - pocketoption - DEBUG - Total time taken to perform the task: 47.72 seconds
+2024-05-06 15:00:55,684 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 15:01:01,539 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 15:01:01,571 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 15:01:01,578 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 15:01:02,448 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 15:01:02,464 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 15:01:10,224 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 15:01:10,225 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 15:01:10,229 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 15:01:10,230 - pocketoption - DEBUG - Total time taken to perform the task: 15.33 seconds
+2024-05-06 15:59:01,623 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 15:59:58,685 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 15:59:58,685 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 15:59:58,701 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 15:59:58,701 - pocketoption - DEBUG - Total time taken to perform the task: 58.38 seconds
+2024-05-06 16:00:00,467 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 16:00:14,618 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 16:00:14,634 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 16:00:14,634 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 16:00:14,634 - pocketoption - DEBUG - Total time taken to perform the task: 14.93 seconds
+2024-05-06 16:00:16,442 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 16:00:41,612 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 16:00:41,612 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 16:00:41,628 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 16:00:41,628 - pocketoption - DEBUG - Total time taken to perform the task: 25.98 seconds
+2024-05-06 16:00:43,410 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 16:01:02,015 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 16:01:02,031 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 16:01:02,031 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 16:01:02,859 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 16:01:02,875 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 16:01:19,166 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 16:01:19,166 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 16:01:19,166 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 16:01:19,166 - pocketoption - DEBUG - Total time taken to perform the task: 36.54 seconds

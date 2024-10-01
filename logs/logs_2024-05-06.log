@@ -1,0 +1,905 @@
+2024-05-06 16:15:44,015 - pocketoption - DEBUG - ======== New Session ========
+2024-05-06 16:15:45,825 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 16:16:43,263 - pocketoption - DEBUG - Payout Last Request ID: 159862
+2024-05-06 16:59:01,750 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 16:59:37,760 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 16:59:37,760 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 16:59:37,776 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 16:59:37,776 - pocketoption - DEBUG - Total time taken to perform the task: 37.17 seconds
+2024-05-06 16:59:39,571 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 16:59:53,965 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 16:59:53,965 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 16:59:53,965 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 16:59:53,965 - pocketoption - DEBUG - Total time taken to perform the task: 15.17 seconds
+2024-05-06 16:59:55,745 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 17:00:31,604 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 17:00:31,604 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 17:00:31,604 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 17:00:31,604 - pocketoption - DEBUG - Total time taken to perform the task: 36.62 seconds
+2024-05-06 17:00:33,399 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 17:00:48,046 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 17:00:48,046 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 17:00:48,046 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 17:00:48,046 - pocketoption - DEBUG - Total time taken to perform the task: 15.43 seconds
+2024-05-06 17:00:49,840 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 17:01:01,858 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 17:01:01,874 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 17:01:01,874 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 17:01:02,672 - pocketoption - ERROR - ERR_BROADCAST: bad response: 521
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 623, in broadcast
+    current_stats = await get_statistics()
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 468, in get_statistics
+    await perform_login()
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 532, in perform_login
+    res_l = await core.session.post(url=core.login_link, data=await generate_login_payload(
+                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 126, in generate_login_payload
+    "g-recaptcha-response": await get_recaptcha_code()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 109, in get_recaptcha_code
+    result = await loop.run_in_executor(None, lambda: core.solver.recaptcha(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 109, in <lambda>
+    result = await loop.run_in_executor(None, lambda: core.solver.recaptcha(
+                                                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 163, in recaptcha
+    result = self.solve(timeout=self.recaptcha_timeout, **params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 533, in solve
+    code = self.wait_result(id_, timeout, sleep)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 545, in wait_result
+    return self.get_result(id_)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 588, in get_result
+    response = self.api_client.res(key=self.API_KEY, action='get', id=id_)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\api.py", line 108, in res
+    raise NetworkException(f'bad response: {resp.status_code}')
+twocaptcha.api.NetworkException: bad response: 521
+2024-05-06 17:01:02,750 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 17:01:02,766 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 17:01:04,532 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 17:01:05,783 - pocketoption - ERROR - ERR_BROADCAST: bad response: 521
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 623, in broadcast
+    current_stats = await get_statistics()
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 468, in get_statistics
+    await perform_login()
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 532, in perform_login
+    res_l = await core.session.post(url=core.login_link, data=await generate_login_payload(
+                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 126, in generate_login_payload
+    "g-recaptcha-response": await get_recaptcha_code()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 109, in get_recaptcha_code
+    result = await loop.run_in_executor(None, lambda: core.solver.recaptcha(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 109, in <lambda>
+    result = await loop.run_in_executor(None, lambda: core.solver.recaptcha(
+                                                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 163, in recaptcha
+    result = self.solve(timeout=self.recaptcha_timeout, **params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 525, in solve
+    id_ = self.send(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 579, in send
+    response = self.api_client.in_(files=files, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\api.py", line 71, in in_
+    raise NetworkException(f'bad response: {resp.status_code}')
+twocaptcha.api.NetworkException: bad response: 521
+2024-05-06 17:01:07,549 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 17:01:22,629 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 17:01:22,629 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 17:01:22,645 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 17:01:22,645 - pocketoption - DEBUG - Total time taken to perform the task: 15.86 seconds
+2024-05-06 17:59:02,081 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 17:59:27,191 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 17:59:27,191 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 17:59:27,191 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 17:59:27,207 - pocketoption - DEBUG - Total time taken to perform the task: 26.29 seconds
+2024-05-06 17:59:29,068 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 17:59:54,384 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 17:59:54,384 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 17:59:54,400 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 17:59:54,400 - pocketoption - DEBUG - Total time taken to perform the task: 26.19 seconds
+2024-05-06 17:59:56,197 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 18:00:10,594 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 18:00:10,610 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 18:00:10,610 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 18:00:10,610 - pocketoption - DEBUG - Total time taken to perform the task: 15.19 seconds
+2024-05-06 18:00:12,416 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 18:00:26,598 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 18:00:26,598 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 18:00:26,598 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 18:00:26,598 - pocketoption - DEBUG - Total time taken to perform the task: 14.97 seconds
+2024-05-06 18:00:28,373 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 18:00:53,017 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 18:00:53,017 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 18:00:53,033 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 18:00:53,033 - pocketoption - DEBUG - Total time taken to perform the task: 25.45 seconds
+2024-05-06 18:00:54,831 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 18:01:01,272 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 18:01:01,288 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 18:01:01,288 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 18:01:02,087 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 18:01:02,158 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 18:01:19,712 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 18:01:19,712 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 18:01:19,712 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 18:01:19,712 - pocketoption - DEBUG - Total time taken to perform the task: 25.66 seconds
+2024-05-06 18:59:01,973 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 18:59:48,606 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 18:59:48,606 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 18:59:48,606 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 18:59:48,606 - pocketoption - DEBUG - Total time taken to perform the task: 47.95 seconds
+2024-05-06 18:59:50,393 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 19:00:04,464 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 19:00:04,464 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 19:00:04,479 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 19:00:04,479 - pocketoption - DEBUG - Total time taken to perform the task: 14.86 seconds
+2024-05-06 19:00:06,270 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 19:00:30,846 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 19:00:30,846 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 19:00:30,861 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 19:00:30,861 - pocketoption - DEBUG - Total time taken to perform the task: 25.37 seconds
+2024-05-06 19:00:32,633 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 19:00:46,766 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 19:00:46,766 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 19:00:46,766 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 19:00:46,766 - pocketoption - DEBUG - Total time taken to perform the task: 14.89 seconds
+2024-05-06 19:00:48,559 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 19:01:01,876 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 19:01:01,892 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 19:01:01,892 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 19:01:02,736 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 19:01:02,752 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 19:01:13,429 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 19:01:13,429 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 19:01:13,429 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 19:01:13,429 - pocketoption - DEBUG - Total time taken to perform the task: 25.63 seconds
+2024-05-06 19:59:02,152 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 19:59:27,097 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 19:59:27,112 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 19:59:27,112 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 19:59:27,112 - pocketoption - DEBUG - Total time taken to perform the task: 26.1 seconds
+2024-05-06 19:59:28,886 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 20:00:04,492 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 20:00:04,492 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 20:00:04,492 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 20:00:04,492 - pocketoption - DEBUG - Total time taken to perform the task: 36.36 seconds
+2024-05-06 20:00:06,282 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 20:00:20,539 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 20:00:20,539 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 20:00:20,539 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 20:00:20,539 - pocketoption - DEBUG - Total time taken to perform the task: 15.03 seconds
+2024-05-06 20:00:22,333 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 20:00:58,119 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 20:00:58,119 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 20:00:58,135 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 20:00:58,135 - pocketoption - DEBUG - Total time taken to perform the task: 36.58 seconds
+2024-05-06 20:00:59,900 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 20:01:01,730 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 20:01:01,730 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 20:01:01,745 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 20:01:02,590 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 20:01:02,606 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 20:01:14,396 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 20:01:14,396 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 20:01:14,396 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 20:01:14,396 - pocketoption - DEBUG - Total time taken to perform the task: 15.24 seconds
+2024-05-06 20:59:01,375 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 20:59:47,738 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 20:59:47,738 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 20:59:47,738 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 20:59:47,738 - pocketoption - DEBUG - Total time taken to perform the task: 47.71 seconds
+2024-05-06 20:59:49,521 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 21:00:14,788 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 21:00:14,788 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 21:00:14,788 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 21:00:14,788 - pocketoption - DEBUG - Total time taken to perform the task: 26.05 seconds
+2024-05-06 21:00:16,555 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 21:00:30,518 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 21:00:30,518 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 21:00:30,518 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 21:00:30,518 - pocketoption - DEBUG - Total time taken to perform the task: 14.73 seconds
+2024-05-06 21:00:32,308 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 21:00:47,065 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 21:00:47,065 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 21:00:47,065 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 21:00:47,065 - pocketoption - DEBUG - Total time taken to perform the task: 15.53 seconds
+2024-05-06 21:00:48,858 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 21:01:00,958 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 21:01:00,990 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 21:01:00,990 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 21:01:01,819 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 21:01:01,834 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 21:01:13,907 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 21:01:13,907 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 21:01:13,907 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 21:01:13,907 - pocketoption - DEBUG - Total time taken to perform the task: 25.83 seconds
+2024-05-06 21:59:01,486 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 21:59:47,463 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 21:59:47,463 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 21:59:47,463 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 21:59:47,463 - pocketoption - DEBUG - Total time taken to perform the task: 47.32 seconds
+2024-05-06 21:59:49,228 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 22:00:03,885 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 22:00:03,885 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 22:00:03,885 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 22:00:03,885 - pocketoption - DEBUG - Total time taken to perform the task: 15.44 seconds
+2024-05-06 22:00:05,666 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 22:00:30,400 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 22:00:30,400 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 22:00:30,400 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 22:00:30,400 - pocketoption - DEBUG - Total time taken to perform the task: 25.5 seconds
+2024-05-06 22:00:32,187 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 22:00:46,742 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 22:00:46,742 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 22:00:46,742 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 22:00:46,742 - pocketoption - DEBUG - Total time taken to perform the task: 15.34 seconds
+2024-05-06 22:00:48,550 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 22:01:02,118 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 22:01:02,133 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 22:01:02,133 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 22:01:02,787 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 22:01:02,802 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 22:01:06,085 - pocketoption - ERROR - ERR_BROADCAST: 
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 131, in _call_sslobject_method
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 859, in read
+    v = self._sslobj.read(len)
+        ^^^^^^^^^^^^^^^^^^^^^^
+ssl.SSLWantReadError: The operation did not complete (read) (_ssl.c:2559)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 31, in read
+    return await self._stream.receive(max_bytes=max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 196, in receive
+    data = await self._call_sslobject_method(self._ssl_object.read, max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 138, in _call_sslobject_method
+    data = await self.transport_stream.receive()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 1203, in receive
+    await self._protocol.read_event.wait()
+  File "C:\Program Files\Python312\Lib\asyncio\locks.py", line 212, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 8, in map_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 29, in read
+    with anyio.fail_after(timeout):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_tasks.py", line 119, in __exit__
+    raise TimeoutError
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 60, in map_httpcore_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 291, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 253, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 237, in handle_async_request
+    response = await connection.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 90, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 102, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 81, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 143, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 172, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 28, in read
+    with map_exceptions(exc_map):
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc)
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 623, in broadcast
+    current_stats = await get_statistics()
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 468, in get_statistics
+    await perform_login()
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 532, in perform_login
+    res_l = await core.session.post(url=core.login_link, data=await generate_login_payload(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1827, in post
+    return await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1513, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1600, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1628, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1665, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1702, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 290, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 77, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+2024-05-06 22:01:08,135 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 22:01:11,515 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 22:01:11,516 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 22:01:11,519 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 22:01:11,520 - pocketoption - DEBUG - Total time taken to perform the task: 4.15 seconds
+2024-05-06 22:59:01,540 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 22:59:37,162 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 22:59:37,177 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 22:59:37,177 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 22:59:37,177 - pocketoption - DEBUG - Total time taken to perform the task: 36.98 seconds
+2024-05-06 22:59:38,956 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 23:00:25,343 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 23:00:25,343 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 23:00:25,343 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 23:00:25,343 - pocketoption - DEBUG - Total time taken to perform the task: 47.15 seconds
+2024-05-06 23:00:27,133 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 23:00:41,422 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 23:00:41,422 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 23:00:41,422 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 23:00:41,422 - pocketoption - DEBUG - Total time taken to perform the task: 15.06 seconds
+2024-05-06 23:00:43,198 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 23:00:57,767 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 23:00:57,767 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 23:00:57,782 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 23:00:57,782 - pocketoption - DEBUG - Total time taken to perform the task: 15.36 seconds
+2024-05-06 23:00:59,560 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 23:01:00,921 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 23:01:00,953 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-06 23:01:00,953 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-06 23:01:01,609 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 23:01:01,625 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-06 23:01:13,540 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 23:01:13,540 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 23:01:13,540 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 23:01:13,540 - pocketoption - DEBUG - Total time taken to perform the task: 14.74 seconds
+2024-05-06 23:59:01,894 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-06 23:59:37,842 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-06 23:59:37,842 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-06 23:59:37,842 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-06 23:59:37,842 - pocketoption - DEBUG - Total time taken to perform the task: 37.25 seconds
+2024-05-06 23:59:39,632 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 00:00:04,862 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 00:00:04,862 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 00:00:04,862 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 00:00:04,862 - pocketoption - DEBUG - Total time taken to perform the task: 26.02 seconds
+2024-05-07 00:00:06,667 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 00:00:21,157 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 00:00:21,157 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 00:00:21,157 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 00:00:21,157 - pocketoption - DEBUG - Total time taken to perform the task: 15.28 seconds
+2024-05-07 00:00:22,944 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 00:00:47,878 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 00:00:47,878 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 00:00:47,894 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 00:00:47,894 - pocketoption - DEBUG - Total time taken to perform the task: 25.72 seconds
+2024-05-07 00:00:49,661 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 00:01:01,917 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 00:01:01,948 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-07 00:01:01,948 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-07 00:01:02,776 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 00:01:02,792 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-07 00:01:04,338 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 00:01:04,338 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 00:01:04,353 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 00:01:04,353 - pocketoption - DEBUG - Total time taken to perform the task: 15.46 seconds
+2024-05-07 00:59:01,764 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 00:59:37,493 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 00:59:37,493 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 00:59:37,493 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 00:59:37,493 - pocketoption - DEBUG - Total time taken to perform the task: 37.31 seconds
+2024-05-07 00:59:39,285 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 00:59:53,695 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 00:59:53,695 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 00:59:53,695 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 00:59:53,695 - pocketoption - DEBUG - Total time taken to perform the task: 15.19 seconds
+2024-05-07 00:59:55,476 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 01:00:30,768 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 01:00:30,768 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 01:00:30,784 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 01:00:30,784 - pocketoption - DEBUG - Total time taken to perform the task: 36.07 seconds
+2024-05-07 01:00:32,551 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 01:00:35,976 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 01:00:35,976 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 01:00:35,992 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 01:00:35,992 - pocketoption - DEBUG - Total time taken to perform the task: 4.21 seconds
+2024-05-07 01:00:37,783 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 01:00:51,899 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 01:00:51,899 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 01:00:51,914 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 01:00:51,914 - pocketoption - DEBUG - Total time taken to perform the task: 14.9 seconds
+2024-05-07 01:00:53,711 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 01:01:02,086 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 01:01:02,101 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-07 01:01:02,101 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-07 01:01:02,915 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 01:01:02,931 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-07 01:01:06,447 - pocketoption - ERROR - ERR_BROADCAST: bad response: 521
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 623, in broadcast
+    current_stats = await get_statistics()
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 468, in get_statistics
+    await perform_login()
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 532, in perform_login
+    res_l = await core.session.post(url=core.login_link, data=await generate_login_payload(
+                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 126, in generate_login_payload
+    "g-recaptcha-response": await get_recaptcha_code()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 109, in get_recaptcha_code
+    result = await loop.run_in_executor(None, lambda: core.solver.recaptcha(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 109, in <lambda>
+    result = await loop.run_in_executor(None, lambda: core.solver.recaptcha(
+                                                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 163, in recaptcha
+    result = self.solve(timeout=self.recaptcha_timeout, **params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 533, in solve
+    code = self.wait_result(id_, timeout, sleep)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 545, in wait_result
+    return self.get_result(id_)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\solver.py", line 588, in get_result
+    response = self.api_client.res(key=self.API_KEY, action='get', id=id_)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\twocaptcha\api.py", line 108, in res
+    raise NetworkException(f'bad response: {resp.status_code}')
+twocaptcha.api.NetworkException: bad response: 521
+2024-05-07 01:01:08,260 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 01:01:32,916 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 01:01:32,916 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 01:01:32,916 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 01:01:32,916 - pocketoption - DEBUG - Total time taken to perform the task: 25.47 seconds
+2024-05-07 01:59:01,524 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 01:59:26,483 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 01:59:26,498 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 01:59:26,498 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 01:59:26,498 - pocketoption - DEBUG - Total time taken to perform the task: 26.1 seconds
+2024-05-07 01:59:28,278 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 02:00:03,765 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 02:00:03,781 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 02:00:03,781 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 02:00:03,781 - pocketoption - DEBUG - Total time taken to perform the task: 36.27 seconds
+2024-05-07 02:00:05,564 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 02:00:20,025 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 02:00:20,025 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 02:00:20,025 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 02:00:20,025 - pocketoption - DEBUG - Total time taken to perform the task: 15.26 seconds
+2024-05-07 02:00:21,808 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 02:00:57,284 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 02:00:57,284 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 02:00:57,284 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 02:00:57,284 - pocketoption - DEBUG - Total time taken to perform the task: 36.26 seconds
+2024-05-07 02:00:59,064 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 02:01:01,487 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 02:01:01,502 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-07 02:01:01,502 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-07 02:01:02,409 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 02:01:02,424 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-07 02:01:23,407 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 02:01:23,407 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 02:01:23,423 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 02:01:23,423 - pocketoption - DEBUG - Total time taken to perform the task: 25.12 seconds
+2024-05-07 02:59:02,233 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 02:59:27,811 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 02:59:27,811 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 02:59:27,811 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 02:59:27,811 - pocketoption - DEBUG - Total time taken to perform the task: 26.91 seconds
+2024-05-07 02:59:29,640 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 02:59:54,628 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 02:59:54,628 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 02:59:54,644 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 02:59:54,644 - pocketoption - DEBUG - Total time taken to perform the task: 25.82 seconds
+2024-05-07 02:59:56,473 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 03:00:11,099 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 03:00:11,099 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 03:00:11,099 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 03:00:11,099 - pocketoption - DEBUG - Total time taken to perform the task: 15.44 seconds
+2024-05-07 03:00:12,923 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 03:00:27,793 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 03:00:27,793 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 03:00:27,793 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 03:00:27,793 - pocketoption - DEBUG - Total time taken to perform the task: 15.66 seconds
+2024-05-07 03:00:29,598 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 03:00:55,148 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 03:00:55,148 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 03:00:55,164 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 03:00:55,164 - pocketoption - DEBUG - Total time taken to perform the task: 26.36 seconds
+2024-05-07 03:00:57,043 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 03:01:01,575 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 03:01:01,575 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-07 03:01:01,591 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-07 03:01:02,712 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 03:01:02,726 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-07 03:01:21,808 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 03:01:21,808 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 03:01:21,808 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 03:01:21,808 - pocketoption - DEBUG - Total time taken to perform the task: 25.64 seconds
+2024-05-07 03:59:01,738 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 04:00:09,325 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 04:00:09,341 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 04:00:09,341 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 04:00:09,341 - pocketoption - DEBUG - Total time taken to perform the task: 68.98 seconds
+2024-05-07 04:00:11,139 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 04:00:36,220 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 04:00:36,220 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 04:00:36,220 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 04:00:36,220 - pocketoption - DEBUG - Total time taken to perform the task: 25.86 seconds
+2024-05-07 04:00:38,004 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 04:00:52,558 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 04:00:52,558 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 04:00:52,558 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 04:00:52,558 - pocketoption - DEBUG - Total time taken to perform the task: 15.34 seconds
+2024-05-07 04:00:54,421 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-05-07 04:01:01,579 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 04:01:01,594 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-05-07 04:01:01,594 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-05-07 04:01:02,297 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 04:01:02,297 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 159862
+2024-05-07 04:01:29,838 - pocketoption - DEBUG - Cookies Saved!!
+2024-05-07 04:01:29,838 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 151, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-05-07 04:01:29,853 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-05-07 04:01:29,853 - pocketoption - DEBUG - Total time taken to perform the task: 36.28 seconds

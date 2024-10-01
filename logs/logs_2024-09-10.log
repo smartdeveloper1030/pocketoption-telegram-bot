@@ -1,0 +1,331 @@
+2024-09-10 03:38:07,332 - pocketoption - DEBUG - ======== New Session ========
+2024-09-10 03:38:11,128 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-09-10 03:39:30,557 - pocketoption - DEBUG - Payout Last Request ID: 187884
+2024-09-10 03:45:28,762 - pocketoption - DEBUG - Cookies Saved!!
+2024-09-10 03:54:28,535 - pocketoption - DEBUG - ======== New Session ========
+2024-09-10 03:54:31,791 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-09-10 03:56:27,419 - pocketoption - DEBUG - Payout Last Request ID: 187884
+2024-09-10 03:59:03,911 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-09-10 04:00:35,106 - pocketoption - DEBUG - Cookies Saved!!
+2024-09-10 04:00:35,116 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "F:\usa_pocketoption2_9.1\main.py", line 152, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-09-10 04:00:35,118 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-09-10 04:00:35,118 - pocketoption - DEBUG - Total time taken to perform the task: 94.4 seconds
+2024-09-10 04:00:37,777 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-09-10 04:01:05,338 - pocketoption - DEBUG - Cookies Saved!!
+2024-09-10 04:01:05,344 - pocketoption - DEBUG - First Check -> Latest ID: 187884 | Existing ID: 187884
+2024-09-10 04:01:05,953 - pocketoption - DEBUG - Cookies Saved!!
+2024-09-10 04:01:05,953 - pocketoption - DEBUG - Balance -> None -> Not enough for Withdrawal
+2024-09-10 04:01:05,953 - pocketoption - DEBUG - Bonus -> None -> Not enough for Withdrawal
+2024-09-10 04:01:07,725 - pocketoption - DEBUG - Cookies Saved!!
+2024-09-10 04:01:07,732 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 187884
+2024-09-10 04:02:09,477 - pocketoption - DEBUG - Cookies Saved!!
+2024-09-10 04:02:09,477 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "F:\usa_pocketoption2_9.1\main.py", line 152, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-09-10 04:02:09,478 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-09-10 04:02:09,478 - pocketoption - DEBUG - Total time taken to perform the task: 93.34 seconds
+2024-09-10 04:02:12,454 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-09-10 04:03:24,566 - pocketoption - DEBUG - Cookies Saved!!
+2024-09-10 04:03:24,566 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "F:\usa_pocketoption2_9.1\main.py", line 152, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-09-10 04:03:24,567 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-09-10 04:03:24,568 - pocketoption - DEBUG - Total time taken to perform the task: 74.08 seconds
+2024-09-10 04:03:27,272 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-09-10 04:05:24,031 - pocketoption - DEBUG - Cookies Saved!!
+2024-09-10 04:05:24,031 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "F:\usa_pocketoption2_9.1\main.py", line 152, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-09-10 04:05:24,032 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-09-10 04:05:24,032 - pocketoption - DEBUG - Total time taken to perform the task: 118.45 seconds
+2024-09-10 04:05:26,986 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-09-10 04:06:49,006 - pocketoption - DEBUG - Cookies Saved!!
+2024-09-10 04:06:49,006 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "F:\usa_pocketoption2_9.1\main.py", line 152, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-09-10 04:06:49,007 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-09-10 04:06:49,007 - pocketoption - DEBUG - Total time taken to perform the task: 83.95 seconds
+2024-09-10 04:06:51,841 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-09-10 04:08:14,892 - pocketoption - DEBUG - Cookies Saved!!
+2024-09-10 04:08:14,892 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "F:\usa_pocketoption2_9.1\main.py", line 152, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-09-10 04:08:14,893 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-09-10 04:08:14,893 - pocketoption - DEBUG - Total time taken to perform the task: 84.88 seconds
+2024-09-10 04:08:17,838 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-09-10 04:09:15,230 - pocketoption - DEBUG - Cookies Saved!!
+2024-09-10 04:09:15,230 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "F:\usa_pocketoption2_9.1\main.py", line 152, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-09-10 04:09:15,231 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-09-10 04:09:15,231 - pocketoption - DEBUG - Total time taken to perform the task: 59.31 seconds
+2024-09-10 04:09:18,052 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-09-10 04:10:40,371 - pocketoption - DEBUG - Cookies Saved!!
+2024-09-10 04:10:40,371 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "F:\usa_pocketoption2_9.1\main.py", line 152, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-09-10 04:10:40,372 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-09-10 04:10:40,372 - pocketoption - DEBUG - Total time taken to perform the task: 84.15 seconds
+2024-09-10 04:10:43,156 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-09-10 04:12:14,386 - pocketoption - DEBUG - Cookies Saved!!
+2024-09-10 04:12:14,386 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "F:\usa_pocketoption2_9.1\main.py", line 152, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-09-10 04:12:14,387 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-09-10 04:12:14,388 - pocketoption - DEBUG - Total time taken to perform the task: 93.03 seconds
+2024-09-10 04:12:17,091 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-09-10 04:13:14,333 - pocketoption - DEBUG - Cookies Saved!!
+2024-09-10 04:13:14,333 - pocketoption - ERROR - ERR_SAVE_STATITICS_LOG: Current week | 'deposits_current'
+Traceback (most recent call last):
+  File "F:\usa_pocketoption2_9.1\main.py", line 152, in save_statistics_log
+    "deposits": data["deposits_current"],
+                ~~~~^^^^^^^^^^^^^^^^^^^^
+KeyError: 'deposits_current'
+2024-09-10 04:13:14,334 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-09-10 04:13:14,334 - pocketoption - DEBUG - Total time taken to perform the task: 58.95 seconds
+2024-09-10 04:13:18,014 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-09-10 04:16:06,636 - pocketoption - ERROR - ERR_BROADCAST: ERROR_CAPTCHA_UNSOLVABLE
+Traceback (most recent call last):
+  File "F:\usa_pocketoption2_9.1\main.py", line 624, in broadcast
+    current_stats = await get_statistics()
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\usa_pocketoption2_9.1\main.py", line 469, in get_statistics
+    await perform_login()
+  File "F:\usa_pocketoption2_9.1\main.py", line 533, in perform_login
+    res_l = await core.session.post(url=core.login_link, data=await generate_login_payload(
+                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\usa_pocketoption2_9.1\main.py", line 127, in generate_login_payload
+    "g-recaptcha-response": await get_recaptcha_code()
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\usa_pocketoption2_9.1\main.py", line 110, in get_recaptcha_code
+    result = await loop.run_in_executor(None, lambda: core.solver.recaptcha(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rjh\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\usa_pocketoption2_9.1\main.py", line 110, in <lambda>
+    result = await loop.run_in_executor(None, lambda: core.solver.recaptcha(
+                                                      ^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\usa_pocketoption2_9.1\.venv\Lib\site-packages\twocaptcha\solver.py", line 209, in recaptcha
+    result = self.solve(timeout=self.recaptcha_timeout, **params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\usa_pocketoption2_9.1\.venv\Lib\site-packages\twocaptcha\solver.py", line 883, in solve
+    code = self.wait_result(id_, timeout, sleep)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\usa_pocketoption2_9.1\.venv\Lib\site-packages\twocaptcha\solver.py", line 905, in wait_result
+    return self.get_result(id_)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "F:\usa_pocketoption2_9.1\.venv\Lib\site-packages\twocaptcha\solver.py", line 986, in get_result
+    response = self.api_client.res(key=self.API_KEY, action='get', id=id_)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\usa_pocketoption2_9.1\.venv\Lib\site-packages\twocaptcha\api.py", line 113, in res
+    raise ApiException(resp)
+twocaptcha.api.ApiException: ERROR_CAPTCHA_UNSOLVABLE
+2024-09-10 04:16:11,990 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-09-10 04:17:53,392 - pocketoption - DEBUG - ======== New Session ========
+2024-09-10 04:17:57,586 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-09-10 04:18:41,005 - pocketoption - DEBUG - Payout Last Request ID: 187884
+2024-09-10 04:22:06,184 - pocketoption - DEBUG - ======== New Session ========
+2024-09-10 04:22:09,866 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-09-10 04:23:21,293 - pocketoption - DEBUG - Payout Last Request ID: 187884
+2024-09-10 04:23:36,776 - pocketoption - DEBUG - ======== New Session ========
+2024-09-10 04:23:40,348 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-09-10 04:25:06,681 - pocketoption - DEBUG - ======== New Session ========
+2024-09-10 04:25:11,788 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-09-10 04:26:22,533 - pocketoption - DEBUG - Logged-In successfully!
+2024-09-10 04:26:22,534 - pocketoption - DEBUG - Cookies Saved!!
+2024-09-10 04:26:22,537 - pocketoption - DEBUG - Payout Last Request ID: 187884
+2024-09-10 04:28:53,479 - pocketoption - DEBUG - Cookies Saved!!
+2024-09-10 04:34:44,110 - pocketoption - DEBUG - ======== New Session ========
+2024-09-10 04:34:54,218 - pocketoption - DEBUG - Old session worked fine.
+2024-09-10 04:34:54,222 - pocketoption - DEBUG - Payout Last Request ID: 187884
+2024-09-10 04:35:43,326 - pocketoption - DEBUG - ======== New Session ========
+2024-09-10 04:35:48,639 - pocketoption - DEBUG - Old session worked fine.
+2024-09-10 04:35:48,643 - pocketoption - DEBUG - Payout Last Request ID: 187884
+2024-09-10 04:38:13,764 - pocketoption - DEBUG - ======== New Session ========
+2024-09-10 04:38:17,728 - pocketoption - DEBUG - Old session worked fine.
+2024-09-10 04:38:17,733 - pocketoption - DEBUG - Payout Last Request ID: 187884
+2024-09-10 04:39:48,652 - pocketoption - DEBUG - ======== New Session ========
+2024-09-10 04:39:56,492 - pocketoption - DEBUG - Old session worked fine.
+2024-09-10 04:39:56,494 - pocketoption - DEBUG - Payout Last Request ID: 187884
+2024-09-10 04:53:21,545 - pocketoption - DEBUG - Auto-withdrawal has been turned off!!
+2024-09-10 05:08:12,570 - pocketoption - DEBUG - ======== New Session ========
+2024-09-10 05:08:17,963 - pocketoption - DEBUG - Old session worked fine.
+2024-09-10 05:08:18,032 - pocketoption - DEBUG - Payout Last Request ID: 187884
+2024-09-10 05:09:00,556 - pocketoption - DEBUG - Old session worked fine.
+2024-09-10 05:12:28,464 - pocketoption - DEBUG - Old session worked fine.
+2024-09-10 05:17:37,804 - pocketoption - DEBUG - ======== New Session ========
+2024-09-10 05:17:51,199 - pocketoption - DEBUG - Old session worked fine.
+2024-09-10 05:18:06,227 - pocketoption - DEBUG - Payout Last Request ID: 187884
+2024-09-10 05:22:41,988 - pocketoption - DEBUG - ======== New Session ========
+2024-09-10 05:22:49,194 - pocketoption - DEBUG - Old session worked fine.
+2024-09-10 05:22:49,204 - pocketoption - DEBUG - Payout Last Request ID: 187884
+2024-09-10 05:23:14,698 - pocketoption - DEBUG - First Check -> Latest ID: 187884 | Existing ID: 187884
+2024-09-10 05:23:21,273 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-09-10 05:23:28,371 - pocketoption - ERROR - ERR_GET_LAST_PAYMENT_REQUEST_ID
+Traceback (most recent call last):
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\anyio\streams\tls.py", line 131, in _call_sslobject_method
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Users\rjh\AppData\Local\Programs\Python\Python311\Lib\ssl.py", line 921, in read
+    v = self._sslobj.read(len)
+        ^^^^^^^^^^^^^^^^^^^^^^
+ssl.SSLWantReadError: The operation did not complete (read) (_ssl.c:2580)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpcore\backends\asyncio.py", line 31, in read
+    return await self._stream.receive(max_bytes=max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\anyio\streams\tls.py", line 196, in receive
+    data = await self._call_sslobject_method(self._ssl_object.read, max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\anyio\streams\tls.py", line 138, in _call_sslobject_method
+    data = await self.transport_stream.receive()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 1203, in receive
+    await self._protocol.read_event.wait()
+  File "C:\Users\rjh\AppData\Local\Programs\Python\Python311\Lib\asyncio\locks.py", line 213, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpcore\_exceptions.py", line 8, in map_exceptions
+    yield
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpcore\backends\asyncio.py", line 29, in read
+    with anyio.fail_after(timeout):
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\anyio\_core\_tasks.py", line 119, in __exit__
+    raise TimeoutError
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpx\_transports\default.py", line 60, in map_httpcore_exceptions
+    yield
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpx\_transports\default.py", line 291, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpcore\_async\connection_pool.py", line 253, in handle_async_request
+    raise exc
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpcore\_async\connection_pool.py", line 237, in handle_async_request
+    response = await connection.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpcore\_async\connection.py", line 90, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpcore\_async\http11.py", line 102, in handle_async_request
+    raise exc
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpcore\_async\http11.py", line 81, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpcore\_async\http11.py", line 143, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpcore\_async\http11.py", line 172, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpcore\backends\asyncio.py", line 28, in read
+    with map_exceptions(exc_map):
+  File "C:\Users\rjh\AppData\Local\Programs\Python\Python311\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc)
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "F:\usa_pocketoption2_9.1\main.py", line 791, in get_last_payment_request_id
+    res = await fetch(core.payment_history_link)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\usa_pocketoption2_9.1\main.py", line 79, in fetch
+    return await core.session.get(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpx\_client.py", line 1736, in get
+    return await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpx\_client.py", line 1513, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpx\_client.py", line 1600, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpx\_client.py", line 1628, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpx\_client.py", line 1665, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpx\_client.py", line 1702, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpx\_transports\default.py", line 290, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Users\rjh\AppData\Local\Programs\Python\Python311\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "f:\usa_pocketoption2_9.1\.venv\Lib\site-packages\httpx\_transports\default.py", line 77, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+2024-09-10 05:23:28,487 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 187884
+2024-09-10 05:23:32,570 - pocketoption - DEBUG - Auto-withdrawal has been turned on!!
+2024-09-10 05:24:11,115 - pocketoption - DEBUG - First Check -> Latest ID: 187884 | Existing ID: 187884
+2024-09-10 05:24:24,620 - pocketoption - DEBUG - Balance -> 0 -> Not enough for Withdrawal
+2024-09-10 05:24:28,081 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-09-10 05:24:37,637 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 187884
+2024-09-10 05:25:05,287 - pocketoption - DEBUG - First Check -> Latest ID: 187884 | Existing ID: 187884
+2024-09-10 05:25:06,274 - pocketoption - DEBUG - Balance -> 0 -> Not enough for Withdrawal
+2024-09-10 05:25:06,274 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-09-10 05:25:07,807 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 187884
+2024-09-10 05:26:04,773 - pocketoption - DEBUG - First Check -> Latest ID: 187884 | Existing ID: 187884
+2024-09-10 05:26:05,822 - pocketoption - DEBUG - Balance -> 0 -> Not enough for Withdrawal
+2024-09-10 05:26:05,822 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-09-10 05:26:08,102 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 187884
+2024-09-10 05:27:05,202 - pocketoption - DEBUG - First Check -> Latest ID: 187884 | Existing ID: 187884
+2024-09-10 05:27:06,191 - pocketoption - DEBUG - Balance -> 0 -> Not enough for Withdrawal
+2024-09-10 05:27:06,191 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-09-10 05:27:07,667 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 187884
+2024-09-10 05:28:04,906 - pocketoption - DEBUG - First Check -> Latest ID: 187884 | Existing ID: 187884
+2024-09-10 05:28:05,901 - pocketoption - DEBUG - Balance -> 0 -> Not enough for Withdrawal
+2024-09-10 05:28:05,901 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-09-10 05:28:07,397 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 187884
+2024-09-10 05:29:04,950 - pocketoption - DEBUG - First Check -> Latest ID: 187884 | Existing ID: 187884
+2024-09-10 05:29:05,893 - pocketoption - DEBUG - Balance -> 0 -> Not enough for Withdrawal
+2024-09-10 05:29:05,893 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-09-10 05:29:07,539 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 187884
+2024-09-10 05:30:04,125 - pocketoption - DEBUG - First Check -> Latest ID: 187884 | Existing ID: 187884
+2024-09-10 05:30:05,127 - pocketoption - DEBUG - Balance -> 0 -> Not enough for Withdrawal
+2024-09-10 05:30:05,128 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-09-10 05:30:06,863 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 187884

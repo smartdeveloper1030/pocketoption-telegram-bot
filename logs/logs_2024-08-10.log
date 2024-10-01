@@ -1,0 +1,1358 @@
+2024-08-10 01:02:10,996 - pocketoption - DEBUG - ======== New Session ========
+2024-08-10 01:02:13,321 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 01:02:13,330 - pocketoption - DEBUG - Payout Last Request ID: 182054
+2024-08-10 01:59:02,102 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 01:59:05,792 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 01:59:05,792 - pocketoption - DEBUG - Total time taken to perform the task: 5.1 seconds
+2024-08-10 02:00:00,751 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-10 02:00:01,079 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-10 02:01:01,966 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 02:01:02,497 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 02:01:02,497 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 02:01:03,452 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 02:59:01,997 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 02:59:04,734 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 02:59:04,734 - pocketoption - DEBUG - Total time taken to perform the task: 4.13 seconds
+2024-08-10 03:00:00,854 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-10 03:00:01,136 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-10 03:01:01,832 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 03:01:02,504 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 03:01:02,504 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 03:01:03,396 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 03:59:02,142 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 03:59:05,910 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 03:59:05,910 - pocketoption - DEBUG - Total time taken to perform the task: 5.04 seconds
+2024-08-10 04:00:01,136 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-10 04:00:01,434 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-10 04:01:01,569 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 04:01:02,100 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 04:01:02,100 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 04:01:03,070 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 04:59:02,251 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 04:59:07,004 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 04:59:07,004 - pocketoption - DEBUG - Total time taken to perform the task: 6.18 seconds
+2024-08-10 05:00:01,031 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-10 05:00:01,359 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-10 05:01:01,870 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 05:01:02,511 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 05:01:02,511 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 05:01:03,496 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 05:59:01,891 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 05:59:05,769 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 05:59:05,769 - pocketoption - DEBUG - Total time taken to perform the task: 5.08 seconds
+2024-08-10 06:00:00,168 - pocketoption - DEBUG - No change detected!!
+2024-08-10 06:01:01,994 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 06:01:02,557 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 06:01:02,557 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 06:01:03,603 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 06:59:01,786 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 06:59:04,882 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 06:59:04,882 - pocketoption - DEBUG - Total time taken to perform the task: 4.46 seconds
+2024-08-10 07:00:01,012 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-10 07:00:01,387 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-10 07:01:01,804 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 07:01:02,413 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 07:01:02,413 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 07:01:03,335 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 07:59:01,796 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 07:59:06,362 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 07:59:06,362 - pocketoption - DEBUG - Total time taken to perform the task: 5.96 seconds
+2024-08-10 08:00:01,483 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-10 08:00:01,780 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-10 08:01:01,977 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 08:01:02,540 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 08:01:02,555 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 08:01:03,493 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 08:59:01,225 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 08:59:04,492 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 08:59:04,492 - pocketoption - DEBUG - Total time taken to perform the task: 4.24 seconds
+2024-08-10 09:00:00,830 - pocketoption - DEBUG - No change detected!!
+2024-08-10 09:01:01,379 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 09:01:01,910 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 09:01:01,910 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 09:01:02,801 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 09:59:02,062 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 09:59:04,204 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 09:59:04,204 - pocketoption - DEBUG - Total time taken to perform the task: 3.63 seconds
+2024-08-10 10:00:01,343 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-10 10:00:01,811 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-10 10:01:01,841 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 10:01:02,466 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 10:01:02,482 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 10:01:03,357 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 10:59:01,194 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 10:59:05,449 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 10:59:05,449 - pocketoption - DEBUG - Total time taken to perform the task: 5.25 seconds
+2024-08-10 11:00:00,698 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-10 11:00:01,026 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-10 11:01:01,960 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 11:01:02,538 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 11:01:02,554 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 11:01:03,399 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 11:59:02,026 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 11:59:05,762 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 11:59:05,762 - pocketoption - DEBUG - Total time taken to perform the task: 5.02 seconds
+2024-08-10 12:00:00,861 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-10 12:00:01,174 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-10 12:01:02,077 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 12:01:02,733 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 12:01:02,749 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 12:01:03,624 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 12:59:01,501 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 12:59:03,488 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 12:59:03,488 - pocketoption - DEBUG - Total time taken to perform the task: 3.28 seconds
+2024-08-10 13:00:00,616 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-10 13:00:00,897 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-10 13:01:02,268 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 13:01:02,831 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 13:01:02,831 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 13:01:03,707 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 13:59:02,394 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 13:59:06,289 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 13:59:06,289 - pocketoption - DEBUG - Total time taken to perform the task: 5.47 seconds
+2024-08-10 14:00:01,288 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-10 14:00:01,601 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-10 14:01:01,772 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 14:01:02,507 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 14:01:02,507 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 14:01:03,414 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 14:59:01,476 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 14:59:05,774 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 14:59:05,774 - pocketoption - DEBUG - Total time taken to perform the task: 5.74 seconds
+2024-08-10 15:00:01,013 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-10 15:00:01,294 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-10 15:01:01,931 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 15:01:02,509 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 15:01:02,509 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 15:01:03,573 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 15:59:01,423 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 15:59:04,611 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 15:59:04,611 - pocketoption - DEBUG - Total time taken to perform the task: 4.55 seconds
+2024-08-10 16:00:00,700 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-10 16:00:01,013 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-10 16:01:03,717 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 16:01:04,248 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 16:01:04,248 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 16:01:05,092 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 16:59:01,655 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 16:59:03,860 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 16:59:03,860 - pocketoption - DEBUG - Total time taken to perform the task: 3.66 seconds
+2024-08-10 17:00:00,451 - pocketoption - DEBUG - No change detected!!
+2024-08-10 17:01:02,220 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 17:01:02,767 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 17:01:02,767 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 17:01:03,690 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 17:59:02,091 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 17:59:06,608 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 17:59:06,624 - pocketoption - DEBUG - Total time taken to perform the task: 5.85 seconds
+2024-08-10 18:00:00,797 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-10 18:00:01,140 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-10 18:01:01,790 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 18:01:02,368 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 18:01:02,368 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 18:01:03,229 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 18:59:01,494 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 18:59:03,932 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 18:59:03,932 - pocketoption - DEBUG - Total time taken to perform the task: 3.7 seconds
+2024-08-10 19:00:01,163 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-10 19:00:01,460 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-10 19:01:02,463 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 19:01:03,042 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 19:01:03,042 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 19:01:03,965 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 19:59:02,177 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 19:59:06,054 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 19:59:06,054 - pocketoption - DEBUG - Total time taken to perform the task: 5.27 seconds
+2024-08-10 20:00:00,620 - pocketoption - DEBUG - No change detected!!
+2024-08-10 20:01:02,075 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 20:01:02,669 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 20:01:02,669 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 20:01:03,528 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 20:59:01,572 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 20:59:05,166 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 20:59:05,166 - pocketoption - DEBUG - Total time taken to perform the task: 5.03 seconds
+2024-08-10 21:00:00,779 - pocketoption - DEBUG - No change detected!!
+2024-08-10 21:01:01,913 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 21:01:02,586 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 21:01:02,586 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 21:01:03,523 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 21:59:02,295 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 21:59:04,093 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 21:59:04,093 - pocketoption - DEBUG - Total time taken to perform the task: 3.17 seconds
+2024-08-10 22:00:01,308 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-10 22:00:01,636 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-10 22:01:02,266 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 22:01:02,797 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 22:01:02,797 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 22:01:03,688 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 22:59:02,136 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 22:59:04,402 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 22:59:04,402 - pocketoption - DEBUG - Total time taken to perform the task: 3.52 seconds
+2024-08-10 23:00:00,953 - pocketoption - DEBUG - No change detected!!
+2024-08-10 23:01:01,592 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 23:01:02,186 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-10 23:01:02,186 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-10 23:01:03,201 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-10 23:59:02,160 - pocketoption - DEBUG - Old session worked fine.
+2024-08-10 23:59:06,756 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-10 23:59:06,772 - pocketoption - DEBUG - Total time taken to perform the task: 6.19 seconds
+2024-08-11 00:00:01,008 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-11 00:00:01,305 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-11 00:01:01,907 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 00:01:02,454 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 00:01:02,454 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 00:01:03,376 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 00:59:03,453 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 00:59:05,156 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 00:59:05,156 - pocketoption - DEBUG - Total time taken to perform the task: 4.5 seconds
+2024-08-11 01:00:01,382 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-11 01:00:01,679 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-11 01:01:01,990 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 01:01:02,583 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 01:01:02,583 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 01:01:03,521 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 01:59:02,783 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 01:59:07,145 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 01:59:07,145 - pocketoption - DEBUG - Total time taken to perform the task: 6.57 seconds
+2024-08-11 02:00:00,680 - pocketoption - DEBUG - No change detected!!
+2024-08-11 02:01:02,518 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 02:01:03,127 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 02:01:03,127 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 02:01:04,018 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 02:59:01,714 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 02:59:05,561 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 02:59:05,561 - pocketoption - DEBUG - Total time taken to perform the task: 5.33 seconds
+2024-08-11 03:00:00,814 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-11 03:00:01,126 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-11 03:01:02,295 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 03:01:02,844 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 03:01:02,844 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 03:01:03,860 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 03:59:02,072 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 03:59:05,451 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 03:59:05,466 - pocketoption - DEBUG - Total time taken to perform the task: 4.8 seconds
+2024-08-11 04:00:00,599 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-11 04:00:00,880 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-11 04:01:02,394 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 04:01:02,988 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 04:01:02,988 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 04:01:03,990 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 04:59:02,071 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 04:59:04,588 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 04:59:04,588 - pocketoption - DEBUG - Total time taken to perform the task: 3.91 seconds
+2024-08-11 05:00:00,739 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-11 05:00:01,021 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-11 05:01:02,248 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 05:01:02,875 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 05:01:02,875 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 05:01:03,906 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 05:59:01,815 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 05:59:05,973 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 05:59:05,989 - pocketoption - DEBUG - Total time taken to perform the task: 5.13 seconds
+2024-08-11 06:00:21,613 - pocketoption - ERROR - Target [ID:610323477]: failed
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\aiohttp\connector.py", line 986, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs)  # type: ignore[return-value]  # noqa
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\asyncio\base_events.py", line 1119, in create_connection
+    raise exceptions[0]
+  File "C:\Program Files\Python312\Lib\asyncio\base_events.py", line 1101, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\asyncio\base_events.py", line 1004, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Program Files\Python312\Lib\asyncio\proactor_events.py", line 727, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\asyncio\windows_events.py", line 798, in _poll
+    value = callback(transferred, key, ov)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\asyncio\windows_events.py", line 594, in finish_connect
+    ov.getresult()
+OSError: [WinError 121] The semaphore timeout period has expired
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\aiogram\bot\api.py", line 139, in make_request
+    async with session.post(url, data=req, **kwargs) as response:
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\aiohttp\client.py", line 1138, in __aenter__
+    self._resp = await self._coro
+                 ^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\aiohttp\client.py", line 535, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\aiohttp\connector.py", line 542, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\aiohttp\connector.py", line 907, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\aiohttp\connector.py", line 1206, in _create_direct_connection
+    raise last_exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\aiohttp\connector.py", line 1175, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\aiohttp\connector.py", line 992, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The semaphore timeout period has expired]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 582, in send_message
+    await bot.send_message(user_id, text, disable_notification=disable_notification, disable_web_page_preview=True, **kwargs)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\aiogram\bot\bot.py", line 334, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\aiogram\bot\base.py", line 231, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\aiogram\bot\api.py", line 142, in make_request
+    raise exceptions.NetworkError(f"aiohttp client throws an error: {e.__class__.__name__}: {e}")
+aiogram.utils.exceptions.NetworkError: Aiohttp client throws an error: ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The semaphore timeout period has expired]
+2024-08-11 06:00:55,591 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-11 06:01:02,019 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 06:01:02,628 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 06:01:02,628 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 06:01:03,534 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 06:59:02,086 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 06:59:05,448 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 06:59:05,448 - pocketoption - DEBUG - Total time taken to perform the task: 4.6 seconds
+2024-08-11 07:00:01,459 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-11 07:00:01,756 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-11 07:01:01,574 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 07:01:02,184 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 07:01:02,184 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 07:01:05,436 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 07:59:02,100 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 07:59:03,757 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 07:59:03,757 - pocketoption - DEBUG - Total time taken to perform the task: 3.06 seconds
+2024-08-11 08:00:00,390 - pocketoption - DEBUG - No change detected!!
+2024-08-11 08:01:02,157 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 08:01:02,751 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 08:01:02,751 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 08:01:03,674 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 08:59:02,346 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 08:59:07,302 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 08:59:07,302 - pocketoption - DEBUG - Total time taken to perform the task: 6.47 seconds
+2024-08-11 09:00:01,343 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-11 09:00:01,639 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-11 09:01:01,786 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 09:01:02,348 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 09:01:02,348 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 09:01:03,301 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 09:37:16,855 - pocketoption - DEBUG - Date: 2024-08-04 | Hour: 12
+2024-08-11 09:37:16,887 - pocketoption - DEBUG - Date: 2024-08-11 | Hour: 12
+2024-08-11 09:59:02,382 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 09:59:07,119 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 09:59:07,119 - pocketoption - DEBUG - Total time taken to perform the task: 6.13 seconds
+2024-08-11 10:00:01,253 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-11 10:00:01,567 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-11 10:01:02,195 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 10:01:02,758 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 10:01:02,758 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 10:01:03,664 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 10:59:01,675 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 10:59:03,707 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 10:59:03,707 - pocketoption - DEBUG - Total time taken to perform the task: 3.49 seconds
+2024-08-11 11:00:00,213 - pocketoption - DEBUG - No change detected!!
+2024-08-11 11:01:01,744 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 11:01:02,354 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 11:01:02,354 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 11:01:03,276 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 11:59:02,335 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 11:59:06,570 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 11:59:06,570 - pocketoption - DEBUG - Total time taken to perform the task: 5.63 seconds
+2024-08-11 12:00:00,644 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-11 12:00:00,941 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-11 12:01:02,230 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 12:01:02,857 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 12:01:02,857 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 12:01:03,763 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 12:59:01,964 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 12:59:06,358 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 12:59:06,358 - pocketoption - DEBUG - Total time taken to perform the task: 5.91 seconds
+2024-08-11 13:00:01,709 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-11 13:00:01,992 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-11 13:01:01,669 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 13:01:02,280 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 13:01:02,280 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 13:01:03,390 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 13:59:01,590 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 13:59:03,109 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 13:59:03,109 - pocketoption - DEBUG - Total time taken to perform the task: 3.02 seconds
+2024-08-11 14:00:01,168 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-11 14:00:01,465 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-11 14:01:02,325 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 14:01:02,967 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 14:01:02,967 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 14:01:03,874 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 14:59:01,945 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 14:59:06,731 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 14:59:06,731 - pocketoption - DEBUG - Total time taken to perform the task: 6.08 seconds
+2024-08-11 15:00:00,879 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-11 15:00:01,193 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-11 15:01:01,754 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 15:01:02,318 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 15:01:02,334 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 15:01:03,225 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 15:59:01,796 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 15:59:05,535 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 15:59:05,535 - pocketoption - DEBUG - Total time taken to perform the task: 5.13 seconds
+2024-08-11 16:00:00,677 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-11 16:00:00,974 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-11 16:01:01,606 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 16:01:02,199 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 16:01:02,215 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 16:01:03,125 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 16:59:02,383 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 16:59:05,903 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 16:59:05,903 - pocketoption - DEBUG - Total time taken to perform the task: 4.94 seconds
+2024-08-11 17:00:01,038 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-11 17:00:01,382 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-11 17:01:02,010 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 17:01:02,635 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 17:01:02,651 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 17:01:03,607 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 17:59:02,242 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 17:59:05,012 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 17:59:05,012 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-08-11 18:00:00,462 - pocketoption - DEBUG - No change detected!!
+2024-08-11 18:01:01,883 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 18:01:02,493 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 18:01:02,508 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 18:01:03,448 - pocketoption - DEBUG - Second Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 18:59:02,501 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 18:59:03,455 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 18:59:03,455 - pocketoption - DEBUG - Total time taken to perform the task: 2.52 seconds
+2024-08-11 19:00:00,361 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-11 19:00:00,737 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-11 19:01:01,861 - pocketoption - DEBUG - First Check -> Latest ID: 182054 | Existing ID: 182054
+2024-08-11 19:01:03,284 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 19:01:04,223 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-08-11 19:01:06,475 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/history
+2024-08-11 19:01:06,522 - pocketoption - DEBUG - INVALID AMOUNT STRING: 12979.00
+2024-08-11 19:01:12,901 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/history
+2024-08-11 19:01:12,963 - pocketoption - DEBUG - INVALID AMOUNT STRING: 12979.00
+2024-08-11 19:01:12,963 - pocketoption - DEBUG - PROCESS_WITHDRAWAL_VERIFICATION -> FAILED -> 12979
+2024-08-11 19:01:12,963 - pocketoption - DEBUG - Auto-Withdrawal request for $12979 (Balance) failed!!
+2024-08-11 19:01:12,963 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 19:01:13,903 - pocketoption - DEBUG - Second Check -> Latest ID: 182857 | Existing ID: 182054
+2024-08-11 19:59:02,033 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 19:59:02,971 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 19:59:02,971 - pocketoption - DEBUG - Total time taken to perform the task: 2.24 seconds
+2024-08-11 20:00:01,153 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-11 20:00:01,465 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-11 20:01:02,075 - pocketoption - DEBUG - First Check -> Latest ID: 182857 | Existing ID: 182857
+2024-08-11 20:01:02,685 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 20:01:02,685 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 20:01:03,608 - pocketoption - DEBUG - Second Check -> Latest ID: 182857 | Existing ID: 182857
+2024-08-11 20:59:02,182 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 20:59:03,590 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 20:59:03,590 - pocketoption - DEBUG - Total time taken to perform the task: 2.82 seconds
+2024-08-11 21:00:01,566 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-11 21:00:01,848 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-11 21:01:01,658 - pocketoption - DEBUG - First Check -> Latest ID: 182857 | Existing ID: 182857
+2024-08-11 21:01:02,300 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 21:01:02,300 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 21:01:04,585 - pocketoption - DEBUG - Second Check -> Latest ID: 182857 | Existing ID: 182857
+2024-08-11 21:59:02,162 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 21:59:04,259 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 21:59:04,259 - pocketoption - DEBUG - Total time taken to perform the task: 3.52 seconds
+2024-08-11 22:00:01,422 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-11 22:00:01,766 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-11 22:01:02,421 - pocketoption - DEBUG - First Check -> Latest ID: 182857 | Existing ID: 182857
+2024-08-11 22:01:03,046 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 22:01:03,046 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 22:01:04,001 - pocketoption - DEBUG - Second Check -> Latest ID: 182857 | Existing ID: 182857
+2024-08-11 22:59:01,552 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 22:59:03,897 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 22:59:03,913 - pocketoption - DEBUG - Total time taken to perform the task: 3.89 seconds
+2024-08-11 23:00:00,487 - pocketoption - DEBUG - No change detected!!
+2024-08-11 23:01:02,127 - pocketoption - DEBUG - First Check -> Latest ID: 182857 | Existing ID: 182857
+2024-08-11 23:01:02,722 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-11 23:01:02,722 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-11 23:01:03,692 - pocketoption - DEBUG - Second Check -> Latest ID: 182857 | Existing ID: 182857
+2024-08-11 23:59:02,315 - pocketoption - DEBUG - Old session worked fine.
+2024-08-11 23:59:03,644 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-11 23:59:03,659 - pocketoption - DEBUG - Total time taken to perform the task: 2.77 seconds
+2024-08-12 00:00:00,716 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 00:00:00,998 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 00:01:01,563 - pocketoption - DEBUG - First Check -> Latest ID: 182857 | Existing ID: 182857
+2024-08-12 00:01:02,172 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 00:01:02,172 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 00:01:03,156 - pocketoption - DEBUG - Second Check -> Latest ID: 182857 | Existing ID: 182857
+2024-08-12 00:59:02,225 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 00:59:05,525 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 00:59:05,525 - pocketoption - DEBUG - Total time taken to perform the task: 4.61 seconds
+2024-08-12 01:00:00,653 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 01:00:00,935 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 01:01:01,825 - pocketoption - DEBUG - First Check -> Latest ID: 182857 | Existing ID: 182857
+2024-08-12 01:01:02,514 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 01:01:02,514 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 01:01:03,468 - pocketoption - DEBUG - Second Check -> Latest ID: 182857 | Existing ID: 182857
+2024-08-12 01:59:02,138 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 01:59:04,358 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 01:59:04,358 - pocketoption - DEBUG - Total time taken to perform the task: 3.97 seconds
+2024-08-12 02:00:01,690 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 02:00:01,987 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 02:01:02,891 - pocketoption - DEBUG - First Check -> Latest ID: 182857 | Existing ID: 182857
+2024-08-12 02:01:03,502 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 02:01:03,502 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 02:01:04,486 - pocketoption - DEBUG - Second Check -> Latest ID: 182857 | Existing ID: 182857
+2024-08-12 02:59:01,485 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 02:59:04,847 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 02:59:04,847 - pocketoption - DEBUG - Total time taken to perform the task: 4.41 seconds
+2024-08-12 03:00:00,350 - pocketoption - DEBUG - No change detected!!
+2024-08-12 03:01:01,710 - pocketoption - DEBUG - First Check -> Latest ID: 182857 | Existing ID: 182857
+2024-08-12 03:01:02,553 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 03:01:02,553 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 03:01:03,553 - pocketoption - DEBUG - Second Check -> Latest ID: 182857 | Existing ID: 182857
+2024-08-12 03:59:02,116 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 03:59:06,369 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 03:59:06,369 - pocketoption - DEBUG - Total time taken to perform the task: 5.94 seconds
+2024-08-12 04:00:01,506 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 04:00:01,787 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 04:01:02,566 - pocketoption - DEBUG - First Check -> Latest ID: 182857 | Existing ID: 182857
+2024-08-12 04:01:04,097 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 04:01:05,285 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-08-12 04:01:07,711 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/history
+2024-08-12 04:01:09,211 - pocketoption - DEBUG - INVALID AMOUNT STRING: 196.00
+2024-08-12 04:01:16,263 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/history
+2024-08-12 04:01:16,296 - pocketoption - DEBUG - INVALID AMOUNT STRING: 196.00
+2024-08-12 04:01:16,296 - pocketoption - DEBUG - PROCESS_WITHDRAWAL_VERIFICATION -> FAILED -> 196
+2024-08-12 04:01:16,296 - pocketoption - DEBUG - Auto-Withdrawal request for $196 (Balance) failed!!
+2024-08-12 04:01:16,296 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 04:01:17,672 - pocketoption - DEBUG - Second Check -> Latest ID: 183486 | Existing ID: 182857
+2024-08-12 04:59:01,474 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 04:59:09,670 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 04:59:09,670 - pocketoption - DEBUG - Total time taken to perform the task: 9.63 seconds
+2024-08-12 05:00:00,624 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 05:00:00,905 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 05:01:02,170 - pocketoption - DEBUG - First Check -> Latest ID: 183486 | Existing ID: 183486
+2024-08-12 05:01:02,763 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 05:01:02,763 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 05:01:03,685 - pocketoption - DEBUG - Second Check -> Latest ID: 183486 | Existing ID: 183486
+2024-08-12 05:59:01,886 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 05:59:09,080 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 60, in map_httpcore_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 291, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 253, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 237, in handle_async_request
+    response = await connection.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 90, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 102, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 81, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 143, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 186, in _receive_event
+    raise RemoteProtocolError(msg)
+httpcore.RemoteProtocolError: Server disconnected without sending a response.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 175, in process_statistics
+    res_statistics = await fetch(
+                     ^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 79, in fetch
+    return await core.session.get(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1736, in get
+    return await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1513, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1600, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1628, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1665, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1702, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 290, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 77, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.RemoteProtocolError: Server disconnected without sending a response.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 131, in _call_sslobject_method
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 859, in read
+    v = self._sslobj.read(len)
+        ^^^^^^^^^^^^^^^^^^^^^^
+ssl.SSLWantReadError: The operation did not complete (read) (_ssl.c:2559)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 31, in read
+    return await self._stream.receive(max_bytes=max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 196, in receive
+    data = await self._call_sslobject_method(self._ssl_object.read, max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 138, in _call_sslobject_method
+    data = await self.transport_stream.receive()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 1203, in receive
+    await self._protocol.read_event.wait()
+  File "C:\Program Files\Python312\Lib\asyncio\locks.py", line 212, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 8, in map_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 29, in read
+    with anyio.fail_after(timeout):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_tasks.py", line 119, in __exit__
+    raise TimeoutError
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 60, in map_httpcore_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 291, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 253, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 237, in handle_async_request
+    response = await connection.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 90, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 102, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 81, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 143, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 172, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 28, in read
+    with map_exceptions(exc_map):
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc)
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 175, in process_statistics
+    res_statistics = await fetch(
+                     ^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 79, in fetch
+    return await core.session.get(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1736, in get
+    return await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1513, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1600, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1628, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1665, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1702, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 290, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 77, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+2024-08-12 05:59:09,674 - pocketoption - DEBUG - Total time taken to perform the task: 9.29 seconds
+2024-08-12 05:59:11,909 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 05:59:12,597 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 05:59:12,597 - pocketoption - DEBUG - Total time taken to perform the task: 1.89 seconds
+2024-08-12 06:00:01,586 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 06:00:01,884 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 06:01:01,740 - pocketoption - DEBUG - First Check -> Latest ID: 183486 | Existing ID: 183486
+2024-08-12 06:01:02,491 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 06:01:02,491 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 06:01:03,509 - pocketoption - DEBUG - Second Check -> Latest ID: 183486 | Existing ID: 183486
+2024-08-12 06:59:02,466 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 06:59:11,582 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 06:59:11,582 - pocketoption - DEBUG - Total time taken to perform the task: 10.6 seconds
+2024-08-12 07:00:01,517 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 07:00:01,908 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 07:01:01,971 - pocketoption - DEBUG - First Check -> Latest ID: 183486 | Existing ID: 183486
+2024-08-12 07:01:02,611 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 07:01:02,611 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 07:01:03,533 - pocketoption - DEBUG - Second Check -> Latest ID: 183486 | Existing ID: 183486
+2024-08-12 07:26:38,054 - pocketoption - DEBUG - Date: 2024-08-05 | Hour: 10
+2024-08-12 07:26:38,148 - pocketoption - DEBUG - Date: 2024-08-12 | Hour: 10
+2024-08-12 07:59:02,027 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 07:59:06,374 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 07:59:06,374 - pocketoption - DEBUG - Total time taken to perform the task: 5.78 seconds
+2024-08-12 08:00:01,501 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 08:00:01,782 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 08:01:01,266 - pocketoption - DEBUG - First Check -> Latest ID: 183486 | Existing ID: 183486
+2024-08-12 08:01:01,875 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 08:01:01,875 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 08:01:02,830 - pocketoption - DEBUG - Second Check -> Latest ID: 183486 | Existing ID: 183486
+2024-08-12 08:59:02,142 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 08:59:10,756 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 08:59:10,771 - pocketoption - DEBUG - Total time taken to perform the task: 9.91 seconds
+2024-08-12 09:00:00,870 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 09:00:01,184 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 09:01:02,450 - pocketoption - DEBUG - First Check -> Latest ID: 183486 | Existing ID: 183486
+2024-08-12 09:01:03,044 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 09:01:03,044 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 09:01:04,013 - pocketoption - DEBUG - Second Check -> Latest ID: 183486 | Existing ID: 183486
+2024-08-12 09:59:01,748 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 09:59:10,318 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 09:59:10,318 - pocketoption - DEBUG - Total time taken to perform the task: 9.88 seconds
+2024-08-12 10:00:01,376 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 10:00:01,752 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 10:01:02,454 - pocketoption - DEBUG - First Check -> Latest ID: 183486 | Existing ID: 183486
+2024-08-12 10:01:03,049 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 10:01:03,049 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 10:01:04,097 - pocketoption - DEBUG - Second Check -> Latest ID: 183486 | Existing ID: 183486
+2024-08-12 10:49:03,433 - pocketoption - DEBUG - Date: 2024-08-05 | Hour: 13
+2024-08-12 10:49:03,448 - pocketoption - DEBUG - Date: 2024-08-12 | Hour: 13
+2024-08-12 10:59:02,558 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 10:59:14,692 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 131, in _call_sslobject_method
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 859, in read
+    v = self._sslobj.read(len)
+        ^^^^^^^^^^^^^^^^^^^^^^
+ssl.SSLWantReadError: The operation did not complete (read) (_ssl.c:2559)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 31, in read
+    return await self._stream.receive(max_bytes=max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 196, in receive
+    data = await self._call_sslobject_method(self._ssl_object.read, max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 138, in _call_sslobject_method
+    data = await self.transport_stream.receive()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 1203, in receive
+    await self._protocol.read_event.wait()
+  File "C:\Program Files\Python312\Lib\asyncio\locks.py", line 212, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 8, in map_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 29, in read
+    with anyio.fail_after(timeout):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_tasks.py", line 119, in __exit__
+    raise TimeoutError
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 60, in map_httpcore_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 291, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 253, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 237, in handle_async_request
+    response = await connection.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 90, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 102, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 81, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 143, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 172, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 28, in read
+    with map_exceptions(exc_map):
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc)
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 175, in process_statistics
+    res_statistics = await fetch(
+                     ^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 79, in fetch
+    return await core.session.get(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1736, in get
+    return await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1513, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1600, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1628, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1665, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1702, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 290, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 77, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 131, in _call_sslobject_method
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 859, in read
+    v = self._sslobj.read(len)
+        ^^^^^^^^^^^^^^^^^^^^^^
+ssl.SSLWantReadError: The operation did not complete (read) (_ssl.c:2559)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 31, in read
+    return await self._stream.receive(max_bytes=max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 196, in receive
+    data = await self._call_sslobject_method(self._ssl_object.read, max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 138, in _call_sslobject_method
+    data = await self.transport_stream.receive()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 1203, in receive
+    await self._protocol.read_event.wait()
+  File "C:\Program Files\Python312\Lib\asyncio\locks.py", line 212, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 8, in map_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 29, in read
+    with anyio.fail_after(timeout):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_tasks.py", line 119, in __exit__
+    raise TimeoutError
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 60, in map_httpcore_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 291, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 253, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 237, in handle_async_request
+    response = await connection.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 90, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 102, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 81, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 143, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 172, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 28, in read
+    with map_exceptions(exc_map):
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc)
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 175, in process_statistics
+    res_statistics = await fetch(
+                     ^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 79, in fetch
+    return await core.session.get(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1736, in get
+    return await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1513, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1600, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1628, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1665, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1702, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 290, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 77, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+2024-08-12 10:59:14,723 - pocketoption - DEBUG - Total time taken to perform the task: 13.78 seconds
+2024-08-12 10:59:16,991 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 10:59:18,743 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 10:59:18,743 - pocketoption - DEBUG - Total time taken to perform the task: 3.02 seconds
+2024-08-12 11:00:00,676 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 11:00:00,974 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 11:01:02,976 - pocketoption - DEBUG - First Check -> Latest ID: 183486 | Existing ID: 183486
+2024-08-12 11:01:03,524 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 11:01:03,524 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 11:01:04,492 - pocketoption - DEBUG - Second Check -> Latest ID: 183486 | Existing ID: 183486
+2024-08-12 11:59:01,794 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 11:59:09,990 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 11:59:09,990 - pocketoption - DEBUG - Total time taken to perform the task: 9.63 seconds
+2024-08-12 12:00:01,157 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 12:00:01,485 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 12:01:03,110 - pocketoption - DEBUG - First Check -> Latest ID: 183486 | Existing ID: 183486
+2024-08-12 12:01:04,597 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 12:01:05,722 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-08-12 12:01:07,723 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/history
+2024-08-12 12:01:07,754 - pocketoption - DEBUG - INVALID AMOUNT STRING: 349.00
+2024-08-12 12:01:14,086 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/history
+2024-08-12 12:01:14,133 - pocketoption - DEBUG - INVALID AMOUNT STRING: 349.00
+2024-08-12 12:01:14,133 - pocketoption - DEBUG - PROCESS_WITHDRAWAL_VERIFICATION -> FAILED -> 349
+2024-08-12 12:01:14,133 - pocketoption - DEBUG - Auto-Withdrawal request for $349 (Balance) failed!!
+2024-08-12 12:01:14,133 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 12:01:15,057 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183486
+2024-08-12 12:15:38,282 - pocketoption - DEBUG - Date: 2024-08-05 | Hour: 15
+2024-08-12 12:15:38,282 - pocketoption - DEBUG - Date: 2024-08-12 | Hour: 15
+2024-08-12 12:59:01,878 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 12:59:05,740 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 12:59:05,740 - pocketoption - DEBUG - Total time taken to perform the task: 5.27 seconds
+2024-08-12 13:00:00,761 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 13:00:01,168 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 13:01:01,887 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 13:01:02,498 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 13:01:02,498 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 13:01:03,451 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 13:59:01,810 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 13:59:09,833 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 13:59:09,833 - pocketoption - DEBUG - Total time taken to perform the task: 9.55 seconds
+2024-08-12 14:00:02,258 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 14:00:02,617 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 14:01:02,427 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 14:01:02,974 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 14:01:02,974 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 14:01:03,927 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 14:59:01,689 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 14:59:05,504 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 14:59:05,504 - pocketoption - DEBUG - Total time taken to perform the task: 5.36 seconds
+2024-08-12 15:00:00,989 - pocketoption - DEBUG - No change detected!!
+2024-08-12 15:01:02,393 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 15:01:02,989 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 15:01:02,989 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 15:01:04,005 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 15:59:02,277 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 15:59:06,435 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 15:59:06,435 - pocketoption - DEBUG - Total time taken to perform the task: 5.67 seconds
+2024-08-12 16:00:00,698 - pocketoption - DEBUG - No change detected!!
+2024-08-12 16:01:01,228 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 16:01:01,869 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 16:01:01,869 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 16:01:02,838 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 16:59:01,798 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 16:59:06,051 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 16:59:06,051 - pocketoption - DEBUG - Total time taken to perform the task: 5.71 seconds
+2024-08-12 17:00:01,150 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 17:00:01,431 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 17:01:02,854 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 17:01:03,495 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 17:01:03,495 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 17:01:04,574 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 17:59:02,126 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 17:59:06,316 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 17:59:06,316 - pocketoption - DEBUG - Total time taken to perform the task: 5.65 seconds
+2024-08-12 18:00:01,389 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 18:00:01,670 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 18:01:02,556 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 18:01:03,181 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 18:01:03,181 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 18:01:04,150 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 18:59:01,486 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 18:59:04,864 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 18:59:04,864 - pocketoption - DEBUG - Total time taken to perform the task: 4.36 seconds
+2024-08-12 19:00:01,046 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 19:00:01,374 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 19:01:01,748 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 19:01:02,296 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 19:01:02,312 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 19:01:03,266 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 19:59:01,382 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 19:59:04,696 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 19:59:04,696 - pocketoption - DEBUG - Total time taken to perform the task: 4.53 seconds
+2024-08-12 20:00:00,763 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 20:00:01,045 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 20:01:02,531 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 20:01:03,124 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 20:01:03,124 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 20:01:04,078 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 20:59:02,166 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 20:59:05,591 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 20:59:05,591 - pocketoption - DEBUG - Total time taken to perform the task: 4.96 seconds
+2024-08-12 21:00:00,731 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 21:00:01,028 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 21:01:01,729 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 21:01:02,291 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 21:01:02,291 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 21:01:03,291 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 21:59:02,254 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 21:59:05,552 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 21:59:05,552 - pocketoption - DEBUG - Total time taken to perform the task: 4.77 seconds
+2024-08-12 22:00:00,699 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-12 22:00:01,011 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-12 22:00:55,974 - pocketoption - DEBUG - Date: 2024-08-06 | Hour: 1
+2024-08-12 22:00:56,036 - pocketoption - DEBUG - Date: 2024-08-13 | Hour: 1
+2024-08-12 22:01:01,761 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 22:01:02,387 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 22:01:02,387 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 22:01:03,340 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 22:59:01,894 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 22:59:06,395 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 22:59:06,395 - pocketoption - DEBUG - Total time taken to perform the task: 6.0 seconds
+2024-08-12 23:00:00,871 - pocketoption - DEBUG - No change detected!!
+2024-08-12 23:01:02,230 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 23:01:02,932 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-12 23:01:02,932 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-12 23:01:03,917 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-12 23:59:02,581 - pocketoption - DEBUG - Old session worked fine.
+2024-08-12 23:59:11,070 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-12 23:59:11,070 - pocketoption - DEBUG - Total time taken to perform the task: 10.68 seconds
+2024-08-13 00:00:01,221 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 00:00:01,533 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 00:01:02,877 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 00:01:03,455 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 00:01:03,455 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 00:01:06,596 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 00:59:01,802 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 00:59:05,334 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 00:59:05,334 - pocketoption - DEBUG - Total time taken to perform the task: 5.21 seconds
+2024-08-13 01:00:01,494 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 01:00:01,791 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 01:01:01,933 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 01:01:02,480 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 01:01:02,496 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 01:01:03,496 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 01:09:41,323 - pocketoption - DEBUG - Date: 2024-08-06 | Hour: 4
+2024-08-13 01:09:41,432 - pocketoption - DEBUG - Date: 2024-08-13 | Hour: 4
+2024-08-13 01:59:03,182 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 01:59:06,887 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 01:59:06,887 - pocketoption - DEBUG - Total time taken to perform the task: 5.99 seconds
+2024-08-13 02:00:01,009 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 02:00:01,290 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 02:01:02,523 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 02:01:03,087 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 02:01:03,087 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 02:01:04,088 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 02:59:01,775 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 02:59:06,528 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 02:59:06,528 - pocketoption - DEBUG - Total time taken to perform the task: 6.15 seconds
+2024-08-13 03:00:01,591 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 03:00:01,888 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 03:01:01,952 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 03:01:02,515 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 03:01:02,515 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 03:01:03,499 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 03:59:02,104 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 03:59:06,513 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 03:59:06,513 - pocketoption - DEBUG - Total time taken to perform the task: 5.91 seconds
+2024-08-13 04:00:01,476 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 04:00:01,757 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 04:01:01,710 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 04:01:02,305 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 04:01:02,305 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 04:01:03,290 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 04:59:01,193 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 04:59:05,994 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 04:59:05,994 - pocketoption - DEBUG - Total time taken to perform the task: 5.88 seconds
+2024-08-13 05:00:00,447 - pocketoption - DEBUG - No change detected!!
+2024-08-13 05:01:02,433 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 05:01:02,948 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 05:01:02,964 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 05:01:03,777 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 05:59:01,803 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 05:59:09,592 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 05:59:09,592 - pocketoption - DEBUG - Total time taken to perform the task: 8.85 seconds
+2024-08-13 06:00:00,792 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 06:00:01,120 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 06:01:01,823 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 06:01:02,356 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 06:01:02,356 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 06:01:03,137 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 06:59:02,595 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 06:59:05,768 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 06:59:05,784 - pocketoption - DEBUG - Total time taken to perform the task: 5.46 seconds
+2024-08-13 07:00:01,047 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 07:00:01,375 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 07:01:01,782 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 07:01:02,268 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 07:01:02,268 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 07:01:03,097 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 07:59:01,611 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 07:59:06,022 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 07:59:06,022 - pocketoption - DEBUG - Total time taken to perform the task: 5.49 seconds
+2024-08-13 08:00:01,007 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 08:00:01,288 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 08:01:03,727 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 08:01:04,196 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 08:01:04,196 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 08:01:05,010 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 08:59:01,337 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 08:59:09,172 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 08:59:09,172 - pocketoption - DEBUG - Total time taken to perform the task: 8.87 seconds
+2024-08-13 09:00:00,592 - pocketoption - DEBUG - No change detected!!
+2024-08-13 09:01:01,511 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 09:01:02,120 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 09:01:02,120 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 09:01:02,891 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 09:59:01,426 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 09:59:05,462 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 09:59:05,478 - pocketoption - DEBUG - Total time taken to perform the task: 5.05 seconds
+2024-08-13 10:00:01,493 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 10:00:01,790 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 10:01:01,350 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 10:01:01,897 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 10:01:01,897 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 10:01:02,788 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 10:59:02,001 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 10:59:09,868 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 10:59:09,868 - pocketoption - DEBUG - Total time taken to perform the task: 8.98 seconds
+2024-08-13 11:00:00,792 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 11:00:01,089 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 11:01:01,347 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 11:01:01,847 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 11:01:01,847 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 11:01:02,628 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 11:59:01,592 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 11:59:09,473 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 11:59:09,473 - pocketoption - DEBUG - Total time taken to perform the task: 8.95 seconds
+2024-08-13 12:00:01,495 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 12:00:01,823 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 12:01:01,618 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 12:01:02,212 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 12:01:02,212 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 12:01:03,636 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 12:59:01,436 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 12:59:08,990 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 12:59:08,990 - pocketoption - DEBUG - Total time taken to perform the task: 8.54 seconds
+2024-08-13 13:00:01,039 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 13:00:01,367 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 13:01:01,534 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 13:01:02,019 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 13:01:02,019 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 13:01:02,957 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 13:59:01,529 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 13:59:10,286 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 13:59:10,286 - pocketoption - DEBUG - Total time taken to perform the task: 9.85 seconds
+2024-08-13 14:00:01,209 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 14:00:01,584 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 14:01:01,669 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 14:01:02,201 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 14:01:02,201 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 14:01:03,045 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 14:16:25,345 - pocketoption - DEBUG - Date: 2024-08-06 | Hour: 17
+2024-08-13 14:16:25,376 - pocketoption - DEBUG - Date: 2024-08-13 | Hour: 17
+2024-08-13 14:59:01,921 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 14:59:09,803 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 14:59:09,803 - pocketoption - DEBUG - Total time taken to perform the task: 8.99 seconds
+2024-08-13 15:00:00,781 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 15:00:01,156 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 15:01:01,886 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 15:01:02,448 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 15:01:02,448 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 15:01:03,479 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 15:59:01,387 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 15:59:09,221 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 15:59:09,221 - pocketoption - DEBUG - Total time taken to perform the task: 9.01 seconds
+2024-08-13 16:00:01,199 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 16:00:01,496 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 16:01:02,185 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 16:01:02,733 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 16:01:02,733 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 16:01:03,577 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 16:59:01,587 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 16:59:05,777 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 16:59:05,777 - pocketoption - DEBUG - Total time taken to perform the task: 5.3 seconds
+2024-08-13 17:00:00,914 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 17:00:01,227 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 17:01:01,659 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 17:01:02,238 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 17:01:02,238 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 17:01:03,160 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 17:59:01,222 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 17:59:08,886 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 17:59:08,902 - pocketoption - DEBUG - Total time taken to perform the task: 8.44 seconds
+2024-08-13 18:00:00,372 - pocketoption - DEBUG - No change detected!!
+2024-08-13 18:01:01,449 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 18:01:01,933 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 18:01:01,949 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 18:01:02,778 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 18:59:02,004 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 18:59:05,993 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 18:59:05,993 - pocketoption - DEBUG - Total time taken to perform the task: 5.11 seconds
+2024-08-13 19:00:00,894 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 19:00:01,223 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 19:01:01,813 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 19:01:02,329 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 19:01:02,345 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 19:01:03,157 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 19:59:02,006 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 19:59:05,259 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 19:59:05,259 - pocketoption - DEBUG - Total time taken to perform the task: 4.53 seconds
+2024-08-13 20:00:01,550 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 20:00:01,878 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 20:01:02,098 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 20:01:02,645 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 20:01:02,645 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 20:01:03,567 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 20:21:33,895 - pocketoption - DEBUG - Date: 2024-08-06 | Hour: 23
+2024-08-13 20:21:33,989 - pocketoption - DEBUG - Date: 2024-08-13 | Hour: 23
+2024-08-13 20:59:01,572 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 20:59:05,920 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 20:59:05,920 - pocketoption - DEBUG - Total time taken to perform the task: 5.57 seconds
+2024-08-13 21:00:01,153 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 21:00:01,435 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 21:01:01,104 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 21:01:01,620 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 21:01:01,620 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 21:01:02,482 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 21:59:01,876 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 21:59:06,444 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 21:59:06,444 - pocketoption - DEBUG - Total time taken to perform the task: 5.63 seconds
+2024-08-13 22:00:01,594 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 22:00:01,907 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 22:01:01,752 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 22:01:02,268 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 22:01:02,268 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 22:01:03,144 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 22:59:01,160 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 22:59:05,225 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 22:59:05,225 - pocketoption - DEBUG - Total time taken to perform the task: 5.14 seconds
+2024-08-13 23:00:01,178 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-13 23:00:01,505 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-13 23:01:04,008 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 23:01:04,508 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-13 23:01:04,508 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-13 23:01:05,274 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-13 23:59:01,212 - pocketoption - DEBUG - Old session worked fine.
+2024-08-13 23:59:04,776 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-13 23:59:04,776 - pocketoption - DEBUG - Total time taken to perform the task: 4.71 seconds
+2024-08-14 00:00:01,045 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 00:00:01,545 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 00:01:02,045 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 00:01:02,561 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 00:01:02,576 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 00:01:03,373 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 00:59:01,004 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 00:59:04,740 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 00:59:04,740 - pocketoption - DEBUG - Total time taken to perform the task: 4.47 seconds
+2024-08-14 01:00:00,808 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 01:00:01,120 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 01:01:01,351 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 01:01:01,835 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 01:01:01,835 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 01:01:02,695 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 01:59:02,958 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 01:59:06,350 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 01:59:06,366 - pocketoption - DEBUG - Total time taken to perform the task: 5.71 seconds
+2024-08-14 02:00:01,708 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 02:00:02,022 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 02:01:02,094 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 02:01:02,656 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 02:01:02,656 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 02:01:03,625 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 02:59:01,273 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 02:59:05,635 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 02:59:05,635 - pocketoption - DEBUG - Total time taken to perform the task: 5.52 seconds
+2024-08-14 03:00:00,706 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 03:00:00,988 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 03:01:02,549 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 03:01:03,144 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 03:01:03,160 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 03:01:04,209 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850

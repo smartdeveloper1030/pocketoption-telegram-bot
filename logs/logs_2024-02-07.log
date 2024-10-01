@@ -1,0 +1,109 @@
+2024-02-07 21:53:21,772 - pocketoption - DEBUG - ======== New Session ========
+2024-02-07 21:53:23,128 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-02-07 21:53:24,727 - pocketoption - DEBUG - Logged-In successfully!
+2024-02-07 21:53:24,727 - pocketoption - DEBUG - Cookies Saved!!
+2024-02-07 21:59:02,051 - pocketoption - DEBUG - Old session worked fine.
+2024-02-07 21:59:03,248 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-07 21:59:03,248 - pocketoption - DEBUG - Total time taken to perform the task: 2.31 seconds
+2024-02-07 22:00:01,414 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-07 22:00:01,773 - pocketoption - ERROR - Target [ID:1838317981]: invalid user ID
+2024-02-07 22:01:01,280 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-07 22:01:02,008 - pocketoption - DEBUG - Old session worked fine.
+2024-02-07 22:01:02,735 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-07 22:01:03,979 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-07 22:01:04,013 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'U9xhQQd5iaZtsKObEAu6VzOFNYsWFs2UYIfU5hYX', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-07 22:01:04,013 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-07 22:01:04,013 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-07 22:59:01,780 - pocketoption - DEBUG - Old session worked fine.
+2024-02-07 22:59:02,909 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-07 22:59:02,909 - pocketoption - DEBUG - Total time taken to perform the task: 1.99 seconds
+2024-02-07 23:00:00,538 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-07 23:00:00,788 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-07 23:01:01,422 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-07 23:01:02,204 - pocketoption - DEBUG - Old session worked fine.
+2024-02-07 23:01:02,895 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-07 23:01:04,080 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-07 23:01:04,111 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'U9xhQQd5iaZtsKObEAu6VzOFNYsWFs2UYIfU5hYX', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-07 23:01:04,111 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-07 23:01:04,111 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-07 23:59:02,023 - pocketoption - DEBUG - Old session worked fine.
+2024-02-07 23:59:03,135 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-07 23:59:03,151 - pocketoption - DEBUG - Total time taken to perform the task: 2.32 seconds
+2024-02-08 00:00:01,078 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-08 00:00:01,312 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-08 00:01:01,554 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 00:01:02,290 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 00:01:03,010 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 00:01:04,231 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 00:01:04,263 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'U9xhQQd5iaZtsKObEAu6VzOFNYsWFs2UYIfU5hYX', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 00:01:04,263 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 00:01:04,263 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 00:59:01,424 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 00:59:02,579 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 00:59:02,579 - pocketoption - DEBUG - Total time taken to perform the task: 2.3 seconds
+2024-02-08 01:00:00,545 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-08 01:00:00,795 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-08 01:01:01,568 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 01:01:02,303 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 01:01:03,069 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 01:01:04,258 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 01:01:04,306 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'U9xhQQd5iaZtsKObEAu6VzOFNYsWFs2UYIfU5hYX', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 01:01:04,306 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 01:01:04,307 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 01:59:01,106 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 01:59:02,295 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 01:59:02,295 - pocketoption - DEBUG - Total time taken to perform the task: 2.07 seconds
+2024-02-08 02:00:00,837 - pocketoption - DEBUG - No change detected!!
+2024-02-08 02:01:01,813 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 02:01:02,579 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 02:01:03,314 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 02:01:04,706 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 02:01:04,737 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'U9xhQQd5iaZtsKObEAu6VzOFNYsWFs2UYIfU5hYX', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 02:01:04,737 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 02:01:04,737 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 02:59:02,116 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 02:59:03,415 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 02:59:03,415 - pocketoption - DEBUG - Total time taken to perform the task: 2.73 seconds
+2024-02-08 03:00:01,145 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-08 03:00:01,381 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-08 03:01:02,049 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 03:01:03,114 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 03:01:04,068 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 03:01:05,866 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 03:01:05,881 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'U9xhQQd5iaZtsKObEAu6VzOFNYsWFs2UYIfU5hYX', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 03:01:05,897 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 03:01:05,897 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 03:59:02,472 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 03:59:03,787 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 03:59:03,787 - pocketoption - DEBUG - Total time taken to perform the task: 2.8 seconds
+2024-02-08 04:00:00,926 - pocketoption - DEBUG - No change detected!!
+2024-02-08 04:01:01,240 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 04:01:02,226 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 04:01:03,322 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 04:01:04,684 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 04:01:04,716 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'U9xhQQd5iaZtsKObEAu6VzOFNYsWFs2UYIfU5hYX', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 04:01:04,716 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 04:01:04,716 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 04:59:01,771 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 04:59:03,132 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 04:59:03,132 - pocketoption - DEBUG - Total time taken to perform the task: 2.66 seconds
+2024-02-08 05:00:00,490 - pocketoption - DEBUG - No change detected!!
+2024-02-08 05:01:01,641 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 05:01:02,563 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 05:01:03,393 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 05:01:04,756 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 05:01:04,943 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'U9xhQQd5iaZtsKObEAu6VzOFNYsWFs2UYIfU5hYX', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 05:01:04,943 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 05:01:04,943 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal
+2024-02-08 05:59:02,365 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 05:59:03,585 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 05:59:03,585 - pocketoption - DEBUG - Total time taken to perform the task: 2.71 seconds
+2024-02-08 06:00:01,372 - pocketoption - INFO - Target [ID:610323477]: success
+2024-02-08 06:00:01,622 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-02-08 06:01:01,480 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-02-08 06:01:02,340 - pocketoption - DEBUG - Old session worked fine.
+2024-02-08 06:01:03,201 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 06:01:04,939 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-02-08 06:01:04,970 - pocketoption - DEBUG - WARN_PROCESS_WITHDRAWAL: 200 (https://affiliate.pocketoption.com/en/payments/request) ({'_token': 'U9xhQQd5iaZtsKObEAu6VzOFNYsWFs2UYIfU5hYX', 'amount': '103', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) (Balance) -> Error: Attempt to read property "purse" on null
+2024-02-08 06:01:04,970 - pocketoption - DEBUG - Auto-Withdrawal request for $103 (Balance) failed!!
+2024-02-08 06:01:04,970 - pocketoption - DEBUG - Bonus -> 0 -> Not enough for Withdrawal

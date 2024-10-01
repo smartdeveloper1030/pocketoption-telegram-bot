@@ -1,0 +1,946 @@
+2024-08-14 03:41:38,129 - pocketoption - DEBUG - ======== New Session ========
+2024-08-14 03:41:40,656 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 03:41:40,669 - pocketoption - DEBUG - Payout Last Request ID: 183850
+2024-08-14 03:59:01,116 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 03:59:09,059 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 03:59:09,059 - pocketoption - DEBUG - Total time taken to perform the task: 9.02 seconds
+2024-08-14 04:00:01,122 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 04:00:01,389 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 04:01:22,008 - pocketoption - ERROR - ERR_GET_LATEST_PAYMENT_REQUEST: 183850
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 101, in connect_tcp
+    stream: anyio.abc.ByteStream = await anyio.connect_tcp(
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_sockets.py", line 216, in connect_tcp
+    async with create_task_group() as tg:
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 597, in __aexit__
+    raise exceptions[0]
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 668, in task_done
+    exc = _task.exception()
+          ^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_sockets.py", line 167, in try_connect
+    stream = await asynclib.connect_tcp(remote_host, remote_port, local_address)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 1627, in connect_tcp
+    await get_running_loop().create_connection(
+  File "C:\Program Files\Python312\Lib\asyncio\base_events.py", line 1101, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\asyncio\base_events.py", line 1004, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Program Files\Python312\Lib\asyncio\proactor_events.py", line 727, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 8, in map_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 100, in connect_tcp
+    with anyio.fail_after(timeout):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_tasks.py", line 119, in __exit__
+    raise TimeoutError
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 60, in map_httpcore_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 291, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 253, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 237, in handle_async_request
+    response = await connection.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 86, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 63, in handle_async_request
+    stream = await self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 111, in _connect
+    stream = await self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\auto.py", line 23, in connect_tcp
+    return await self._backend.connect_tcp(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 99, in connect_tcp
+    with map_exceptions(exc_map):
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc)
+httpcore.ConnectTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 758, in get_latest_payment_requests
+    res = await fetch(core.payment_history_link)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 79, in fetch
+    return await core.session.get(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1736, in get
+    return await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1513, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1600, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1628, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1665, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1702, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 290, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 77, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout
+2024-08-14 04:01:22,118 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 04:02:07,247 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 101, in connect_tcp
+    stream: anyio.abc.ByteStream = await anyio.connect_tcp(
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_sockets.py", line 216, in connect_tcp
+    async with create_task_group() as tg:
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 597, in __aexit__
+    raise exceptions[0]
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 668, in task_done
+    exc = _task.exception()
+          ^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_sockets.py", line 167, in try_connect
+    stream = await asynclib.connect_tcp(remote_host, remote_port, local_address)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 1627, in connect_tcp
+    await get_running_loop().create_connection(
+  File "C:\Program Files\Python312\Lib\asyncio\base_events.py", line 1101, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\asyncio\base_events.py", line 1004, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Program Files\Python312\Lib\asyncio\proactor_events.py", line 727, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 8, in map_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 100, in connect_tcp
+    with anyio.fail_after(timeout):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_tasks.py", line 119, in __exit__
+    raise TimeoutError
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 60, in map_httpcore_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 291, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 253, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 237, in handle_async_request
+    response = await connection.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 86, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 63, in handle_async_request
+    stream = await self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 111, in _connect
+    stream = await self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\auto.py", line 23, in connect_tcp
+    return await self._backend.connect_tcp(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 99, in connect_tcp
+    with map_exceptions(exc_map):
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc)
+httpcore.ConnectTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 175, in process_statistics
+    res_statistics = await fetch(
+                     ^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 79, in fetch
+    return await core.session.get(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1736, in get
+    return await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1513, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1600, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1628, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1665, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1702, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 290, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 77, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout
+2024-08-14 04:02:07,247 - pocketoption - DEBUG - Balance -> None -> Not enough for Withdrawal
+2024-08-14 04:02:07,247 - pocketoption - DEBUG - Bonus -> None -> Not enough for Withdrawal
+2024-08-14 04:02:28,850 - pocketoption - ERROR - ERR_GET_LAST_PAYMENT_REQUEST_ID
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 101, in connect_tcp
+    stream: anyio.abc.ByteStream = await anyio.connect_tcp(
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_sockets.py", line 216, in connect_tcp
+    async with create_task_group() as tg:
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 597, in __aexit__
+    raise exceptions[0]
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 668, in task_done
+    exc = _task.exception()
+          ^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_sockets.py", line 167, in try_connect
+    stream = await asynclib.connect_tcp(remote_host, remote_port, local_address)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 1627, in connect_tcp
+    await get_running_loop().create_connection(
+  File "C:\Program Files\Python312\Lib\asyncio\base_events.py", line 1101, in create_connection
+    sock = await self._connect_sock(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\asyncio\base_events.py", line 1004, in _connect_sock
+    await self.sock_connect(sock, address)
+  File "C:\Program Files\Python312\Lib\asyncio\proactor_events.py", line 727, in sock_connect
+    return await self._proactor.connect(sock, address)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 8, in map_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 100, in connect_tcp
+    with anyio.fail_after(timeout):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_tasks.py", line 119, in __exit__
+    raise TimeoutError
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 60, in map_httpcore_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 291, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 253, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 237, in handle_async_request
+    response = await connection.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 86, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 63, in handle_async_request
+    stream = await self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 111, in _connect
+    stream = await self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\auto.py", line 23, in connect_tcp
+    return await self._backend.connect_tcp(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 99, in connect_tcp
+    with map_exceptions(exc_map):
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc)
+httpcore.ConnectTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 789, in get_last_payment_request_id
+    res = await fetch(core.payment_history_link)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 79, in fetch
+    return await core.session.get(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1736, in get
+    return await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1513, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1600, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1628, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1665, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1702, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 290, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 77, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout
+2024-08-14 04:02:28,850 - pocketoption - DEBUG - Second Check -> Latest ID:  | Existing ID: 183850
+2024-08-14 04:59:01,501 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 04:59:05,675 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 04:59:05,675 - pocketoption - DEBUG - Total time taken to perform the task: 5.25 seconds
+2024-08-14 05:00:00,802 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 05:00:01,099 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 05:01:01,788 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 05:01:02,304 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 05:01:02,304 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 05:01:03,086 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 05:59:01,866 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 05:59:09,730 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 05:59:09,730 - pocketoption - DEBUG - Total time taken to perform the task: 8.93 seconds
+2024-08-14 06:00:01,043 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 06:00:01,371 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 06:01:01,468 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 06:01:02,032 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 06:01:02,032 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 06:01:03,000 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 06:59:01,297 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 06:59:03,485 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 06:59:03,500 - pocketoption - DEBUG - Total time taken to perform the task: 3.25 seconds
+2024-08-14 07:00:01,480 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 07:00:01,762 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 07:01:01,669 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 07:01:02,278 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 07:01:02,278 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 07:01:03,106 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 07:59:01,262 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 07:59:05,997 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 07:59:05,997 - pocketoption - DEBUG - Total time taken to perform the task: 5.86 seconds
+2024-08-14 08:00:01,164 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 08:00:01,446 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 08:01:01,186 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 08:01:01,671 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 08:01:01,671 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 08:01:02,483 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 08:58:04,193 - pocketoption - DEBUG - Date: 2024-08-07 | Hour: 11
+2024-08-14 08:58:04,208 - pocketoption - DEBUG - Date: 2024-08-14 | Hour: 11
+2024-08-14 08:59:02,415 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 08:59:14,515 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 131, in _call_sslobject_method
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 859, in read
+    v = self._sslobj.read(len)
+        ^^^^^^^^^^^^^^^^^^^^^^
+ssl.SSLWantReadError: The operation did not complete (read) (_ssl.c:2559)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 31, in read
+    return await self._stream.receive(max_bytes=max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 196, in receive
+    data = await self._call_sslobject_method(self._ssl_object.read, max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 138, in _call_sslobject_method
+    data = await self.transport_stream.receive()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 1203, in receive
+    await self._protocol.read_event.wait()
+  File "C:\Program Files\Python312\Lib\asyncio\locks.py", line 212, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 8, in map_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 29, in read
+    with anyio.fail_after(timeout):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_tasks.py", line 119, in __exit__
+    raise TimeoutError
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 60, in map_httpcore_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 291, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 253, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 237, in handle_async_request
+    response = await connection.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 90, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 102, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 81, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 143, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 172, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 28, in read
+    with map_exceptions(exc_map):
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc)
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 175, in process_statistics
+    res_statistics = await fetch(
+                     ^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 79, in fetch
+    return await core.session.get(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1736, in get
+    return await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1513, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1600, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1628, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1665, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1702, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 290, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 77, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 131, in _call_sslobject_method
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 859, in read
+    v = self._sslobj.read(len)
+        ^^^^^^^^^^^^^^^^^^^^^^
+ssl.SSLWantReadError: The operation did not complete (read) (_ssl.c:2559)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 31, in read
+    return await self._stream.receive(max_bytes=max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 196, in receive
+    data = await self._call_sslobject_method(self._ssl_object.read, max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 138, in _call_sslobject_method
+    data = await self.transport_stream.receive()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 1203, in receive
+    await self._protocol.read_event.wait()
+  File "C:\Program Files\Python312\Lib\asyncio\locks.py", line 212, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 8, in map_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 29, in read
+    with anyio.fail_after(timeout):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_tasks.py", line 119, in __exit__
+    raise TimeoutError
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 60, in map_httpcore_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 291, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 253, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 237, in handle_async_request
+    response = await connection.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 90, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 102, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 81, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 143, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 172, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 28, in read
+    with map_exceptions(exc_map):
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc)
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 175, in process_statistics
+    res_statistics = await fetch(
+                     ^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 79, in fetch
+    return await core.session.get(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1736, in get
+    return await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1513, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1600, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1628, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1665, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1702, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 290, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 77, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+2024-08-14 08:59:14,609 - pocketoption - DEBUG - Total time taken to perform the task: 13.7 seconds
+2024-08-14 08:59:16,829 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 08:59:20,941 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 08:59:20,941 - pocketoption - DEBUG - Total time taken to perform the task: 5.32 seconds
+2024-08-14 09:00:00,907 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 09:00:01,235 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 09:01:01,913 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 09:01:02,429 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 09:01:02,429 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 09:01:03,242 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 09:59:01,706 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 09:59:13,790 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 131, in _call_sslobject_method
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 859, in read
+    v = self._sslobj.read(len)
+        ^^^^^^^^^^^^^^^^^^^^^^
+ssl.SSLWantReadError: The operation did not complete (read) (_ssl.c:2559)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 31, in read
+    return await self._stream.receive(max_bytes=max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 196, in receive
+    data = await self._call_sslobject_method(self._ssl_object.read, max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 138, in _call_sslobject_method
+    data = await self.transport_stream.receive()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 1203, in receive
+    await self._protocol.read_event.wait()
+  File "C:\Program Files\Python312\Lib\asyncio\locks.py", line 212, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 8, in map_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 29, in read
+    with anyio.fail_after(timeout):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_tasks.py", line 119, in __exit__
+    raise TimeoutError
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 60, in map_httpcore_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 291, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 253, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 237, in handle_async_request
+    response = await connection.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 90, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 102, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 81, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 143, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 172, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 28, in read
+    with map_exceptions(exc_map):
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc)
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 175, in process_statistics
+    res_statistics = await fetch(
+                     ^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 79, in fetch
+    return await core.session.get(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1736, in get
+    return await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1513, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1600, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1628, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1665, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1702, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 290, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 77, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 131, in _call_sslobject_method
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 859, in read
+    v = self._sslobj.read(len)
+        ^^^^^^^^^^^^^^^^^^^^^^
+ssl.SSLWantReadError: The operation did not complete (read) (_ssl.c:2559)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 31, in read
+    return await self._stream.receive(max_bytes=max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 196, in receive
+    data = await self._call_sslobject_method(self._ssl_object.read, max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 138, in _call_sslobject_method
+    data = await self.transport_stream.receive()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 1203, in receive
+    await self._protocol.read_event.wait()
+  File "C:\Program Files\Python312\Lib\asyncio\locks.py", line 212, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 8, in map_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 29, in read
+    with anyio.fail_after(timeout):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_tasks.py", line 119, in __exit__
+    raise TimeoutError
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 60, in map_httpcore_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 291, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 253, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 237, in handle_async_request
+    response = await connection.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 90, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 102, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 81, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 143, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 172, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 28, in read
+    with map_exceptions(exc_map):
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc)
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 175, in process_statistics
+    res_statistics = await fetch(
+                     ^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 79, in fetch
+    return await core.session.get(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1736, in get
+    return await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1513, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1600, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1628, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1665, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1702, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 290, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 77, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+2024-08-14 09:59:13,790 - pocketoption - DEBUG - Total time taken to perform the task: 13.37 seconds
+2024-08-14 09:59:15,916 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 09:59:16,698 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 09:59:16,698 - pocketoption - DEBUG - Total time taken to perform the task: 1.88 seconds
+2024-08-14 10:00:01,647 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 10:00:01,975 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 10:01:01,901 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 10:01:02,651 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 10:01:02,651 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 10:01:03,417 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 10:59:01,030 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 10:59:09,066 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 10:59:09,066 - pocketoption - DEBUG - Total time taken to perform the task: 9.04 seconds
+2024-08-14 11:00:01,204 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 11:00:01,517 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 11:01:02,195 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 11:01:02,697 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 11:01:02,697 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 11:01:03,462 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 11:59:01,798 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 11:59:09,519 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 11:59:09,519 - pocketoption - DEBUG - Total time taken to perform the task: 8.69 seconds
+2024-08-14 12:00:01,404 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 12:00:01,733 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 12:01:01,979 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 12:01:02,589 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 12:01:02,589 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 12:01:03,354 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 12:59:01,695 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 12:59:09,556 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 12:59:09,556 - pocketoption - DEBUG - Total time taken to perform the task: 8.93 seconds
+2024-08-14 13:00:00,639 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 13:00:00,936 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 13:01:01,976 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 13:01:02,460 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 13:01:02,460 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 13:01:03,319 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 13:59:02,075 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 13:59:09,767 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 13:59:09,767 - pocketoption - DEBUG - Total time taken to perform the task: 8.79 seconds
+2024-08-14 14:00:00,791 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 14:00:01,088 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 14:01:02,062 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 14:01:02,625 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 14:01:02,625 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 14:01:03,562 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 14:59:01,432 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 14:59:09,280 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 14:59:09,280 - pocketoption - DEBUG - Total time taken to perform the task: 8.93 seconds
+2024-08-14 15:00:01,614 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 15:00:02,005 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 15:01:02,104 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 15:01:02,572 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 15:01:02,572 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 15:01:03,322 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 15:14:48,376 - pocketoption - DEBUG - Date: 2024-08-07 | Hour: 18
+2024-08-14 15:14:48,392 - pocketoption - DEBUG - Date: 2024-08-14 | Hour: 18
+2024-08-14 15:59:01,898 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 15:59:05,744 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 15:59:05,744 - pocketoption - DEBUG - Total time taken to perform the task: 4.89 seconds
+2024-08-14 16:00:00,960 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 16:00:01,257 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 16:01:01,441 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 16:01:01,911 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 16:01:01,911 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 16:01:02,724 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 16:59:01,900 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 16:59:06,059 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 16:59:06,059 - pocketoption - DEBUG - Total time taken to perform the task: 5.28 seconds
+2024-08-14 17:00:00,548 - pocketoption - DEBUG - No change detected!!
+2024-08-14 17:01:01,586 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 17:01:02,040 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 17:01:02,040 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 17:01:02,807 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 17:59:01,054 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 17:59:08,919 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 17:59:08,935 - pocketoption - DEBUG - Total time taken to perform the task: 8.9 seconds
+2024-08-14 18:00:01,046 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 18:00:01,358 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 18:01:01,908 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 18:01:02,471 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 18:01:02,471 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 18:01:03,302 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 18:59:01,206 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 18:59:05,210 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 18:59:05,210 - pocketoption - DEBUG - Total time taken to perform the task: 5.08 seconds
+2024-08-14 19:00:01,447 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 19:00:01,713 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 19:01:02,074 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 19:01:02,544 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 19:01:02,544 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 19:01:03,327 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 19:59:01,812 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 19:59:05,534 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 19:59:05,550 - pocketoption - DEBUG - Total time taken to perform the task: 4.85 seconds
+2024-08-14 20:00:01,558 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 20:00:01,846 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 20:01:02,210 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 20:01:02,728 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 20:01:02,728 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 20:01:03,557 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 20:59:01,992 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 20:59:06,558 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 20:59:06,558 - pocketoption - DEBUG - Total time taken to perform the task: 5.96 seconds
+2024-08-14 21:00:00,723 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 21:00:01,004 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 21:01:01,445 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 21:01:01,991 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 21:01:01,991 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 21:01:02,897 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 21:59:01,383 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 21:59:04,793 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 21:59:04,793 - pocketoption - DEBUG - Total time taken to perform the task: 4.54 seconds
+2024-08-14 22:00:00,941 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 22:00:01,310 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 22:01:01,277 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 22:01:01,747 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 22:01:01,747 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 22:01:02,591 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 22:59:01,871 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 22:59:05,952 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 22:59:05,952 - pocketoption - DEBUG - Total time taken to perform the task: 5.08 seconds
+2024-08-14 23:00:01,177 - pocketoption - INFO - Target [ID:610323477]: success
+2024-08-14 23:00:01,565 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-08-14 23:01:01,497 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 23:01:01,950 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-14 23:01:01,950 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-14 23:01:02,779 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-14 23:59:01,896 - pocketoption - DEBUG - Old session worked fine.
+2024-08-14 23:59:09,745 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-08-14 23:59:09,760 - pocketoption - DEBUG - Total time taken to perform the task: 8.91 seconds
+2024-08-15 00:00:00,193 - pocketoption - DEBUG - No change detected!!
+2024-08-15 00:01:02,071 - pocketoption - DEBUG - First Check -> Latest ID: 183850 | Existing ID: 183850
+2024-08-15 00:01:02,602 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-08-15 00:01:02,602 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-08-15 00:01:03,352 - pocketoption - DEBUG - Second Check -> Latest ID: 183850 | Existing ID: 183850

@@ -1,0 +1,841 @@
+2024-03-01 09:14:52,700 - pocketoption - DEBUG - ======== New Session ========
+2024-03-01 09:14:54,882 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:14:54,930 - pocketoption - DEBUG - Payout Last Request ID: 150798
+2024-03-01 09:59:02,394 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:59:06,104 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:59:06,104 - pocketoption - DEBUG - Total time taken to perform the task: 5.13 seconds
+2024-03-01 09:59:07,949 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:59:11,377 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:59:11,377 - pocketoption - DEBUG - Total time taken to perform the task: 4.26 seconds
+2024-03-01 09:59:13,217 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:59:16,524 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:59:16,524 - pocketoption - DEBUG - Total time taken to perform the task: 4.14 seconds
+2024-03-01 09:59:18,292 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:59:21,672 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:59:21,682 - pocketoption - DEBUG - Total time taken to perform the task: 4.14 seconds
+2024-03-01 09:59:23,497 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:59:26,793 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:59:26,793 - pocketoption - DEBUG - Total time taken to perform the task: 4.11 seconds
+2024-03-01 09:59:28,573 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:59:31,960 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:59:31,960 - pocketoption - DEBUG - Total time taken to perform the task: 4.16 seconds
+2024-03-01 09:59:33,783 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:59:37,087 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:59:37,102 - pocketoption - DEBUG - Total time taken to perform the task: 4.15 seconds
+2024-03-01 09:59:38,860 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:59:42,138 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:59:42,138 - pocketoption - DEBUG - Total time taken to perform the task: 4.03 seconds
+2024-03-01 09:59:43,909 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:59:47,189 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:59:47,189 - pocketoption - DEBUG - Total time taken to perform the task: 4.05 seconds
+2024-03-01 09:59:48,938 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:59:52,264 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:59:52,264 - pocketoption - DEBUG - Total time taken to perform the task: 4.06 seconds
+2024-03-01 09:59:54,051 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 09:59:57,391 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 09:59:57,391 - pocketoption - DEBUG - Total time taken to perform the task: 4.11 seconds
+2024-03-01 09:59:59,192 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 10:00:02,501 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 10:00:02,501 - pocketoption - DEBUG - Total time taken to perform the task: 4.11 seconds
+2024-03-01 10:00:04,294 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 10:00:07,729 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 10:00:07,729 - pocketoption - DEBUG - Total time taken to perform the task: 4.2 seconds
+2024-03-01 10:00:09,595 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 10:00:12,911 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 10:00:12,911 - pocketoption - DEBUG - Total time taken to perform the task: 4.18 seconds
+2024-03-01 10:00:14,700 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 10:00:18,070 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 10:00:18,070 - pocketoption - DEBUG - Total time taken to perform the task: 4.15 seconds
+2024-03-01 10:00:19,822 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 10:00:23,251 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 10:00:23,251 - pocketoption - DEBUG - Total time taken to perform the task: 4.18 seconds
+2024-03-01 10:00:24,995 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 10:00:28,307 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 10:00:28,315 - pocketoption - DEBUG - Total time taken to perform the task: 4.06 seconds
+2024-03-01 10:00:30,114 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 10:00:33,456 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 10:00:33,456 - pocketoption - DEBUG - Total time taken to perform the task: 4.12 seconds
+2024-03-01 10:00:35,224 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 10:00:38,505 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 10:00:38,505 - pocketoption - DEBUG - Total time taken to perform the task: 4.05 seconds
+2024-03-01 10:00:40,234 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 10:00:43,756 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 10:00:43,756 - pocketoption - DEBUG - Total time taken to perform the task: 4.27 seconds
+2024-03-01 10:00:45,552 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 10:00:48,822 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 10:00:48,822 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-03-01 10:00:50,584 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 10:00:53,918 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 10:00:53,918 - pocketoption - DEBUG - Total time taken to perform the task: 4.1 seconds
+2024-03-01 10:00:55,730 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 10:00:59,066 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 10:00:59,066 - pocketoption - DEBUG - Total time taken to perform the task: 4.15 seconds
+2024-03-01 10:01:00,876 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 10:01:01,823 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 10:01:04,225 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 10:01:04,241 - pocketoption - DEBUG - Total time taken to perform the task: 4.17 seconds
+2024-03-01 10:01:05,138 - pocketoption - ERROR - ERR_PROCESS_SUMMARY -> Period: Current week -> Error: 'partnerBonus'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 178, in process_statistics
+    old_bonus = bonus = res_json["partnerBonus"]
+                        ~~~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'partnerBonus'
+2024-03-01 10:01:05,138 - pocketoption - DEBUG - Balance -> None -> Not enough for Withdrawal
+2024-03-01 10:01:05,138 - pocketoption - DEBUG - Bonus -> None -> Not enough for Withdrawal
+2024-03-01 10:01:05,944 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 11:44:37,248 - pocketoption - DEBUG - ======== New Session ========
+2024-03-01 11:44:43,461 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 11:44:44,094 - pocketoption - DEBUG - Payout Last Request ID: 150798
+2024-03-01 11:50:13,143 - pocketoption - DEBUG - ======== New Session ========
+2024-03-01 11:50:14,842 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 11:50:14,862 - pocketoption - DEBUG - Payout Last Request ID: 150798
+2024-03-01 11:57:29,097 - pocketoption - DEBUG - ======== New Session ========
+2024-03-01 11:57:30,867 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 11:57:30,883 - pocketoption - DEBUG - Payout Last Request ID: 150798
+2024-03-01 11:59:02,112 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 11:59:03,128 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-01 11:59:03,128 - pocketoption - DEBUG - Total time taken to perform the task: 2.56 seconds
+2024-03-01 12:00:01,329 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-01 12:00:01,579 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-01 12:01:01,895 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 12:01:02,989 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-01 12:01:02,989 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-01 12:01:03,755 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 12:09:00,384 - pocketoption - DEBUG - ======== New Session ========
+2024-03-01 12:09:02,267 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 12:09:02,283 - pocketoption - DEBUG - Payout Last Request ID: 150798
+2024-03-01 12:59:02,144 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 12:59:03,004 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-01 12:59:03,004 - pocketoption - DEBUG - Total time taken to perform the task: 2.46 seconds
+2024-03-01 13:00:00,685 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-01 13:00:00,936 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-01 13:01:01,251 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 13:01:01,972 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-01 13:01:01,972 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-01 13:01:02,767 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 13:59:01,893 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 13:59:02,989 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-01 13:59:02,989 - pocketoption - DEBUG - Total time taken to perform the task: 2.43 seconds
+2024-03-01 14:00:00,856 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-01 14:00:01,122 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-01 14:01:01,451 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 14:01:02,142 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-01 14:01:02,157 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-01 14:01:02,955 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 14:59:02,078 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 14:59:02,970 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-01 14:59:02,970 - pocketoption - DEBUG - Total time taken to perform the task: 2.22 seconds
+2024-03-01 15:00:00,780 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-01 15:00:01,045 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-01 15:01:02,104 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 15:01:02,778 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-01 15:01:02,778 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-01 15:01:03,592 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 15:59:01,934 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 15:59:02,906 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-01 15:59:02,906 - pocketoption - DEBUG - Total time taken to perform the task: 2.32 seconds
+2024-03-01 16:00:00,672 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-01 16:00:00,922 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-01 16:01:02,227 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 16:01:02,902 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-01 16:01:02,902 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-01 16:01:03,684 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 16:59:01,927 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 16:59:02,820 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-01 16:59:02,820 - pocketoption - DEBUG - Total time taken to perform the task: 2.28 seconds
+2024-03-01 17:00:00,959 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-01 17:00:01,224 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-01 17:01:01,680 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 17:01:02,368 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-01 17:01:02,368 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-01 17:01:03,199 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 17:59:02,278 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 17:59:03,249 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-01 17:59:03,249 - pocketoption - DEBUG - Total time taken to perform the task: 2.36 seconds
+2024-03-01 18:00:00,592 - pocketoption - DEBUG - No change detected!!
+2024-03-01 18:01:01,962 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 18:01:02,604 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-01 18:01:02,604 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-01 18:01:03,418 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 18:59:02,164 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 18:59:03,039 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-01 18:59:03,039 - pocketoption - DEBUG - Total time taken to perform the task: 2.19 seconds
+2024-03-01 19:00:00,617 - pocketoption - DEBUG - No change detected!!
+2024-03-01 19:01:01,816 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 19:01:02,599 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-01 19:01:02,599 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-01 19:01:03,460 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 19:59:01,799 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 19:59:02,659 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-01 19:59:02,659 - pocketoption - DEBUG - Total time taken to perform the task: 2.15 seconds
+2024-03-01 20:00:00,625 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-01 20:00:00,891 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-01 20:01:01,243 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 20:01:01,902 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-01 20:01:01,902 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-01 20:01:02,653 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 20:59:01,622 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 20:59:02,485 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-01 20:59:02,485 - pocketoption - DEBUG - Total time taken to perform the task: 2.24 seconds
+2024-03-01 21:00:01,431 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-01 21:00:01,712 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-01 21:01:02,324 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 21:01:02,951 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-01 21:01:02,951 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-01 21:01:03,718 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 21:59:01,672 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 21:59:02,517 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-01 21:59:02,517 - pocketoption - DEBUG - Total time taken to perform the task: 2.14 seconds
+2024-03-01 22:00:00,967 - pocketoption - DEBUG - No change detected!!
+2024-03-01 22:01:01,469 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 22:01:02,153 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-01 22:01:02,153 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-01 22:01:02,954 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 22:03:34,356 - pocketoption - DEBUG - ======== New Session ========
+2024-03-01 22:03:36,007 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 22:03:36,019 - pocketoption - DEBUG - Payout Last Request ID: 150798
+2024-03-01 22:59:02,104 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 22:59:02,934 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-01 22:59:02,934 - pocketoption - DEBUG - Total time taken to perform the task: 2.24 seconds
+2024-03-01 23:00:01,035 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-01 23:00:01,301 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-01 23:01:01,701 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 23:01:02,342 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-01 23:01:02,357 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-01 23:01:03,124 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-01 23:59:01,503 - pocketoption - DEBUG - Old session worked fine.
+2024-03-01 23:59:02,363 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-01 23:59:02,363 - pocketoption - DEBUG - Total time taken to perform the task: 2.27 seconds
+2024-03-02 00:00:01,050 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-02 00:00:01,331 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-02 00:01:01,501 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 00:01:02,142 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-02 00:01:02,142 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-02 00:01:02,940 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 00:59:01,546 - pocketoption - DEBUG - Old session worked fine.
+2024-03-02 00:59:02,484 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-02 00:59:02,484 - pocketoption - DEBUG - Total time taken to perform the task: 2.32 seconds
+2024-03-02 01:00:01,295 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-02 01:00:01,531 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-02 01:01:01,615 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 01:01:02,257 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-02 01:01:02,257 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-02 01:01:03,071 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 01:59:02,002 - pocketoption - DEBUG - Old session worked fine.
+2024-03-02 01:59:03,175 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-02 01:59:03,175 - pocketoption - DEBUG - Total time taken to perform the task: 2.57 seconds
+2024-03-02 02:00:01,152 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-02 02:00:01,433 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-02 02:01:01,859 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 02:01:02,595 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-02 02:01:02,595 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-02 02:01:03,361 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 02:59:01,977 - pocketoption - DEBUG - Old session worked fine.
+2024-03-02 02:59:03,306 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-02 02:59:03,306 - pocketoption - DEBUG - Total time taken to perform the task: 2.72 seconds
+2024-03-02 03:00:01,342 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-02 03:00:01,592 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-02 03:01:02,005 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 03:01:02,630 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-02 03:01:02,630 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-02 03:01:03,397 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 03:59:01,782 - pocketoption - DEBUG - Old session worked fine.
+2024-03-02 03:59:02,924 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-02 03:59:02,924 - pocketoption - DEBUG - Total time taken to perform the task: 2.53 seconds
+2024-03-02 04:00:00,414 - pocketoption - DEBUG - No change detected!!
+2024-03-02 04:01:01,795 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 04:01:02,468 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-02 04:01:02,468 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-02 04:01:03,313 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 04:59:01,915 - pocketoption - DEBUG - Old session worked fine.
+2024-03-02 04:59:03,167 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-02 04:59:03,167 - pocketoption - DEBUG - Total time taken to perform the task: 2.69 seconds
+2024-03-02 05:00:01,064 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-02 05:00:01,673 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-02 05:01:01,263 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 05:01:01,935 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-02 05:01:01,935 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-02 05:01:02,733 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 05:59:01,993 - pocketoption - DEBUG - Old session worked fine.
+2024-03-02 05:59:03,119 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-02 05:59:03,135 - pocketoption - DEBUG - Total time taken to perform the task: 2.5 seconds
+2024-03-02 06:00:01,004 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-02 06:00:01,254 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-02 06:01:08,652 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 06:01:09,277 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-02 06:01:09,277 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-02 06:01:10,263 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 06:59:10,573 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-03-02 06:59:21,827 - pocketoption - ERROR - ERR_BROADCAST: 
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 131, in _call_sslobject_method
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 859, in read
+    v = self._sslobj.read(len)
+        ^^^^^^^^^^^^^^^^^^^^^^
+ssl.SSLWantReadError: The operation did not complete (read) (_ssl.c:2559)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 31, in read
+    return await self._stream.receive(max_bytes=max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 196, in receive
+    data = await self._call_sslobject_method(self._ssl_object.read, max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 138, in _call_sslobject_method
+    data = await self.transport_stream.receive()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 1203, in receive
+    await self._protocol.read_event.wait()
+  File "C:\Program Files\Python312\Lib\asyncio\locks.py", line 212, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 8, in map_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 29, in read
+    with anyio.fail_after(timeout):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_tasks.py", line 119, in __exit__
+    raise TimeoutError
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 60, in map_httpcore_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 291, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 253, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 237, in handle_async_request
+    response = await connection.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 90, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 102, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 81, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 143, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 172, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 28, in read
+    with map_exceptions(exc_map):
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc)
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 598, in broadcast
+    current_stats = await get_statistics()
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 449, in get_statistics
+    await perform_login()
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 507, in perform_login
+    res = await core.session.get(url=core.home_link)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1736, in get
+    return await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1513, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1600, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1628, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1665, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1702, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 290, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 77, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+2024-03-02 06:59:24,028 - pocketoption - DEBUG - Old session worked fine.
+2024-03-02 06:59:25,233 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-02 06:59:25,233 - pocketoption - DEBUG - Total time taken to perform the task: 2.16 seconds
+2024-03-02 07:00:00,523 - pocketoption - DEBUG - No change detected!!
+2024-03-02 07:01:02,167 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 07:01:02,871 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-02 07:01:02,871 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-02 07:01:03,638 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 07:59:10,623 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-03-02 07:59:13,111 - pocketoption - DEBUG - Logged-In successfully!
+2024-03-02 07:59:13,111 - pocketoption - DEBUG - Cookies Saved!!
+2024-03-02 07:59:14,342 - pocketoption - DEBUG - Cookies Saved!!
+2024-03-02 07:59:14,358 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-02 07:59:14,358 - pocketoption - DEBUG - Total time taken to perform the task: 13.85 seconds
+2024-03-02 08:00:00,656 - pocketoption - DEBUG - No change detected!!
+2024-03-02 08:01:11,374 - pocketoption - DEBUG - Cookies Saved!!
+2024-03-02 08:01:11,374 - pocketoption - ERROR - ERR_GET_LATEST_PAYMENT_REQUEST: 150798
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 131, in _call_sslobject_method
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 917, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLWantReadError: The operation did not complete (read) (_ssl.c:1000)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 63, in start_tls
+    ssl_stream = await anyio.streams.tls.TLSStream.wrap(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 123, in wrap
+    await wrapper._call_sslobject_method(ssl_object.do_handshake)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 138, in _call_sslobject_method
+    data = await self.transport_stream.receive()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 1203, in receive
+    await self._protocol.read_event.wait()
+  File "C:\Program Files\Python312\Lib\asyncio\locks.py", line 212, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 8, in map_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 72, in start_tls
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 62, in start_tls
+    with anyio.fail_after(timeout):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_tasks.py", line 119, in __exit__
+    raise TimeoutError
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 60, in map_httpcore_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 291, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 253, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 237, in handle_async_request
+    response = await connection.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 86, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 63, in handle_async_request
+    stream = await self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 150, in _connect
+    stream = await stream.start_tls(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 60, in start_tls
+    with map_exceptions(exc_map):
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc)
+httpcore.ConnectTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 738, in get_latest_payment_requests
+    res = await fetch(core.payment_history_link)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 71, in fetch
+    return await core.session.get(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1736, in get
+    return await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1513, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1600, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1628, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1665, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1702, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 290, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 77, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectTimeout
+2024-03-02 08:01:11,374 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 08:01:22,595 - pocketoption - DEBUG - Cookies Saved!!
+2024-03-02 08:01:33,415 - pocketoption - DEBUG - Cookies Saved!!
+2024-03-02 08:01:33,415 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-02 08:01:33,415 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-02 08:01:34,213 - pocketoption - DEBUG - Cookies Saved!!
+2024-03-02 08:01:34,244 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 08:59:01,867 - pocketoption - DEBUG - Old session worked fine.
+2024-03-02 08:59:03,290 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-02 08:59:03,290 - pocketoption - DEBUG - Total time taken to perform the task: 2.82 seconds
+2024-03-02 09:00:01,217 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-02 09:00:01,467 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-02 09:01:01,251 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 09:01:01,910 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-02 09:01:01,910 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-02 09:01:02,708 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 09:59:02,444 - pocketoption - DEBUG - Old session worked fine.
+2024-03-02 09:59:03,697 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-02 09:59:03,697 - pocketoption - DEBUG - Total time taken to perform the task: 2.93 seconds
+2024-03-02 10:00:01,413 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-02 10:00:01,663 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-02 10:01:01,692 - pocketoption - DEBUG - First Check -> Latest ID: 150798 | Existing ID: 150798
+2024-03-02 10:01:02,457 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-02 10:01:02,457 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-02 10:01:03,272 - pocketoption - DEBUG - Second Check -> Latest ID: 150798 | Existing ID: 150798

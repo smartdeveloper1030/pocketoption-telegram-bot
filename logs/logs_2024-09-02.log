@@ -1,0 +1,28 @@
+2024-09-02 18:48:29,309 - pocketoption - DEBUG - ======== New Session ========
+2024-09-02 18:48:31,951 - pocketoption - DEBUG - Old session worked fine.
+2024-09-02 18:48:31,955 - pocketoption - DEBUG - Payout Last Request ID: 186546
+2024-09-02 18:55:35,781 - pocketoption - DEBUG - ======== New Session ========
+2024-09-02 18:55:38,320 - pocketoption - DEBUG - Old session worked fine.
+2024-09-02 18:55:38,323 - pocketoption - DEBUG - Payout Last Request ID: 186546
+2024-09-02 18:59:03,341 - pocketoption - DEBUG - Old session worked fine.
+2024-09-02 18:59:04,358 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-09-02 18:59:04,358 - pocketoption - DEBUG - Total time taken to perform the task: 3.4 seconds
+2024-09-02 19:00:02,843 - pocketoption - ERROR - Target [ID:610323477]: invalid user ID
+2024-09-02 19:00:03,586 - pocketoption - ERROR - Target [ID:1838317981]: invalid user ID
+2024-09-02 19:01:04,337 - pocketoption - ERROR - Target [ID:610323477]: invalid user ID
+2024-09-02 19:01:05,251 - pocketoption - ERROR - Target [ID:1838317981]: invalid user ID
+2024-09-02 19:01:06,074 - pocketoption - ERROR - Target [ID:610323477]: invalid user ID
+2024-09-02 19:01:06,812 - pocketoption - ERROR - Target [ID:1838317981]: invalid user ID
+2024-09-02 19:01:06,816 - pocketoption - DEBUG - First Check -> Latest ID: 187884 | Existing ID: 186546
+2024-09-02 19:01:07,775 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-09-02 19:01:07,775 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-09-02 19:01:09,042 - pocketoption - DEBUG - Second Check -> Latest ID: 187884 | Existing ID: 187884
+2024-09-02 19:59:02,371 - pocketoption - DEBUG - Old session worked fine.
+2024-09-02 19:59:03,334 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-09-02 19:59:03,334 - pocketoption - DEBUG - Total time taken to perform the task: 3.29 seconds
+2024-09-02 20:00:01,840 - pocketoption - ERROR - Target [ID:610323477]: invalid user ID
+2024-09-02 20:00:02,733 - pocketoption - ERROR - Target [ID:1838317981]: invalid user ID
+2024-09-02 20:01:03,465 - pocketoption - DEBUG - First Check -> Latest ID: 187884 | Existing ID: 187884
+2024-09-02 20:01:04,310 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-09-02 20:01:04,310 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-09-02 20:01:06,344 - pocketoption - DEBUG - Second Check -> Latest ID: 187884 | Existing ID: 187884

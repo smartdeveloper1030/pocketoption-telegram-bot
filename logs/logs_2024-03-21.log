@@ -1,0 +1,211 @@
+2024-03-21 12:41:30,217 - pocketoption - DEBUG - ======== New Session ========
+2024-03-21 12:41:32,534 - pocketoption - DEBUG - Old session worked fine.
+2024-03-21 12:41:32,543 - pocketoption - DEBUG - Payout Last Request ID: 155039
+2024-03-21 12:59:01,599 - pocketoption - DEBUG - Old session worked fine.
+2024-03-21 12:59:03,147 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-21 12:59:03,147 - pocketoption - DEBUG - Total time taken to perform the task: 2.96 seconds
+2024-03-21 13:00:00,906 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-21 13:00:01,172 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-21 13:01:01,471 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 13:01:02,207 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-21 13:01:02,207 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-21 13:01:03,019 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 13:59:02,069 - pocketoption - DEBUG - Old session worked fine.
+2024-03-21 13:59:03,651 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-21 13:59:03,651 - pocketoption - DEBUG - Total time taken to perform the task: 3.21 seconds
+2024-03-21 14:00:00,684 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-21 14:00:00,934 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-21 14:01:01,993 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 14:01:02,790 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-21 14:01:02,790 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-21 14:01:03,652 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 14:59:02,407 - pocketoption - DEBUG - Old session worked fine.
+2024-03-21 14:59:04,081 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-21 14:59:04,081 - pocketoption - DEBUG - Total time taken to perform the task: 3.25 seconds
+2024-03-21 15:00:00,806 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-21 15:00:01,071 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-21 15:01:01,554 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 15:01:02,274 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-21 15:01:02,290 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-21 15:01:03,103 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 15:59:01,947 - pocketoption - DEBUG - Old session worked fine.
+2024-03-21 15:59:03,839 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-21 15:59:03,839 - pocketoption - DEBUG - Total time taken to perform the task: 3.24 seconds
+2024-03-21 16:00:00,605 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-21 16:00:00,886 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-21 16:01:01,845 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 16:01:02,564 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-21 16:01:02,564 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-21 16:01:03,424 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 16:59:01,798 - pocketoption - DEBUG - Old session worked fine.
+2024-03-21 16:59:03,535 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-21 16:59:03,535 - pocketoption - DEBUG - Total time taken to perform the task: 3.07 seconds
+2024-03-21 17:00:01,251 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-21 17:00:01,502 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-21 17:01:01,931 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 17:01:02,651 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-21 17:01:02,651 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-21 17:01:03,433 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 17:59:02,344 - pocketoption - DEBUG - Old session worked fine.
+2024-03-21 17:59:03,768 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-21 17:59:03,768 - pocketoption - DEBUG - Total time taken to perform the task: 2.8 seconds
+2024-03-21 18:00:01,455 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-21 18:00:01,736 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-21 18:01:02,418 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 18:01:03,123 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-21 18:01:03,123 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-21 18:01:04,015 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 18:59:01,466 - pocketoption - DEBUG - Old session worked fine.
+2024-03-21 18:59:03,078 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-21 18:59:03,078 - pocketoption - DEBUG - Total time taken to perform the task: 3.0 seconds
+2024-03-21 19:00:00,757 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-21 19:00:01,007 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-21 19:01:02,109 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 19:01:02,813 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-21 19:01:02,813 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-21 19:01:03,660 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 19:59:02,041 - pocketoption - DEBUG - Old session worked fine.
+2024-03-21 19:59:03,606 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-21 19:59:03,606 - pocketoption - DEBUG - Total time taken to perform the task: 2.94 seconds
+2024-03-21 20:00:00,801 - pocketoption - DEBUG - No change detected!!
+2024-03-21 20:01:01,850 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 20:01:02,695 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-21 20:01:02,711 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-21 20:01:03,774 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 20:59:02,296 - pocketoption - DEBUG - Old session worked fine.
+2024-03-21 20:59:04,220 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-21 20:59:04,220 - pocketoption - DEBUG - Total time taken to perform the task: 4.16 seconds
+2024-03-21 21:00:01,231 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-21 21:00:01,512 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-21 21:01:01,849 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 21:01:02,600 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-21 21:01:02,600 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-21 21:01:03,428 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 21:59:03,362 - pocketoption - DEBUG - Old session worked fine.
+2024-03-21 21:59:05,255 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-21 21:59:05,255 - pocketoption - DEBUG - Total time taken to perform the task: 4.79 seconds
+2024-03-21 22:00:01,171 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-21 22:00:01,467 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-21 22:01:01,810 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 22:01:02,594 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-21 22:01:02,594 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-21 22:01:03,485 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 22:59:01,785 - pocketoption - DEBUG - Old session worked fine.
+2024-03-21 22:59:03,476 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-21 22:59:03,476 - pocketoption - DEBUG - Total time taken to perform the task: 3.16 seconds
+2024-03-21 23:00:00,723 - pocketoption - DEBUG - No change detected!!
+2024-03-21 23:01:01,964 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 23:01:02,652 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-21 23:01:02,652 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-21 23:01:03,540 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-21 23:59:02,331 - pocketoption - DEBUG - Old session worked fine.
+2024-03-21 23:59:03,738 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-21 23:59:03,738 - pocketoption - DEBUG - Total time taken to perform the task: 2.77 seconds
+2024-03-22 00:00:00,581 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-22 00:00:00,846 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-22 00:01:02,192 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 00:01:02,880 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-22 00:01:02,880 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-22 00:01:03,693 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 00:06:25,592 - pocketoption - DEBUG - Date: 2024-03-15 | Hour: 3
+2024-03-22 00:06:25,810 - pocketoption - DEBUG - Date: 2024-03-22 | Hour: 3
+2024-03-22 00:59:01,795 - pocketoption - DEBUG - Old session worked fine.
+2024-03-22 00:59:03,516 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-22 00:59:03,516 - pocketoption - DEBUG - Total time taken to perform the task: 3.14 seconds
+2024-03-22 01:00:01,246 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-22 01:00:01,496 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-22 01:01:02,005 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 01:01:02,756 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-22 01:01:02,756 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-22 01:01:03,648 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 01:01:25,573 - pocketoption - DEBUG - Date: 2024-03-15 | Hour: 4
+2024-03-22 01:01:25,573 - pocketoption - DEBUG - Date: 2024-03-22 | Hour: 4
+2024-03-22 01:59:01,752 - pocketoption - DEBUG - Old session worked fine.
+2024-03-22 01:59:03,474 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-22 01:59:03,474 - pocketoption - DEBUG - Total time taken to perform the task: 3.08 seconds
+2024-03-22 02:00:01,192 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-22 02:00:01,427 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-22 02:01:01,809 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 02:01:02,373 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-22 02:01:02,373 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-22 02:01:03,186 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 02:59:01,902 - pocketoption - DEBUG - Old session worked fine.
+2024-03-22 02:59:03,390 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-22 02:59:03,390 - pocketoption - DEBUG - Total time taken to perform the task: 3.07 seconds
+2024-03-22 03:00:00,971 - pocketoption - DEBUG - No change detected!!
+2024-03-22 03:01:01,438 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 03:01:02,016 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-22 03:01:02,016 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-22 03:01:02,925 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 03:59:03,109 - pocketoption - DEBUG - Old session worked fine.
+2024-03-22 03:59:05,098 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-22 03:59:05,098 - pocketoption - DEBUG - Total time taken to perform the task: 4.91 seconds
+2024-03-22 04:00:01,318 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-22 04:00:01,568 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-22 04:01:02,421 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 04:01:03,062 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-22 04:01:03,062 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-22 04:01:03,940 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 04:59:02,297 - pocketoption - DEBUG - Old session worked fine.
+2024-03-22 04:59:04,033 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-22 04:59:04,033 - pocketoption - DEBUG - Total time taken to perform the task: 3.21 seconds
+2024-03-22 05:00:00,733 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-22 05:00:00,999 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-22 05:01:02,420 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 05:01:02,968 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-22 05:01:02,968 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-22 05:01:06,747 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 05:59:02,257 - pocketoption - DEBUG - Old session worked fine.
+2024-03-22 05:59:03,961 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-22 05:59:03,961 - pocketoption - DEBUG - Total time taken to perform the task: 3.14 seconds
+2024-03-22 06:00:01,073 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-22 06:00:01,385 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-22 06:01:02,218 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 06:01:02,780 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-22 06:01:02,780 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-22 06:01:03,687 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 06:59:01,832 - pocketoption - DEBUG - Old session worked fine.
+2024-03-22 06:59:03,660 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-22 06:59:03,660 - pocketoption - DEBUG - Total time taken to perform the task: 3.17 seconds
+2024-03-22 07:00:00,670 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-22 07:00:00,920 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-22 07:01:01,378 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 07:01:01,957 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-22 07:01:01,957 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-22 07:01:02,817 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 07:59:02,174 - pocketoption - DEBUG - Old session worked fine.
+2024-03-22 07:59:03,739 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-22 07:59:03,739 - pocketoption - DEBUG - Total time taken to perform the task: 3.55 seconds
+2024-03-22 08:00:00,894 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-22 08:00:01,285 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-22 08:01:01,434 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 08:01:01,996 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-22 08:01:01,996 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-22 08:01:02,873 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 08:59:01,621 - pocketoption - DEBUG - Old session worked fine.
+2024-03-22 08:59:03,496 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-22 08:59:03,496 - pocketoption - DEBUG - Total time taken to perform the task: 3.33 seconds
+2024-03-22 09:00:01,440 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-22 09:00:01,690 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-22 09:01:01,912 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 09:01:02,459 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-22 09:01:02,459 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-22 09:01:03,272 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 09:59:02,093 - pocketoption - DEBUG - Old session worked fine.
+2024-03-22 09:59:03,735 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-22 09:59:03,735 - pocketoption - DEBUG - Total time taken to perform the task: 2.96 seconds
+2024-03-22 10:00:00,728 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-22 10:00:01,026 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-22 10:01:02,273 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 10:01:02,884 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-22 10:01:02,884 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-22 10:01:03,728 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 10:59:03,475 - pocketoption - DEBUG - Old session worked fine.
+2024-03-22 10:59:05,836 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-03-22 10:59:05,836 - pocketoption - DEBUG - Total time taken to perform the task: 5.39 seconds
+2024-03-22 11:00:01,197 - pocketoption - INFO - Target [ID:610323477]: success
+2024-03-22 11:00:01,465 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-03-22 11:01:02,425 - pocketoption - DEBUG - First Check -> Latest ID: 155039 | Existing ID: 155039
+2024-03-22 11:01:03,081 - pocketoption - DEBUG - Balance -> 1 -> Not enough for Withdrawal
+2024-03-22 11:01:03,081 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-03-22 11:01:04,003 - pocketoption - DEBUG - Second Check -> Latest ID: 155039 | Existing ID: 155039

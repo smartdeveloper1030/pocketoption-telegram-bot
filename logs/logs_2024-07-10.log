@@ -1,0 +1,1851 @@
+2024-07-10 03:46:18,078 - pocketoption - DEBUG - ======== New Session ========
+2024-07-10 03:46:20,135 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-07-10 16:11:25,345 - pocketoption - DEBUG - ======== New Session ========
+2024-07-10 16:11:27,160 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-07-10 16:43:48,613 - pocketoption - DEBUG - ======== New Session ========
+2024-07-10 16:43:50,449 - pocketoption - DEBUG - Old Session expired!! Trying to login again..
+2024-07-10 16:44:26,620 - pocketoption - DEBUG - Logged-In successfully!
+2024-07-10 16:44:26,620 - pocketoption - DEBUG - Cookies Saved!!
+2024-07-10 16:44:26,640 - pocketoption - DEBUG - Payout Last Request ID: 164123
+2024-07-10 16:59:01,718 - pocketoption - DEBUG - Old session worked fine.
+2024-07-10 16:59:03,140 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-10 16:59:03,140 - pocketoption - DEBUG - Total time taken to perform the task: 2.86 seconds
+2024-07-10 17:00:01,160 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-10 17:00:01,441 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-10 17:59:01,920 - pocketoption - DEBUG - Old session worked fine.
+2024-07-10 17:59:04,046 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-10 17:59:04,046 - pocketoption - DEBUG - Total time taken to perform the task: 3.55 seconds
+2024-07-10 18:00:01,049 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-10 18:00:01,331 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-10 18:59:01,643 - pocketoption - DEBUG - Old session worked fine.
+2024-07-10 18:59:02,955 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-10 18:59:02,971 - pocketoption - DEBUG - Total time taken to perform the task: 2.73 seconds
+2024-07-10 19:00:01,021 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-10 19:00:01,287 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-10 19:59:01,668 - pocketoption - DEBUG - Old session worked fine.
+2024-07-10 19:59:02,918 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-10 19:59:02,918 - pocketoption - DEBUG - Total time taken to perform the task: 2.64 seconds
+2024-07-10 20:00:00,525 - pocketoption - DEBUG - No change detected!!
+2024-07-10 20:59:01,624 - pocketoption - DEBUG - Old session worked fine.
+2024-07-10 20:59:02,968 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-10 20:59:02,968 - pocketoption - DEBUG - Total time taken to perform the task: 2.7 seconds
+2024-07-10 21:00:01,104 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-10 21:00:01,370 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-10 21:59:01,626 - pocketoption - DEBUG - Old session worked fine.
+2024-07-10 21:59:02,926 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-10 21:59:02,926 - pocketoption - DEBUG - Total time taken to perform the task: 2.61 seconds
+2024-07-10 22:00:01,045 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-10 22:00:01,420 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-10 22:59:02,129 - pocketoption - DEBUG - Old session worked fine.
+2024-07-10 22:59:04,052 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-10 22:59:04,052 - pocketoption - DEBUG - Total time taken to perform the task: 3.27 seconds
+2024-07-10 23:00:00,919 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-10 23:00:01,216 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-10 23:59:01,899 - pocketoption - DEBUG - Old session worked fine.
+2024-07-10 23:59:04,026 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-10 23:59:04,026 - pocketoption - DEBUG - Total time taken to perform the task: 3.49 seconds
+2024-07-11 00:00:01,043 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 00:00:01,386 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 00:59:02,226 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 00:59:04,320 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 00:59:04,320 - pocketoption - DEBUG - Total time taken to perform the task: 3.52 seconds
+2024-07-11 01:00:01,306 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 01:00:01,587 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 01:59:01,418 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 01:59:03,812 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 01:59:03,812 - pocketoption - DEBUG - Total time taken to perform the task: 3.78 seconds
+2024-07-11 02:00:00,201 - pocketoption - DEBUG - No change detected!!
+2024-07-11 02:59:01,880 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 02:59:04,131 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 02:59:04,131 - pocketoption - DEBUG - Total time taken to perform the task: 3.58 seconds
+2024-07-11 03:00:01,025 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 03:00:01,291 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 03:59:02,293 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 03:59:04,342 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 03:59:04,342 - pocketoption - DEBUG - Total time taken to perform the task: 3.52 seconds
+2024-07-11 04:00:01,311 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 04:00:01,577 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 04:59:01,986 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 04:59:04,564 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 04:59:04,564 - pocketoption - DEBUG - Total time taken to perform the task: 3.86 seconds
+2024-07-11 05:00:00,655 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 05:00:00,933 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 05:59:02,218 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 05:59:04,642 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 05:59:04,642 - pocketoption - DEBUG - Total time taken to perform the task: 3.75 seconds
+2024-07-11 06:00:00,641 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 06:00:00,922 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 06:01:05,100 - pocketoption - ERROR - ERR_GET_LATEST_PAYMENT_REQUEST: 164123
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 131, in _call_sslobject_method
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 859, in read
+    v = self._sslobj.read(len)
+        ^^^^^^^^^^^^^^^^^^^^^^
+ssl.SSLWantReadError: The operation did not complete (read) (_ssl.c:2559)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 31, in read
+    return await self._stream.receive(max_bytes=max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 196, in receive
+    data = await self._call_sslobject_method(self._ssl_object.read, max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 138, in _call_sslobject_method
+    data = await self.transport_stream.receive()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 1203, in receive
+    await self._protocol.read_event.wait()
+  File "C:\Program Files\Python312\Lib\asyncio\locks.py", line 212, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 8, in map_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 29, in read
+    with anyio.fail_after(timeout):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_tasks.py", line 119, in __exit__
+    raise TimeoutError
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 60, in map_httpcore_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 291, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 253, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 237, in handle_async_request
+    response = await connection.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 90, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 102, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 81, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 143, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 172, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 28, in read
+    with map_exceptions(exc_map):
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc)
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 757, in get_latest_payment_requests
+    res = await fetch(core.payment_history_link)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 79, in fetch
+    return await core.session.get(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1736, in get
+    return await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1513, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1600, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1628, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1665, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1702, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 290, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 77, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+2024-07-11 06:01:05,413 - pocketoption - DEBUG - First Check -> Latest ID: 164123 | Existing ID: 164123
+2024-07-11 06:01:08,554 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 06:01:09,587 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 06:01:11,386 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 06:01:11,418 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (38) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '38', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-11 06:01:11,418 - pocketoption - DEBUG - Auto-Withdrawal request for $38 (Balance) failed!!
+2024-07-11 06:01:11,418 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-11 06:01:12,325 - pocketoption - DEBUG - Second Check -> Latest ID: 176387 | Existing ID: 164123
+2024-07-11 06:59:01,649 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 06:59:04,230 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 06:59:04,230 - pocketoption - DEBUG - Total time taken to perform the task: 3.97 seconds
+2024-07-11 07:00:01,261 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 07:00:01,527 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 07:01:01,684 - pocketoption - DEBUG - First Check -> Latest ID: 176387 | Existing ID: 176387
+2024-07-11 07:01:03,047 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 07:01:03,937 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 07:01:05,593 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 07:01:05,625 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (38) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '38', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-11 07:01:05,625 - pocketoption - DEBUG - Auto-Withdrawal request for $38 (Balance) failed!!
+2024-07-11 07:01:05,625 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-11 07:01:06,547 - pocketoption - DEBUG - Second Check -> Latest ID: 176387 | Existing ID: 176387
+2024-07-11 07:59:01,906 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 07:59:04,908 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 07:59:04,908 - pocketoption - DEBUG - Total time taken to perform the task: 4.33 seconds
+2024-07-11 08:00:00,909 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 08:00:01,221 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 08:01:01,939 - pocketoption - DEBUG - First Check -> Latest ID: 176387 | Existing ID: 176387
+2024-07-11 08:01:03,314 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 08:01:04,206 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 08:01:05,864 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 08:01:05,895 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (38) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '38', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-11 08:01:05,895 - pocketoption - DEBUG - Auto-Withdrawal request for $38 (Balance) failed!!
+2024-07-11 08:01:05,895 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-11 08:01:06,724 - pocketoption - DEBUG - Second Check -> Latest ID: 176387 | Existing ID: 176387
+2024-07-11 08:59:01,473 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 08:59:04,242 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 08:59:04,242 - pocketoption - DEBUG - Total time taken to perform the task: 4.13 seconds
+2024-07-11 09:00:01,272 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 09:00:01,569 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 09:01:02,106 - pocketoption - DEBUG - First Check -> Latest ID: 176387 | Existing ID: 176387
+2024-07-11 09:01:03,374 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 09:01:04,249 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 09:01:05,875 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 09:01:05,906 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (38) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '38', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-11 09:01:05,906 - pocketoption - DEBUG - Auto-Withdrawal request for $38 (Balance) failed!!
+2024-07-11 09:01:05,906 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-11 09:01:06,766 - pocketoption - DEBUG - Second Check -> Latest ID: 176387 | Existing ID: 176387
+2024-07-11 09:59:01,733 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 09:59:03,985 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 09:59:03,985 - pocketoption - DEBUG - Total time taken to perform the task: 3.58 seconds
+2024-07-11 10:00:01,004 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 10:00:01,270 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 10:01:02,151 - pocketoption - DEBUG - First Check -> Latest ID: 176387 | Existing ID: 176387
+2024-07-11 10:01:03,466 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 10:01:04,388 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 10:01:06,061 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 10:01:06,093 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (38) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '38', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-11 10:01:06,093 - pocketoption - DEBUG - Auto-Withdrawal request for $38 (Balance) failed!!
+2024-07-11 10:01:06,093 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-11 10:01:07,078 - pocketoption - DEBUG - Second Check -> Latest ID: 176387 | Existing ID: 176387
+2024-07-11 10:59:01,433 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 10:59:03,656 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 10:59:03,656 - pocketoption - DEBUG - Total time taken to perform the task: 3.43 seconds
+2024-07-11 11:00:00,656 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 11:00:00,953 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 11:01:02,350 - pocketoption - DEBUG - First Check -> Latest ID: 176387 | Existing ID: 176387
+2024-07-11 11:01:03,964 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 11:01:04,996 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 11:01:06,589 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 11:01:06,620 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (38) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '38', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-11 11:01:06,620 - pocketoption - DEBUG - Auto-Withdrawal request for $38 (Balance) failed!!
+2024-07-11 11:01:06,620 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-11 11:01:07,450 - pocketoption - DEBUG - Second Check -> Latest ID: 176387 | Existing ID: 176387
+2024-07-11 11:59:01,561 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 11:59:03,830 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 11:59:03,830 - pocketoption - DEBUG - Total time taken to perform the task: 3.61 seconds
+2024-07-11 12:00:00,886 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 12:00:01,183 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 12:01:02,225 - pocketoption - DEBUG - First Check -> Latest ID: 176387 | Existing ID: 176387
+2024-07-11 12:01:03,744 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 12:01:04,713 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 12:01:06,307 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 12:01:06,339 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (38) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '38', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-11 12:01:06,339 - pocketoption - DEBUG - Auto-Withdrawal request for $38 (Balance) failed!!
+2024-07-11 12:01:06,339 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-11 12:01:07,246 - pocketoption - DEBUG - Second Check -> Latest ID: 176387 | Existing ID: 176387
+2024-07-11 12:59:01,947 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 12:59:04,748 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 12:59:04,748 - pocketoption - DEBUG - Total time taken to perform the task: 4.22 seconds
+2024-07-11 13:00:00,825 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 13:00:01,215 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 13:01:01,304 - pocketoption - DEBUG - First Check -> Latest ID: 176387 | Existing ID: 176387
+2024-07-11 13:01:02,710 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 13:01:03,806 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 13:01:05,496 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 13:01:05,543 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (38) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '38', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-11 13:01:05,543 - pocketoption - DEBUG - Auto-Withdrawal request for $38 (Balance) failed!!
+2024-07-11 13:01:05,543 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-11 13:01:06,465 - pocketoption - DEBUG - Second Check -> Latest ID: 176387 | Existing ID: 176387
+2024-07-11 13:59:01,956 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 13:59:05,193 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 13:59:05,193 - pocketoption - DEBUG - Total time taken to perform the task: 4.4 seconds
+2024-07-11 14:00:01,307 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 14:00:01,589 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 14:01:02,165 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 14:01:02,447 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 14:01:02,479 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 176387
+2024-07-11 14:01:03,986 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 14:01:04,940 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 14:01:06,597 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 14:01:06,628 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-11 14:01:06,628 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-11 14:01:06,628 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-11 14:01:07,505 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-11 14:59:01,613 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 14:59:04,131 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 14:59:04,131 - pocketoption - DEBUG - Total time taken to perform the task: 3.92 seconds
+2024-07-11 15:00:01,144 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 15:00:01,425 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 15:01:02,285 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-11 15:01:03,597 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 15:01:04,490 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 15:01:06,289 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 15:01:06,320 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-11 15:01:06,320 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-11 15:01:06,320 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-11 15:01:07,165 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-11 15:59:01,859 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 15:59:04,583 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 15:59:04,583 - pocketoption - DEBUG - Total time taken to perform the task: 4.07 seconds
+2024-07-11 16:00:00,659 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 16:00:00,987 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 16:01:01,734 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-11 16:01:03,032 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 16:01:03,909 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 16:01:05,473 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 16:01:05,505 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-11 16:01:05,505 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-11 16:01:05,505 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-11 16:01:06,364 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-11 16:59:01,446 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 16:59:03,461 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 16:59:03,461 - pocketoption - DEBUG - Total time taken to perform the task: 3.39 seconds
+2024-07-11 17:00:00,063 - pocketoption - DEBUG - No change detected!!
+2024-07-11 17:01:01,751 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-11 17:01:03,017 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 17:01:03,892 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 17:01:05,536 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 17:01:05,568 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-11 17:01:05,568 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-11 17:01:05,568 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-11 17:01:06,397 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-11 17:59:01,901 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 17:59:04,637 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 17:59:04,637 - pocketoption - DEBUG - Total time taken to perform the task: 3.89 seconds
+2024-07-11 18:00:00,071 - pocketoption - DEBUG - No change detected!!
+2024-07-11 18:01:01,761 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-11 18:01:03,011 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 18:01:03,904 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 18:01:05,468 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 18:01:05,500 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-11 18:01:05,500 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-11 18:01:05,515 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-11 18:01:06,344 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-11 18:59:01,763 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 18:59:03,248 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 18:59:03,248 - pocketoption - DEBUG - Total time taken to perform the task: 2.78 seconds
+2024-07-11 19:00:01,402 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 19:00:01,684 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 19:01:01,314 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-11 19:01:02,629 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 19:01:03,473 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 19:01:05,066 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 19:01:05,098 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-11 19:01:05,098 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-11 19:01:05,098 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-11 19:01:06,069 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-11 19:59:01,397 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 19:59:03,366 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 19:59:03,366 - pocketoption - DEBUG - Total time taken to perform the task: 3.33 seconds
+2024-07-11 20:00:01,456 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 20:00:01,722 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 20:01:02,066 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-11 20:01:03,410 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 20:01:04,286 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 20:01:05,883 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 20:01:05,899 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-11 20:01:05,914 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-11 20:01:05,914 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-11 20:01:06,774 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-11 20:59:02,293 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 20:59:04,779 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 20:59:04,779 - pocketoption - DEBUG - Total time taken to perform the task: 3.82 seconds
+2024-07-11 21:00:00,930 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 21:00:01,305 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 21:01:01,753 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-11 21:01:03,004 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 21:01:03,895 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 21:01:05,458 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 21:01:05,490 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-11 21:01:05,490 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-11 21:01:05,490 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-11 21:01:06,320 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-11 21:59:01,597 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 21:59:02,987 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 21:59:02,987 - pocketoption - DEBUG - Total time taken to perform the task: 2.81 seconds
+2024-07-11 22:00:01,158 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 22:00:01,439 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 22:01:02,127 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-11 22:01:03,455 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 22:01:04,330 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 22:01:05,942 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 22:01:05,973 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-11 22:01:05,973 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-11 22:01:05,973 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-11 22:01:06,835 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-11 22:59:01,603 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 22:59:03,526 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 22:59:03,526 - pocketoption - DEBUG - Total time taken to perform the task: 3.27 seconds
+2024-07-11 23:00:01,524 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-11 23:00:01,819 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-11 23:01:02,048 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-11 23:01:03,315 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 23:01:04,190 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 23:01:05,706 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-11 23:01:05,753 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-11 23:01:05,753 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-11 23:01:05,753 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-11 23:01:06,597 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-11 23:59:01,965 - pocketoption - DEBUG - Old session worked fine.
+2024-07-11 23:59:04,044 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-11 23:59:04,044 - pocketoption - DEBUG - Total time taken to perform the task: 3.47 seconds
+2024-07-12 00:00:00,873 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 00:00:01,154 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 00:01:01,396 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 00:01:02,787 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 00:01:03,663 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 00:01:05,289 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 00:01:05,320 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 00:01:05,320 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 00:01:05,320 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 00:01:06,165 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 00:59:02,050 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 00:59:04,335 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 00:59:04,335 - pocketoption - DEBUG - Total time taken to perform the task: 3.6 seconds
+2024-07-12 01:00:01,278 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 01:00:01,607 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 01:01:01,872 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 01:01:03,170 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 01:01:04,031 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 01:01:05,625 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 01:01:05,657 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 01:01:05,657 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 01:01:05,657 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 01:01:06,485 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 01:59:01,556 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 01:59:03,790 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 01:59:03,790 - pocketoption - DEBUG - Total time taken to perform the task: 3.6 seconds
+2024-07-12 02:00:00,963 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 02:00:01,233 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 02:01:02,154 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 02:01:03,529 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 02:01:04,388 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 02:01:05,953 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 02:01:05,984 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 02:01:05,984 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 02:01:05,984 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 02:01:06,844 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 02:59:01,918 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 02:59:04,201 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 02:59:04,201 - pocketoption - DEBUG - Total time taken to perform the task: 3.69 seconds
+2024-07-12 03:00:01,260 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 03:00:01,528 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 03:01:01,997 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 03:01:03,356 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 03:01:04,232 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 03:01:05,827 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 03:01:05,858 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 03:01:05,858 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 03:01:05,858 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 03:01:06,687 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 03:59:01,855 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 03:59:03,748 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 03:59:03,763 - pocketoption - DEBUG - Total time taken to perform the task: 3.27 seconds
+2024-07-12 04:00:00,749 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 04:00:01,014 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 04:01:01,327 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 04:01:02,768 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 04:01:03,658 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 04:01:05,268 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 04:01:05,299 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 04:01:05,299 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 04:01:05,299 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 04:01:06,346 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 04:59:02,212 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 04:59:04,199 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 04:59:04,199 - pocketoption - DEBUG - Total time taken to perform the task: 3.28 seconds
+2024-07-12 05:00:01,300 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 05:00:01,565 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 05:01:02,278 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 05:01:03,591 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 05:01:04,484 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 05:01:06,048 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 05:01:06,079 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 05:01:06,095 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 05:01:06,095 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 05:01:06,939 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 05:59:01,825 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 05:59:04,437 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 05:59:04,437 - pocketoption - DEBUG - Total time taken to perform the task: 3.92 seconds
+2024-07-12 06:00:00,062 - pocketoption - DEBUG - No change detected!!
+2024-07-12 06:01:01,072 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 06:01:02,464 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 06:01:03,355 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 06:01:04,980 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 06:01:05,012 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 06:01:05,012 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 06:01:05,012 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 06:01:05,842 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 06:59:01,813 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 06:59:04,313 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 06:59:04,329 - pocketoption - DEBUG - Total time taken to perform the task: 3.83 seconds
+2024-07-12 07:00:00,829 - pocketoption - DEBUG - No change detected!!
+2024-07-12 07:01:01,585 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 07:01:03,101 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 07:01:03,991 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 07:01:05,712 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 07:01:05,743 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 07:01:05,759 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 07:01:05,759 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 07:01:06,604 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 07:59:01,644 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 07:59:04,303 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 07:59:04,303 - pocketoption - DEBUG - Total time taken to perform the task: 4.05 seconds
+2024-07-12 08:00:01,415 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 08:00:01,743 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 08:01:02,426 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 08:01:03,725 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 08:01:04,585 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 08:01:06,225 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 08:01:06,257 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 08:01:06,257 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 08:01:06,257 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 08:01:07,116 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 08:59:01,650 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 08:59:04,510 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 08:59:04,510 - pocketoption - DEBUG - Total time taken to perform the task: 4.28 seconds
+2024-07-12 09:00:01,534 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 09:00:01,799 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 09:01:02,200 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 09:01:03,481 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 09:01:04,358 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 09:01:05,937 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 09:01:06,109 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 09:01:06,109 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 09:01:06,109 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 09:01:06,969 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 09:59:01,557 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 09:59:04,685 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 09:59:04,685 - pocketoption - DEBUG - Total time taken to perform the task: 4.65 seconds
+2024-07-12 10:00:00,733 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 10:00:01,015 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 10:01:02,198 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 10:01:03,526 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 10:01:04,419 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 10:01:06,139 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 10:01:06,170 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 10:01:06,170 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 10:01:06,170 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 10:01:07,060 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 10:59:01,588 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 10:59:03,808 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 10:59:03,808 - pocketoption - DEBUG - Total time taken to perform the task: 3.58 seconds
+2024-07-12 11:00:00,916 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 11:00:01,228 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 11:01:01,646 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 11:01:02,991 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 11:01:03,975 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 11:01:05,600 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 11:01:05,632 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 11:01:05,632 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 11:01:05,632 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 11:01:06,446 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 11:59:02,125 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 11:59:04,408 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 11:59:04,408 - pocketoption - DEBUG - Total time taken to perform the task: 3.55 seconds
+2024-07-12 12:00:01,344 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 12:00:01,625 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 12:01:01,718 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 12:01:03,625 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 12:01:04,627 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 12:01:06,393 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 12:01:06,440 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 12:01:06,440 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 12:01:06,440 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 12:01:07,441 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 12:59:02,083 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 12:59:04,882 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 12:59:04,882 - pocketoption - DEBUG - Total time taken to perform the task: 4.1 seconds
+2024-07-12 13:00:00,939 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 13:00:01,267 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 13:01:02,065 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 13:01:03,520 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 13:01:04,630 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 13:01:06,458 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 13:01:06,489 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 13:01:06,489 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 13:01:06,489 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 13:01:07,366 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 13:59:02,064 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 13:59:03,626 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 13:59:03,626 - pocketoption - DEBUG - Total time taken to perform the task: 3.0 seconds
+2024-07-12 14:00:00,671 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 14:00:00,952 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 14:01:01,556 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 14:01:03,246 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 14:01:04,214 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 14:01:05,888 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 14:01:05,919 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 14:01:05,935 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 14:01:05,935 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 14:01:06,794 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 14:59:01,839 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 14:59:04,139 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 14:59:04,139 - pocketoption - DEBUG - Total time taken to perform the task: 3.9 seconds
+2024-07-12 15:00:01,315 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 15:00:01,596 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 15:01:02,284 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 15:01:03,630 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 15:01:04,536 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 15:01:06,209 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 15:01:06,225 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 15:01:06,240 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 15:01:06,240 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 15:01:07,084 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 15:59:01,716 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 15:59:04,297 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 15:59:04,297 - pocketoption - DEBUG - Total time taken to perform the task: 3.94 seconds
+2024-07-12 16:00:01,370 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 16:00:01,636 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 16:01:01,327 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 16:01:02,705 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 16:01:03,689 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 16:01:05,425 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 16:01:05,456 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 16:01:05,456 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 16:01:05,456 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 16:01:06,332 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 16:59:01,724 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 16:59:04,088 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 16:59:04,088 - pocketoption - DEBUG - Total time taken to perform the task: 3.79 seconds
+2024-07-12 17:00:01,238 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 17:00:01,534 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 17:01:01,551 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 17:01:02,944 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 17:01:03,915 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 17:01:05,540 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 17:01:05,571 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 17:01:05,571 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 17:01:05,587 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 17:01:06,478 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 17:59:02,243 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 17:59:05,511 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 17:59:05,511 - pocketoption - DEBUG - Total time taken to perform the task: 4.83 seconds
+2024-07-12 18:00:01,528 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 18:00:01,793 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 18:01:01,902 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 18:01:03,200 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 18:01:04,075 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 18:01:05,654 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 18:01:05,701 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 18:01:05,701 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 18:01:05,701 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 18:01:06,735 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 18:59:01,373 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 18:59:02,702 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 18:59:02,702 - pocketoption - DEBUG - Total time taken to perform the task: 2.61 seconds
+2024-07-12 19:00:00,858 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 19:00:01,155 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 19:01:01,904 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 19:01:03,343 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 19:01:04,299 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 19:01:05,956 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 19:01:05,987 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 19:01:05,987 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 19:01:05,987 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 19:01:06,909 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 19:59:02,144 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 19:59:04,302 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 19:59:04,302 - pocketoption - DEBUG - Total time taken to perform the task: 3.47 seconds
+2024-07-12 20:00:01,226 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 20:00:01,509 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 20:01:01,712 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 20:01:03,089 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 20:01:03,981 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 20:01:05,575 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 20:01:05,606 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 20:01:05,606 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 20:01:05,622 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 20:01:06,466 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 20:59:01,887 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 20:59:03,920 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 20:59:03,935 - pocketoption - DEBUG - Total time taken to perform the task: 3.46 seconds
+2024-07-12 21:00:00,965 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 21:00:01,371 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 21:01:01,292 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 21:01:02,667 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 21:01:03,620 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 21:01:05,452 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 21:01:05,499 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 21:01:05,499 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 21:01:05,499 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 21:01:06,342 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 21:59:02,624 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 21:59:05,126 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 21:59:05,126 - pocketoption - DEBUG - Total time taken to perform the task: 4.19 seconds
+2024-07-12 22:00:01,200 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 22:00:01,482 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 22:01:01,870 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 22:01:03,216 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 22:01:04,138 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 22:01:05,750 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 22:01:05,781 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 22:01:05,781 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 22:01:05,781 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 22:01:06,656 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 22:59:02,195 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 22:59:04,476 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 22:59:04,476 - pocketoption - DEBUG - Total time taken to perform the task: 3.72 seconds
+2024-07-12 23:00:01,529 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-12 23:00:01,794 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-12 23:01:01,964 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 23:01:03,370 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 23:01:04,339 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 23:01:06,047 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-12 23:01:06,078 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-12 23:01:06,078 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-12 23:01:06,094 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-12 23:01:06,969 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-12 23:59:01,853 - pocketoption - DEBUG - Old session worked fine.
+2024-07-12 23:59:04,214 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-12 23:59:04,214 - pocketoption - DEBUG - Total time taken to perform the task: 3.71 seconds
+2024-07-13 00:00:01,262 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-13 00:00:01,529 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-13 00:01:02,230 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 00:01:03,576 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 00:01:04,467 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 00:01:06,047 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 00:01:06,078 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 00:01:06,094 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 00:01:06,094 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 00:01:06,985 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 00:59:02,094 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 00:59:04,299 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 00:59:04,299 - pocketoption - DEBUG - Total time taken to perform the task: 3.55 seconds
+2024-07-13 01:00:01,290 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-13 01:00:01,571 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-13 01:01:01,316 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 01:01:02,628 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 01:01:03,520 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 01:01:05,066 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 01:01:05,113 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 01:01:05,113 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 01:01:05,113 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 01:01:05,945 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 01:15:13,935 - pocketoption - DEBUG - Date: 2024-07-06 | Hour: 4
+2024-07-13 01:15:13,950 - pocketoption - DEBUG - Date: 2024-07-13 | Hour: 4
+2024-07-13 01:59:01,479 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 01:59:04,310 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 01:59:04,310 - pocketoption - DEBUG - Total time taken to perform the task: 4.22 seconds
+2024-07-13 02:00:01,355 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-13 02:00:01,621 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-13 02:01:02,034 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 02:01:03,363 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 02:01:04,240 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 02:01:05,945 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 02:01:05,992 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 02:01:05,992 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 02:01:05,992 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 02:01:06,851 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 02:59:02,117 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 02:59:04,414 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 02:59:04,414 - pocketoption - DEBUG - Total time taken to perform the task: 3.61 seconds
+2024-07-13 03:00:00,533 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-13 03:00:00,798 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-13 03:01:01,718 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 03:01:02,999 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 03:01:03,890 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 03:01:05,469 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 03:01:05,500 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 03:01:05,500 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 03:01:05,500 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 03:01:06,440 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 03:59:01,927 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 03:59:04,178 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 03:59:04,178 - pocketoption - DEBUG - Total time taken to perform the task: 3.56 seconds
+2024-07-13 04:00:01,235 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-13 04:00:01,548 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-13 04:01:02,266 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 04:01:03,532 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 04:01:04,456 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 04:01:06,034 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 04:01:06,065 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 04:01:06,065 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 04:01:06,065 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 04:01:06,959 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 04:59:00,959 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 04:59:03,118 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 04:59:03,118 - pocketoption - DEBUG - Total time taken to perform the task: 3.1 seconds
+2024-07-13 05:00:01,033 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-13 05:00:01,314 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-13 05:01:02,284 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 05:01:03,582 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 05:01:04,473 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 05:01:06,067 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 05:01:06,098 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 05:01:06,098 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 05:01:06,098 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 05:01:06,913 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 05:59:02,062 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 05:59:04,188 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 05:59:04,188 - pocketoption - DEBUG - Total time taken to perform the task: 3.45 seconds
+2024-07-13 06:00:00,637 - pocketoption - DEBUG - No change detected!!
+2024-07-13 06:01:02,105 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 06:01:03,386 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 06:01:04,278 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 06:01:05,858 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 06:01:05,889 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 06:01:05,889 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 06:01:05,889 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 06:01:06,733 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 06:59:02,111 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 06:59:04,097 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 06:59:04,097 - pocketoption - DEBUG - Total time taken to perform the task: 3.27 seconds
+2024-07-13 07:00:00,894 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-13 07:00:01,175 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-13 07:01:02,002 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 07:01:03,316 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 07:01:04,222 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 07:01:05,786 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 07:01:05,817 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 07:01:05,833 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 07:01:05,833 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 07:01:06,645 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 07:59:01,396 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 07:59:03,584 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 07:59:03,584 - pocketoption - DEBUG - Total time taken to perform the task: 3.55 seconds
+2024-07-13 08:00:00,683 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-13 08:00:00,949 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-13 08:01:02,359 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 08:01:03,702 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 08:01:04,562 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 08:01:06,362 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 08:01:06,393 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 08:01:06,393 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 08:01:06,393 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 08:01:07,221 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 08:59:01,876 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 08:59:04,004 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 08:59:04,004 - pocketoption - DEBUG - Total time taken to perform the task: 3.44 seconds
+2024-07-13 09:00:00,935 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-13 09:00:01,217 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-13 09:01:01,996 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 09:01:03,342 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 09:01:04,218 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 09:01:05,764 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 09:01:05,796 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 09:01:05,796 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 09:01:05,796 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 09:01:06,655 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 09:59:01,882 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 09:59:04,399 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 09:59:04,399 - pocketoption - DEBUG - Total time taken to perform the task: 4.08 seconds
+2024-07-13 10:00:01,327 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-13 10:00:01,609 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-13 10:01:01,714 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 10:01:03,089 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 10:01:03,965 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 10:01:05,699 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 10:01:05,731 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 10:01:05,731 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 10:01:05,731 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 10:01:06,607 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 10:59:01,597 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 10:59:04,662 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 10:59:04,662 - pocketoption - DEBUG - Total time taken to perform the task: 4.5 seconds
+2024-07-13 11:00:00,001 - pocketoption - DEBUG - No change detected!!
+2024-07-13 11:01:01,587 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 11:01:03,009 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 11:01:03,948 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 11:01:05,543 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 11:01:05,559 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 11:01:05,575 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 11:01:05,575 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 11:01:06,434 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 11:59:01,544 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 11:59:04,639 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 11:59:04,639 - pocketoption - DEBUG - Total time taken to perform the task: 4.47 seconds
+2024-07-13 12:00:00,666 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-13 12:00:00,949 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-13 12:01:01,318 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 12:01:02,570 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 12:01:03,429 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 12:01:04,976 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 12:01:05,007 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 12:01:05,007 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 12:01:05,007 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 12:01:05,836 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 12:59:01,450 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 12:59:04,202 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 12:59:04,202 - pocketoption - DEBUG - Total time taken to perform the task: 4.14 seconds
+2024-07-13 13:00:01,040 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-13 13:00:01,306 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-13 13:01:01,589 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 13:01:02,950 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 13:01:03,871 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 13:01:05,483 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 13:01:05,514 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 13:01:05,514 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 13:01:05,514 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 13:01:06,358 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 13:59:01,874 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 13:59:03,846 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 13:59:03,846 - pocketoption - DEBUG - Total time taken to perform the task: 3.3 seconds
+2024-07-13 14:00:00,337 - pocketoption - DEBUG - No change detected!!
+2024-07-13 14:01:01,465 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 14:01:02,733 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 14:01:03,640 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 14:01:05,296 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 14:01:05,328 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 14:01:05,328 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 14:01:05,328 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 14:01:06,187 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 14:59:02,170 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 14:59:04,562 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 14:59:04,578 - pocketoption - DEBUG - Total time taken to perform the task: 3.75 seconds
+2024-07-13 15:00:00,558 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-13 15:00:00,839 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-13 15:01:02,071 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 15:01:03,321 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 15:01:04,164 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 15:01:05,699 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 15:01:05,745 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 15:01:05,745 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 15:01:05,745 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 15:01:06,605 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 15:59:01,446 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 15:59:03,980 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 15:59:03,980 - pocketoption - DEBUG - Total time taken to perform the task: 3.93 seconds
+2024-07-13 16:00:00,942 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-13 16:00:01,208 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-13 16:01:02,230 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 16:01:03,654 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 16:01:04,561 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 16:01:06,171 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 16:01:06,203 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 16:01:06,203 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 16:01:06,203 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 16:01:07,062 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 16:59:01,875 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 16:59:03,515 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 16:59:03,515 - pocketoption - DEBUG - Total time taken to perform the task: 2.96 seconds
+2024-07-13 17:00:00,579 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-13 17:00:00,909 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-13 17:01:01,909 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 17:01:03,221 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 17:01:04,065 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 17:01:05,596 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 17:01:05,738 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 17:01:05,738 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 17:01:05,753 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 17:01:06,551 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 17:59:01,811 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 17:59:04,236 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 17:59:04,236 - pocketoption - DEBUG - Total time taken to perform the task: 3.57 seconds
+2024-07-13 18:00:01,205 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-13 18:00:01,486 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-13 18:01:01,721 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 18:01:03,003 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 18:01:03,894 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 18:01:05,505 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 18:01:05,536 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 18:01:05,536 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 18:01:05,536 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 18:01:06,520 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 18:59:01,632 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 18:59:03,664 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 18:59:03,664 - pocketoption - DEBUG - Total time taken to perform the task: 3.46 seconds
+2024-07-13 19:00:01,511 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-13 19:00:01,794 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-13 19:01:01,715 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 19:01:02,951 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 19:01:03,826 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 19:01:05,358 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 19:01:05,389 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 19:01:05,389 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 19:01:05,389 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 19:01:06,217 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 19:59:01,676 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 19:59:02,864 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 19:59:02,864 - pocketoption - DEBUG - Total time taken to perform the task: 2.52 seconds
+2024-07-13 20:00:00,308 - pocketoption - DEBUG - No change detected!!
+2024-07-13 20:01:01,732 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 20:01:03,139 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 20:01:04,029 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 20:01:05,610 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 20:01:05,657 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 20:01:05,657 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 20:01:05,657 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 20:01:06,485 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 20:59:02,203 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 20:59:04,111 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 20:59:04,111 - pocketoption - DEBUG - Total time taken to perform the task: 3.24 seconds
+2024-07-13 21:00:00,470 - pocketoption - DEBUG - No change detected!!
+2024-07-13 21:01:01,298 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 21:01:02,677 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 21:01:03,568 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 21:01:05,162 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 21:01:05,193 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 21:01:05,193 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 21:01:05,193 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 21:01:06,005 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 21:59:02,061 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 21:59:03,392 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 21:59:03,392 - pocketoption - DEBUG - Total time taken to perform the task: 2.61 seconds
+2024-07-13 22:00:01,322 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-13 22:00:01,666 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-13 22:01:02,231 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 22:01:03,451 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 22:01:04,404 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 22:01:05,938 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 22:01:05,953 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 22:01:05,969 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 22:01:05,969 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 22:01:06,781 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 22:59:01,799 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 22:59:03,694 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 22:59:03,694 - pocketoption - DEBUG - Total time taken to perform the task: 3.25 seconds
+2024-07-13 23:00:00,634 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-13 23:00:00,915 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-13 23:01:01,781 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 23:01:03,049 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 23:01:03,894 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 23:01:05,426 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-13 23:01:05,457 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-13 23:01:05,457 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-13 23:01:05,457 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-13 23:01:06,269 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-13 23:59:01,568 - pocketoption - DEBUG - Old session worked fine.
+2024-07-13 23:59:02,756 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-13 23:59:02,771 - pocketoption - DEBUG - Total time taken to perform the task: 2.6 seconds
+2024-07-14 00:00:00,747 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-14 00:00:01,045 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-14 00:01:01,639 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 00:01:02,922 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 00:01:03,781 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 00:01:05,408 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 00:01:05,439 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-14 00:01:05,439 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-14 00:01:05,439 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-14 00:01:06,300 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 00:59:01,540 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 00:59:03,685 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-14 00:59:03,685 - pocketoption - DEBUG - Total time taken to perform the task: 3.44 seconds
+2024-07-14 01:00:00,592 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-14 01:00:00,876 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-14 01:01:01,745 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 01:01:03,106 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 01:01:03,952 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 01:01:05,608 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 01:01:05,640 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-14 01:01:05,640 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-14 01:01:05,640 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-14 01:01:06,469 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 01:59:01,460 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 01:59:02,649 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-14 01:59:02,649 - pocketoption - DEBUG - Total time taken to perform the task: 2.58 seconds
+2024-07-14 02:00:00,231 - pocketoption - DEBUG - No change detected!!
+2024-07-14 02:01:02,263 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 02:01:03,499 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 02:01:04,375 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 02:01:05,938 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 02:01:05,970 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-14 02:01:05,970 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-14 02:01:05,970 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-14 02:01:06,877 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 02:59:02,110 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 02:59:04,128 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-14 02:59:04,128 - pocketoption - DEBUG - Total time taken to perform the task: 3.24 seconds
+2024-07-14 03:00:01,202 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-14 03:00:01,456 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-14 03:01:02,355 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 03:01:03,779 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 03:01:04,671 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 03:01:06,328 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 03:01:06,359 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-14 03:01:06,359 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-14 03:01:06,359 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-14 03:01:07,265 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 03:59:02,267 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 03:59:03,642 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-14 03:59:03,642 - pocketoption - DEBUG - Total time taken to perform the task: 2.72 seconds
+2024-07-14 04:00:00,666 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-14 04:00:00,932 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-14 04:01:01,995 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 04:01:03,371 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 04:01:04,217 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 04:01:05,749 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 04:01:05,765 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-14 04:01:05,781 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-14 04:01:05,781 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-14 04:01:06,625 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 04:59:01,700 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 04:59:03,903 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-14 04:59:03,903 - pocketoption - DEBUG - Total time taken to perform the task: 3.35 seconds
+2024-07-14 05:00:00,856 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-14 05:00:01,121 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-14 05:01:01,745 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 05:01:03,089 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 05:01:03,917 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 05:01:05,545 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 05:01:05,576 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-14 05:01:05,576 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-14 05:01:05,576 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-14 05:01:06,406 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 05:59:01,474 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 05:59:02,665 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-14 05:59:02,665 - pocketoption - DEBUG - Total time taken to perform the task: 2.53 seconds
+2024-07-14 06:00:01,521 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-14 06:00:01,787 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-14 06:01:01,270 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 06:01:02,524 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 06:01:03,431 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 06:01:05,027 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 06:01:05,058 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-14 06:01:05,058 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-14 06:01:05,058 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-14 06:01:05,902 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 06:59:01,428 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 06:59:03,667 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-14 06:59:03,667 - pocketoption - DEBUG - Total time taken to perform the task: 3.55 seconds
+2024-07-14 07:00:00,652 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-14 07:00:00,911 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-14 07:01:01,556 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 07:01:02,900 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 07:01:03,761 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 07:01:05,451 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 07:01:05,482 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-14 07:01:05,482 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-14 07:01:05,482 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-14 07:01:06,295 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 07:59:02,288 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 07:59:03,900 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-14 07:59:03,900 - pocketoption - DEBUG - Total time taken to perform the task: 2.91 seconds
+2024-07-14 08:00:00,275 - pocketoption - DEBUG - No change detected!!
+2024-07-14 08:01:02,164 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 08:01:03,447 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 08:01:04,588 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 08:01:06,138 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 08:01:06,170 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-14 08:01:06,170 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-14 08:01:06,170 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-14 08:01:06,998 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 08:59:01,455 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 08:59:04,064 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-14 08:59:04,064 - pocketoption - DEBUG - Total time taken to perform the task: 4.0 seconds
+2024-07-14 09:00:00,621 - pocketoption - DEBUG - No change detected!!
+2024-07-14 09:01:01,419 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 09:01:02,701 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 09:01:03,591 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 09:01:05,201 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 09:01:05,232 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-14 09:01:05,232 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-14 09:01:05,232 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-14 09:01:06,049 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 09:59:02,080 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 09:59:05,253 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-14 09:59:05,253 - pocketoption - DEBUG - Total time taken to perform the task: 4.53 seconds
+2024-07-14 10:00:01,172 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-14 10:00:01,438 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-14 10:01:01,526 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 10:01:02,964 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 10:01:04,013 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 10:01:05,669 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 10:01:05,701 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-14 10:01:05,701 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-14 10:01:05,701 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-14 10:01:06,578 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 10:59:01,762 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 10:59:03,904 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-14 10:59:03,904 - pocketoption - DEBUG - Total time taken to perform the task: 3.58 seconds
+2024-07-14 11:00:00,301 - pocketoption - DEBUG - No change detected!!
+2024-07-14 11:01:01,771 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 11:01:03,069 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 11:01:03,961 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 11:01:05,601 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 11:01:05,632 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-14 11:01:05,632 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-14 11:01:05,632 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-14 11:01:06,573 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 11:59:01,484 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 11:59:03,672 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-14 11:59:03,672 - pocketoption - DEBUG - Total time taken to perform the task: 3.5 seconds
+2024-07-14 12:00:00,551 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-14 12:00:00,816 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-14 12:01:01,332 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 12:01:02,722 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 12:01:03,675 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 12:01:05,288 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 12:01:05,319 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-14 12:01:05,319 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-14 12:01:05,319 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-14 12:01:06,303 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 12:59:01,770 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 12:59:02,349 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-07-14 12:59:02,349 - pocketoption - DEBUG - Total time taken to perform the task: 1.92 seconds
+2024-07-14 13:00:01,413 - pocketoption - INFO - Target [ID:610323477]: success
+2024-07-14 13:00:01,804 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-07-14 13:01:01,554 - pocketoption - DEBUG - First Check -> Latest ID: 177410 | Existing ID: 177410
+2024-07-14 13:01:02,837 - pocketoption - DEBUG - Old session worked fine.
+2024-07-14 13:01:03,759 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 13:01:05,337 - pocketoption - DEBUG - Response: 200 | https://affiliate.pocketoption.com/en/payments/request
+2024-07-14 13:01:05,368 - pocketoption - ERROR - ERR_PROCESS_WITHDRAWAL: Balance (28) ({'_token': 'elpUKUp9Z0M0EyJFqLHpEWurigTKsUOTu1MlicWU', 'amount': '28', 'balance_type': 'balance', 'method': '18', 'uid-100': '', 'uids-100': '', 'comment': ''}) | 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 717, in process_withdrawal
+    error = get_error(res_post_r)
+            ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 562, in get_error
+    div.select_one("strong").text.strip(),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2024-07-14 13:01:05,368 - pocketoption - DEBUG - Auto-Withdrawal request for $28 (Balance) failed!!
+2024-07-14 13:01:05,368 - pocketoption - DEBUG - Bonus -> 0.0 -> Not enough for Withdrawal
+2024-07-14 13:01:06,197 - pocketoption - DEBUG - Second Check -> Latest ID: 177410 | Existing ID: 177410

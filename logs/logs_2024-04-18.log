@@ -1,0 +1,235 @@
+2024-04-18 12:41:30,386 - pocketoption - DEBUG - ======== New Session ========
+2024-04-18 12:41:33,223 - pocketoption - DEBUG - Old session worked fine.
+2024-04-18 12:41:33,235 - pocketoption - DEBUG - Payout Last Request ID: 157622
+2024-04-18 12:59:01,953 - pocketoption - DEBUG - Old session worked fine.
+2024-04-18 12:59:03,922 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-18 12:59:03,922 - pocketoption - DEBUG - Total time taken to perform the task: 3.19 seconds
+2024-04-18 13:00:00,976 - pocketoption - INFO - Target [ID:610323477]: success
+2024-04-18 13:00:01,273 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-04-18 13:59:02,115 - pocketoption - DEBUG - Old session worked fine.
+2024-04-18 13:59:03,787 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-18 13:59:03,787 - pocketoption - DEBUG - Total time taken to perform the task: 3.67 seconds
+2024-04-18 14:00:00,819 - pocketoption - INFO - Target [ID:610323477]: success
+2024-04-18 14:00:01,085 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-04-18 14:59:01,678 - pocketoption - DEBUG - Old session worked fine.
+2024-04-18 14:59:03,993 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-18 14:59:03,993 - pocketoption - DEBUG - Total time taken to perform the task: 3.69 seconds
+2024-04-18 15:00:01,094 - pocketoption - INFO - Target [ID:610323477]: success
+2024-04-18 15:00:01,375 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-04-18 15:59:02,261 - pocketoption - DEBUG - Old session worked fine.
+2024-04-18 15:59:04,215 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-18 15:59:04,215 - pocketoption - DEBUG - Total time taken to perform the task: 3.34 seconds
+2024-04-18 16:00:01,148 - pocketoption - INFO - Target [ID:610323477]: success
+2024-04-18 16:00:01,398 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-04-18 16:59:02,799 - pocketoption - DEBUG - Old session worked fine.
+2024-04-18 16:59:04,379 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-18 16:59:04,379 - pocketoption - DEBUG - Total time taken to perform the task: 3.49 seconds
+2024-04-18 17:00:01,278 - pocketoption - INFO - Target [ID:610323477]: success
+2024-04-18 17:00:01,543 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-04-18 17:59:01,487 - pocketoption - DEBUG - Old session worked fine.
+2024-04-18 17:59:03,565 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-18 17:59:03,565 - pocketoption - DEBUG - Total time taken to perform the task: 3.53 seconds
+2024-04-18 18:00:00,589 - pocketoption - INFO - Target [ID:610323477]: success
+2024-04-18 18:00:00,855 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-04-18 18:59:01,649 - pocketoption - DEBUG - Old session worked fine.
+2024-04-18 18:59:03,399 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-18 18:59:03,399 - pocketoption - DEBUG - Total time taken to perform the task: 3.2 seconds
+2024-04-18 19:00:01,447 - pocketoption - INFO - Target [ID:610323477]: success
+2024-04-18 19:00:01,713 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-04-18 19:59:02,676 - pocketoption - DEBUG - Old session worked fine.
+2024-04-18 19:59:04,177 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-18 19:59:04,177 - pocketoption - DEBUG - Total time taken to perform the task: 3.28 seconds
+2024-04-18 20:00:00,905 - pocketoption - INFO - Target [ID:610323477]: success
+2024-04-18 20:00:01,186 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-04-18 20:59:01,498 - pocketoption - DEBUG - Old session worked fine.
+2024-04-18 20:59:03,092 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-18 20:59:03,092 - pocketoption - DEBUG - Total time taken to perform the task: 3.03 seconds
+2024-04-18 21:00:00,610 - pocketoption - DEBUG - No change detected!!
+2024-04-18 21:59:02,356 - pocketoption - DEBUG - Old session worked fine.
+2024-04-18 21:59:04,185 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-18 21:59:04,185 - pocketoption - DEBUG - Total time taken to perform the task: 3.22 seconds
+2024-04-18 22:00:01,174 - pocketoption - INFO - Target [ID:610323477]: success
+2024-04-18 22:00:01,440 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-04-18 22:59:02,177 - pocketoption - DEBUG - Old session worked fine.
+2024-04-18 22:59:04,114 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-18 22:59:04,114 - pocketoption - DEBUG - Total time taken to perform the task: 3.14 seconds
+2024-04-18 23:00:01,161 - pocketoption - INFO - Target [ID:610323477]: success
+2024-04-18 23:00:01,411 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-04-18 23:59:02,406 - pocketoption - DEBUG - Old session worked fine.
+2024-04-18 23:59:03,923 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-18 23:59:03,923 - pocketoption - DEBUG - Total time taken to perform the task: 3.49 seconds
+2024-04-19 00:00:00,488 - pocketoption - DEBUG - No change detected!!
+2024-04-19 00:59:02,025 - pocketoption - DEBUG - Old session worked fine.
+2024-04-19 00:59:03,572 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-19 00:59:03,588 - pocketoption - DEBUG - Total time taken to perform the task: 3.03 seconds
+2024-04-19 01:00:00,648 - pocketoption - INFO - Target [ID:610323477]: success
+2024-04-19 01:00:00,914 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-04-19 01:59:02,177 - pocketoption - DEBUG - Old session worked fine.
+2024-04-19 01:59:04,164 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-19 01:59:04,164 - pocketoption - DEBUG - Total time taken to perform the task: 3.52 seconds
+2024-04-19 02:00:00,656 - pocketoption - DEBUG - No change detected!!
+2024-04-19 02:59:04,169 - pocketoption - DEBUG - Old session worked fine.
+2024-04-19 02:59:06,326 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-19 02:59:06,342 - pocketoption - DEBUG - Total time taken to perform the task: 5.69 seconds
+2024-04-19 03:00:00,855 - pocketoption - DEBUG - No change detected!!
+2024-04-19 03:59:03,161 - pocketoption - DEBUG - Old session worked fine.
+2024-04-19 03:59:05,274 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-19 03:59:05,274 - pocketoption - DEBUG - Total time taken to perform the task: 4.83 seconds
+2024-04-19 04:00:01,610 - pocketoption - INFO - Target [ID:610323477]: success
+2024-04-19 04:00:01,876 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-04-19 04:59:02,152 - pocketoption - DEBUG - Old session worked fine.
+2024-04-19 04:59:04,876 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-19 04:59:04,876 - pocketoption - DEBUG - Total time taken to perform the task: 4.22 seconds
+2024-04-19 05:00:00,867 - pocketoption - INFO - Target [ID:610323477]: success
+2024-04-19 05:00:01,133 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-04-19 05:59:03,315 - pocketoption - DEBUG - Old session worked fine.
+2024-04-19 05:59:05,835 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-19 05:59:05,835 - pocketoption - DEBUG - Total time taken to perform the task: 4.97 seconds
+2024-04-19 06:00:00,393 - pocketoption - DEBUG - No change detected!!
+2024-04-19 06:59:02,253 - pocketoption - DEBUG - Old session worked fine.
+2024-04-19 06:59:04,255 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-19 06:59:04,255 - pocketoption - DEBUG - Total time taken to perform the task: 3.39 seconds
+2024-04-19 07:00:01,330 - pocketoption - INFO - Target [ID:610323477]: success
+2024-04-19 07:00:01,595 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-04-19 07:01:05,850 - pocketoption - ERROR - ERR_GET_LATEST_PAYMENT_REQUEST: 157622
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 131, in _call_sslobject_method
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 859, in read
+    v = self._sslobj.read(len)
+        ^^^^^^^^^^^^^^^^^^^^^^
+ssl.SSLWantReadError: The operation did not complete (read) (_ssl.c:2559)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 31, in read
+    return await self._stream.receive(max_bytes=max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 196, in receive
+    data = await self._call_sslobject_method(self._ssl_object.read, max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\streams\tls.py", line 138, in _call_sslobject_method
+    data = await self.transport_stream.receive()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_backends\_asyncio.py", line 1203, in receive
+    await self._protocol.read_event.wait()
+  File "C:\Program Files\Python312\Lib\asyncio\locks.py", line 212, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 8, in map_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 29, in read
+    with anyio.fail_after(timeout):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\anyio\_core\_tasks.py", line 119, in __exit__
+    raise TimeoutError
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 60, in map_httpcore_exceptions
+    yield
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 291, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 253, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection_pool.py", line 237, in handle_async_request
+    response = await connection.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\connection.py", line 90, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 102, in handle_async_request
+    raise exc
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 81, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 143, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_async\http11.py", line 172, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\backends\asyncio.py", line 28, in read
+    with map_exceptions(exc_map):
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc)
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 757, in get_latest_payment_requests
+    res = await fetch(core.payment_history_link)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\My Drive\Monitors\pocketoption2\main.py", line 79, in fetch
+    return await core.session.get(url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1736, in get
+    return await self.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1513, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1600, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1628, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1665, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_client.py", line 1702, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 290, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Program Files\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\brenopoubel\AppData\Roaming\Python\Python312\site-packages\httpx\_transports\default.py", line 77, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+2024-04-19 07:01:06,335 - pocketoption - DEBUG - First Check -> Latest ID: 157622 | Existing ID: 157622
+2024-04-19 07:01:06,383 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-04-19 07:01:08,762 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 157622
+2024-04-19 07:59:01,886 - pocketoption - DEBUG - Old session worked fine.
+2024-04-19 07:59:03,950 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-19 07:59:03,950 - pocketoption - DEBUG - Total time taken to perform the task: 3.5 seconds
+2024-04-19 08:00:00,977 - pocketoption - INFO - Target [ID:610323477]: success
+2024-04-19 08:00:01,227 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-04-19 08:01:01,729 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-04-19 08:01:01,729 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-04-19 08:01:02,699 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-04-19 08:59:02,196 - pocketoption - DEBUG - Old session worked fine.
+2024-04-19 08:59:03,807 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-19 08:59:03,807 - pocketoption - DEBUG - Total time taken to perform the task: 3.39 seconds
+2024-04-19 09:00:00,348 - pocketoption - DEBUG - No change detected!!
+2024-04-19 09:01:01,974 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-04-19 09:01:01,974 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-04-19 09:01:02,880 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-04-19 09:59:01,668 - pocketoption - DEBUG - Old session worked fine.
+2024-04-19 09:59:03,575 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-19 09:59:03,575 - pocketoption - DEBUG - Total time taken to perform the task: 3.41 seconds
+2024-04-19 10:00:01,500 - pocketoption - INFO - Target [ID:610323477]: success
+2024-04-19 10:00:01,766 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-04-19 10:01:02,190 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-04-19 10:01:02,190 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-04-19 10:01:03,081 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862
+2024-04-19 10:59:01,483 - pocketoption - DEBUG - Old session worked fine.
+2024-04-19 10:59:03,811 - pocketoption - DEBUG - Processed -> Statistics -> Current week
+2024-04-19 10:59:03,811 - pocketoption - DEBUG - Total time taken to perform the task: 3.8 seconds
+2024-04-19 11:00:00,923 - pocketoption - INFO - Target [ID:610323477]: success
+2024-04-19 11:00:01,252 - pocketoption - INFO - Target [ID:1838317981]: success
+2024-04-19 11:01:01,646 - pocketoption - DEBUG - First Check -> Latest ID: 159862 | Existing ID: 159862
+2024-04-19 11:01:01,662 - pocketoption - DEBUG - Auto-Withdrawal is currently off!!
+2024-04-19 11:01:02,615 - pocketoption - DEBUG - Second Check -> Latest ID: 159862 | Existing ID: 159862

@@ -1,0 +1,9 @@
+🏧 Withdrawal requested
+ℹ️ Request initiated: Bot
+ℹ️ Balance type: Balance
+💲 Amount: $30996.0
+
+
+ℹ️ Payment method: 🏦 Wallet
+=========================
+Tether TRC20: TC6cJHMkqW6rQbgb6NyCMGda8AvTG7g71r
